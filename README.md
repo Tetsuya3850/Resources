@@ -36,9 +36,21 @@
 * [ATOM](https://atom.io/)
 * [Atom Flight Manual](http://flight-manual.atom.io/)
 
+#### Fonts
+
+* [Google Fonts](https://fonts.google.com/)
+
 #### JavaScript landscape
 
 * [the STATE of JavaScript 2016](http://stateofjs.com/)
 
 
+## UX Design
 
+#### Books
+* [The Elements of User Experience](https://www.amazon.com/Elements-User-Experience-User-Centered-Design/dp/0321683684/ref=sr_1_1?ie=UTF8&qid=1492827574&sr=8-1&keywords=the+elements+of+user+experience)
+* [Don't Make Me Think](https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515/ref=sr_1_1?ie=UTF8&qid=1492827633&sr=8-1&keywords=don%27t+make+me+think)
+
+#### Tools
+
+* [Adobe Experience Design CC](http://www.adobe.com/jp/products/experience-design.html)
