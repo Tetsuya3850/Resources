@@ -41,6 +41,10 @@
 * [ATOM](https://atom.io/)
 * [Atom Flight Manual](http://flight-manual.atom.io/)
 
+#### Version Control
+* [git](https://git-scm.com/)
+* [GIT CHEAT SHEET](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
+
 #### Fonts
 
 * [Google Fonts](https://fonts.google.com/)
