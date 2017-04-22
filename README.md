@@ -6,6 +6,10 @@
 
 * [Why Learning to Code is So Damn Hard](https://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard)
 
+#### Google
+
+* [Google](https://google.com)
+
 #### Landscape
 
 * [Developer Survey Results 2016](http://stackoverflow.com/insights/survey/2016)
@@ -35,6 +39,7 @@
 * [The Hidden Worlds of the National Parks](https://artsandculture.withgoogle.com/en-us/national-parks-service)
 * [Spiber Inc.](https://www.spiber.jp/en)
 * [earth ::](https://earth.nullschool.net/)
+* [Sensorium](http://www.sensorium.org/)
 
 ## Front-End Web Development
 
@@ -44,6 +49,7 @@
 
 #### Version Control
 * [git](https://git-scm.com/)
+* [git - the simple guide](http://rogerdudler.github.io/git-guide/)
 * [GIT CHEAT SHEET](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
 
 #### Fonts
@@ -56,13 +62,31 @@
 
 #### JavaScript Landscape
 
-* [the STATE of JavaScript 2016](http://stateofjs.com/)
 * [How it feels to learn JavaScript in 2016](https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f)
+* [the STATE of JavaScript 2016](http://stateofjs.com/)
 * [State of the Art JavaScript in 2016](https://medium.com/javascript-and-opinions/state-of-the-art-javascript-in-2016-ab67fc68eb0b)
+* [The best of JavaScript, HTML, CSS](http://bestof.js.org/)
 
 #### JavaScript Books
 
 * [Eloquent JavaScript](http://eloquentjavascript.net/)
+
+#### React
+
+* [React](https://facebook.github.io/react/)
+
+#### Redux
+
+* [Redux](http://redux.js.org/)
+
+#### CSS
+
+* [BEM](https://en.bem.info/methodology/quick-start/)
+
+#### npm
+
+* [Node.js](https://nodejs.org/en/)
+* [npm](https://www.npmjs.com/)
 
 
 ## UX Design
