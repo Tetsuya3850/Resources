@@ -44,6 +44,10 @@
 
 * [Google Fonts](https://fonts.google.com/)
 
+#### Optimization
+
+* [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
+
 #### JavaScript Landscape
 
 * [the STATE of JavaScript 2016](http://stateofjs.com/)
