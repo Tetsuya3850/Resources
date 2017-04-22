@@ -18,6 +18,13 @@
 
 * [Udacity](https://www.udacity.com/)
 
+#### Role Model Websites
+
+* [NIPPON COLORS](http://nipponcolors.com/)
+* [WASARA](http://www.wasara.jp/)
+* [べにや無可有](http://mukayu.com/)
+* [Navigating Responsibility](http://www.navigatingresponsibly.dk/)
+
 ## Front-End Web Development
 
 #### JavaScript landscape
