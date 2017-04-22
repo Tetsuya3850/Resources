@@ -10,6 +10,10 @@
 
 * [Google](https://google.com)
 
+#### Fundamentals
+* [Google Web Fundamentals](https://developers.google.com/web/fundamentals/)
+* [Mozilla Developer Network Web technology for developers](https://developer.mozilla.org/en-US/docs/Web)
+
 #### Landscape
 
 * [Developer Survey Results 2016](http://stackoverflow.com/insights/survey/2016)
@@ -52,9 +56,10 @@
 * [git - the simple guide](http://rogerdudler.github.io/git-guide/)
 * [GIT CHEAT SHEET](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
 
-#### Fonts
+#### Fonts & Icons
 
 * [Google Fonts](https://fonts.google.com/)
+* [WE LOVE ICON FONTS](http://weloveiconfonts.com/)
 
 #### Optimization
 
@@ -87,7 +92,7 @@
 
 * [Node.js](https://nodejs.org/en/)
 * [npm](https://www.npmjs.com/)
-
+* [npm-scripts](https://docs.npmjs.com/misc/scripts)
 
 ## UX Design
 
