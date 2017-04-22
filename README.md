@@ -2,6 +2,10 @@
 
 ## General
 
+#### Mindset
+
+* [Why Learning to Code is So Damn Hard](https://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard)
+
 #### Landscape
 
 * [Developer Survey Results 2016](http://stackoverflow.com/insights/survey/2016)
@@ -40,9 +44,14 @@
 
 * [Google Fonts](https://fonts.google.com/)
 
-#### JavaScript landscape
+#### JavaScript Landscape
 
 * [the STATE of JavaScript 2016](http://stateofjs.com/)
+* [How it feels to learn JavaScript in 2016](https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f)
+
+#### JavaScript Books
+
+* [Eloquent JavaScript](http://eloquentjavascript.net/)
 
 
 ## UX Design
