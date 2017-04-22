@@ -32,6 +32,10 @@
 
 ## Front-End Web Development
 
+#### Text Editor
+* [ATOM](https://atom.io/)
+* [Atom Flight Manual](http://flight-manual.atom.io/)
+
 #### JavaScript landscape
 
 * [the STATE of JavaScript 2016](http://stateofjs.com/)
