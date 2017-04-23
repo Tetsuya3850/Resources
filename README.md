@@ -47,6 +47,9 @@
 
 ## Front-End Web Development
 
+#### Browser
+* [Google Chrome](https://www.google.com/intl/en/chrome/browser/canary.html)
+
 #### Text Editor
 * [ATOM](https://atom.io/)
 * [Atom Flight Manual](http://flight-manual.atom.io/)
@@ -87,6 +90,7 @@
 #### Redux
 
 * [Redux](http://redux.js.org/)
+* [Redux DevTools](https://github.com/gaearon/redux-devtools)
 
 #### CSS
 
@@ -97,6 +101,10 @@
 * [Node.js](https://nodejs.org/en/)
 * [npm](https://www.npmjs.com/)
 * [npm-scripts](https://docs.npmjs.com/misc/scripts)
+
+#### Hosting
+* [GitHub Pages](https://pages.github.com/)
+
 
 ## UX Design
 
