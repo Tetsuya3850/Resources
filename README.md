@@ -81,6 +81,8 @@
 * [React](https://facebook.github.io/react/)
 * [Tutorial: Intro To React](https://facebook.github.io/react/tutorial/tutorial.html)
 * [React Get Started](https://facebook.github.io/react/docs/hello-world.html)
+* [React Fundamentals by ReactTraining.com](https://reacttraining.com/online/react-fundamentals)
+* [FULLSTACK REACT](https://www.fullstackreact.com/)
 
 #### Redux
 
