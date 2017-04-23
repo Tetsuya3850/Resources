@@ -79,6 +79,8 @@
 #### React
 
 * [React](https://facebook.github.io/react/)
+* [Tutorial: Intro To React](https://facebook.github.io/react/tutorial/tutorial.html)
+* [React Get Started](https://facebook.github.io/react/docs/hello-world.html)
 
 #### Redux
 
