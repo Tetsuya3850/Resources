@@ -90,6 +90,7 @@
 #### Redux
 
 * [Redux](http://redux.js.org/)
+* [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux)
 * [Redux DevTools](https://github.com/gaearon/redux-devtools)
 
 #### CSS
