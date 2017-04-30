@@ -20,7 +20,14 @@
 
 #### Asking Questions
 
+* [Stack Overflow](https://stackoverflow.com/)
 * [How To Ask Questions The Smart Way](http://www.catb.org/~esr/faqs/smart-questions.html)
+
+#### Networking
+* [LinkedIn](https://www.linkedin.com/feed/)
+
+#### Code Sharing
+* [GitHub](https://github.com/)
 
 #### Browser Support
 
