@@ -70,6 +70,7 @@
 
 * [Google Fonts](https://fonts.google.com/)
 * [WE LOVE ICON FONTS](http://weloveiconfonts.com/)
+* [Font Awesome](http://fontawesome.io/)
 
 #### Optimization
 
