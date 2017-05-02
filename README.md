@@ -95,6 +95,8 @@
 * [React Fundamentals by ReactTraining.com](https://reacttraining.com/online/react-fundamentals)
 * [FULLSTACK REACT](https://www.fullstackreact.com/)
 * [react-redux-links](https://github.com/markerikson/react-redux-links)
+* [create-react-app](https://github.com/facebookincubator/create-react-app)
+* [react-router](https://github.com/ReactTraining/react-router)
 
 #### Redux
 
