@@ -29,6 +29,9 @@
 #### Code Sharing
 * [GitHub](https://github.com/)
 
+#### Liscence
+* [Choose a License](https://choosealicense.com/)
+
 #### Browser Support
 
 * [Can I use... Support tables for HTML5, CSS3, etc](http://caniuse.com/#home)
