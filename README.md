@@ -14,6 +14,10 @@
 * [Google Web Fundamentals](https://developers.google.com/web/fundamentals/)
 * [Mozilla Developer Network Web technology for developers](https://developer.mozilla.org/en-US/docs/Web)
 
+#### Career
+* [How I joined Google](https://medium.com/google-design/how-i-joined-google-9bdb2d8bcb60)
+* ['How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft' by Sean Lee](https://www.youtube.com/watch?v=YJZCUhxNCv8)
+
 #### Landscape
 
 * [Developer Survey Results 2016](http://stackoverflow.com/insights/survey/2016)
