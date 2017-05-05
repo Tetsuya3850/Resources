@@ -117,7 +117,11 @@
 * [BEM](https://en.bem.info/methodology/quick-start/)
 
 #### API
+* (Fetch)[]
 
+#### Testing
+* [Jest Docs](http://facebook.github.io/jest/docs/api.html)
+* [Enzyme with Jest Docs](http://airbnb.io/enzyme/docs/guides/jest.html)
 
 #### npm
 
