@@ -117,7 +117,7 @@
 * [BEM](https://en.bem.info/methodology/quick-start/)
 
 #### API
-* (Fetch)[]
+* [Fetch]()
 
 #### Testing
 * [Jest Docs](http://facebook.github.io/jest/docs/api.html)
