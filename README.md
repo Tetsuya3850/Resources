@@ -90,6 +90,10 @@
 * [State of the Art JavaScript in 2016](https://medium.com/javascript-and-opinions/state-of-the-art-javascript-in-2016-ab67fc68eb0b)
 * [The best of JavaScript, HTML, CSS](http://bestof.js.org/)
 
+#### Modern JavaScript
+* [Introduction to fetch()](https://developers.google.com/web/updates/2015/03/introduction-to-fetch?hl=en)
+* [github/fetch](https://github.com/github/fetch)
+
 #### JavaScript Books
 
 * [Eloquent JavaScript](http://eloquentjavascript.net/)
