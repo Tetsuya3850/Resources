@@ -91,6 +91,7 @@
 * [State of the Art JavaScript in 2016](https://medium.com/javascript-and-opinions/state-of-the-art-javascript-in-2016-ab67fc68eb0b)
 * [The best of JavaScript, HTML, CSS](http://bestof.js.org/)
 * [The (R)Evolution of Web Development](http://blog.isquaredsoftware.com/presentations/2016-10-revolution-of-web-dev/#/?_k=c7mjfu)
+* [Simplified JS Jargon](http://jargon.js.org/)
 
 #### Modern JavaScript
 * [ES6 Overview in 350 Bullet Points](https://ponyfoo.com/articles/es6)
