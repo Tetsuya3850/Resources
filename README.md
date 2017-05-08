@@ -92,12 +92,15 @@
 * [The best of JavaScript, HTML, CSS](http://bestof.js.org/)
 
 #### Modern JavaScript
+* [ES6 Overview in 350 Bullet Points](https://ponyfoo.com/articles/es6)
 * [Introduction to fetch()](https://developers.google.com/web/updates/2015/03/introduction-to-fetch?hl=en)
 * [github/fetch](https://github.com/github/fetch)
 
 #### JavaScript Books
 
 * [Eloquent JavaScript](http://eloquentjavascript.net/)
+
+
 
 #### React
 
@@ -125,7 +128,6 @@
 * [BEM](https://en.bem.info/methodology/quick-start/)
 
 #### API
-* [Fetch]()
 
 #### Testing
 * [Jest Docs](http://facebook.github.io/jest/docs/api.html)
