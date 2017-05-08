@@ -116,6 +116,9 @@
 * [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux)
 * [Redux DevTools](https://github.com/gaearon/redux-devtools)
 
+#### Webpack
+* [Webpack — The Confusing Parts](https://medium.com/@rajaraodv/webpack-the-confusing-parts-58712f8fcad9)
+
 #### CSS
 
 * [BEM](https://en.bem.info/methodology/quick-start/)
