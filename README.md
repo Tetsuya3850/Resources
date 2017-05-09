@@ -22,6 +22,7 @@
 #### Landscape
 
 * [Developer Survey Results 2016](http://stackoverflow.com/insights/survey/2016)
+* [Web Developer Roadmap 2017](https://github.com/kamranahmedse/developer-roadmap)
 
 #### Asking Questions
 
