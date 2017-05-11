@@ -98,7 +98,8 @@
 * [Simplified JS Jargon](http://jargon.js.org/)
 
 #### Modern JavaScript
-* [ES6 Overview in 350 Bullet Points](https://ponyfoo.com/articles/es6)
+* [Learn ES2015](https://babeljs.io/learn-es2015/)
+* [A Rundown of JavaScript 2015 Features](https://auth0.com/blog/a-rundown-of-es6-features/)
 * [Introduction to fetch()](https://developers.google.com/web/updates/2015/03/introduction-to-fetch?hl=en)
 * [github/fetch](https://github.com/github/fetch)
 
