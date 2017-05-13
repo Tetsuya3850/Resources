@@ -86,6 +86,10 @@
 
 * [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
 
+#### Debugging
+
+* [Explore and Master Chrome DevTools]((http://discover-devtools.codeschool.com/)
+
 #### JavaScript Landscape
 
 * [Web Development In 2017 - A Practical Guide](https://www.youtube.com/watch?v=9hDKfBKuXjI)
