@@ -125,6 +125,7 @@
 * [create-react-app](https://github.com/facebookincubator/create-react-app)
 * [react-router](https://github.com/ReactTraining/react-router)
 * [Simple React Development in 2017](https://hackernoon.com/simple-react-development-in-2017-113bd563691f)
+* [Tips to learn React + Redux in 2017](https://www.robinwieruch.de/tips-to-learn-react-redux/)
 
 #### Redux
 
