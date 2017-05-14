@@ -144,6 +144,9 @@
 
 #### API
 
+#### Code Linting
+* [ESLint](https://github.com/eslint/eslint)
+
 #### Testing
 * [Jest Docs](http://facebook.github.io/jest/docs/api.html)
 * [Enzyme with Jest Docs](http://airbnb.io/enzyme/docs/guides/jest.html)
