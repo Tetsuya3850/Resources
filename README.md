@@ -35,6 +35,7 @@
 
 #### Code Sharing
 * [GitHub](https://github.com/)
+* [gitignore](https://help.github.com/articles/ignoring-files/)
 
 #### Liscence
 * [Choose a License](https://choosealicense.com/)
