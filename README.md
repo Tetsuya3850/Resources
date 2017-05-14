@@ -126,6 +126,7 @@
 * [react-router](https://github.com/ReactTraining/react-router)
 * [Simple React Development in 2017](https://hackernoon.com/simple-react-development-in-2017-113bd563691f)
 * [Tips to learn React + Redux in 2017](https://www.robinwieruch.de/tips-to-learn-react-redux/)
+* [Presentational and Container Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0)
 
 #### Redux
 
