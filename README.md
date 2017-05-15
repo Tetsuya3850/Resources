@@ -86,6 +86,7 @@
 
 #### Optimization
 
+* [Measure Performance with the RAIL Model](https://developers.google.com/web/fundamentals/performance/rail)
 * [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
 
 #### Debugging
