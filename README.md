@@ -91,6 +91,7 @@
 #### Debugging
 
 * [Explore and Master Chrome DevTools]((http://discover-devtools.codeschool.com/)
+* [Chrome DevTools Overview](https://developer.chrome.com/devtools)
 
 #### JavaScript Landscape
 
