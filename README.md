@@ -177,5 +177,5 @@
 * [Adobe Experience Design CC](http://www.adobe.com/jp/products/experience-design.html)
 
 
-[Painting with Code](Introducing our new open source library React Sketch.app.)
-[Modern Design Tools: Using Real Data](https://medium.com/bridge-collection/modern-design-tools-using-real-data-62d499e97482)
+* [Painting with Code](Introducing our new open source library React Sketch.app.)
+* [Modern Design Tools: Using Real Data](https://medium.com/bridge-collection/modern-design-tools-using-real-data-62d499e97482)
