@@ -31,6 +31,9 @@
 * [Stack Overflow](https://stackoverflow.com/)
 * [How To Ask Questions The Smart Way](http://www.catb.org/~esr/faqs/smart-questions.html)
 
+#### Good Read
+* [Medium](https://medium.com/)
+
 #### Soft Skills
 * [Soft Skills: The software developer's life manual](https://www.amazon.com/Soft-Skills-software-developers-manual/dp/1617292397/ref=sr_1_1?ie=UTF8&qid=1495198784&sr=8-1&keywords=soft+skills)
 
