@@ -84,6 +84,9 @@
 * [git - the simple guide](http://rogerdudler.github.io/git-guide/)
 * [GIT CHEAT SHEET](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
 
+#### Play Ground
+* [CodePen](http://codepen.io/)
+
 #### Fonts & Icons
 
 * [Google Fonts](https://fonts.google.com/)
