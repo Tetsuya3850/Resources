@@ -119,6 +119,7 @@
 * [A Rundown of JavaScript 2015 Features](https://auth0.com/blog/a-rundown-of-es6-features/)
 * [Introduction to fetch()](https://developers.google.com/web/updates/2015/03/introduction-to-fetch?hl=en)
 * [github/fetch](https://github.com/github/fetch)
+* [Anjana Vakil: Learning Functional Programming with JavaScript - JSUnconf 2016](https://www.youtube.com/watch?v=e-5obm1G_FY)
 
 #### JavaScript Books
 
