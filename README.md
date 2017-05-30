@@ -143,6 +143,7 @@
 * [Immutable Javascript using ES6 and beyond](https://wecodetheweb.com/2016/02/12/immutable-javascript-using-es6-and-beyond/)
 * [React AJAX Best Practices](http://andrewhfarmer.com/react-ajax-best-practices/)
 * [The Component Lifecycle](https://www.kirupa.com/react/component_lifecycle.htm)
+* [What to use for React Styling?](http://andrewhfarmer.com/how-to-style-react/)
 
 #### Redux
 
