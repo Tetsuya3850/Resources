@@ -144,6 +144,7 @@
 * [React AJAX Best Practices](http://andrewhfarmer.com/react-ajax-best-practices/)
 * [The Component Lifecycle](https://www.kirupa.com/react/component_lifecycle.htm)
 * [What to use for React Styling?](http://andrewhfarmer.com/how-to-style-react/)
+* [React.js Forms: Controlled Components](http://lorenstewart.me/2016/10/31/react-js-forms-controlled-components/)
 
 #### Redux
 
