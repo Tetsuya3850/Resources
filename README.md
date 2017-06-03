@@ -186,6 +186,7 @@
 * [MongoDB University](https://university.mongodb.com/)
 * [Express API reference](https://expressjs.com/en/4x/api.html)
 * [File System](https://nodejs.org/api/fs.html#fs_fs_readfile_path_options_callback)
+* [Path](https://nodejs.org/api/path.html)
 
 ## UX Design
 
