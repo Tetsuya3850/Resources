@@ -6,7 +6,9 @@
 * [Medium](https://medium.com/)
 * [LinkedIn](https://www.linkedin.com)
 
+
 ## Big Picture
+
 * [Developer Survey Results 2016](http://stackoverflow.com/insights/survey/2016)
 * [Web Development In 2017 - A Practical Guide](https://www.youtube.com/watch?v=9hDKfBKuXjI)
 * [Web Developer Roadmap 2017](https://github.com/kamranahmedse/developer-roadmap)
@@ -15,6 +17,7 @@
 * [State of the Art JavaScript in 2016](https://medium.com/javascript-and-opinions/state-of-the-art-javascript-in-2016-ab67fc68eb0b)
 * [the STATE of JavaScript 2016](http://stateofjs.com/)
 * [Why Learning to Code is So Damn Hard](https://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard)
+
 
 ## Development Stack
 
@@ -34,9 +37,9 @@
 * [Sketch](https://www.sketchapp.com/)
 * [Adobe CC](http://www.adobe.com/creativecloud.html)
 * [Node.js](https://nodejs.org/en/)
-* [Express](https://expressjs.com/)
 * [MongoDB](https://www.mongodb.com/)
 * [Heroku](https://www.heroku.com/)
+
 
 ## JavaScript
 * [The best of JavaScript, HTML, CSS](http://bestof.js.org/)
@@ -44,6 +47,7 @@
 * [A Rundown of JavaScript 2015 Features](https://auth0.com/blog/a-rundown-of-es6-features/)
 * [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
+
 
 ## React/Redux
 
@@ -71,6 +75,7 @@
 * [Heroku Buildpack for create-react-app](https://github.com/mars/create-react-app-buildpack)
 * [create-react-app with a Node server on Heroku](https://github.com/mars/heroku-cra-node)
 
+
 ## UX Design
 
 * [The Elements of User Experience](https://www.amazon.com/Elements-User-Experience-User-Centered-Design/dp/0321683684/ref=sr_1_1?ie=UTF8&qid=1492827574&sr=8-1&keywords=the+elements+of+user+experience)
@@ -79,7 +84,10 @@
 * [Painting with Code](https://airbnb.design/painting-with-code/)
 * [Modern Design Tools: Using Real Data](https://medium.com/bridge-collection/modern-design-tools-using-real-data-62d499e97482)
 
+
 ## Node.js/Express/MongoDB
+
+* [Express API](https://expressjs.com/en/api.html)
 * [MongoDB University](https://university.mongodb.com/)
 
 
@@ -95,10 +103,12 @@
 
 
 ## Career
+
 * [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-6th-Edition/dp/0984782850)
 * [I spent 3 months applying to jobs after a coding bootcamp. Here’s what I learned.](https://medium.freecodecamp.com/5-key-learnings-from-the-post-bootcamp-job-search-9a07468d2331)
 * ['How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft' by Sean Lee](https://www.youtube.com/watch?v=YJZCUhxNCv8)
 * [Front-end Job Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
+
 
 ## Others
 
@@ -112,7 +122,10 @@
 * [Can I use... Support tables for HTML5, CSS3, etc](http://caniuse.com/#home)
 * [.gitignore templates](https://github.com/github/gitignore)
 
+
 ## Learn More
+
 * [Google Web Fundamentals](https://developers.google.com/web/fundamentals/)
 * [Mozilla Developer Network Web technology for developers](https://developer.mozilla.org/en-US/docs/Web)
 * [Awesome](https://github.com/sindresorhus/awesome)
+
