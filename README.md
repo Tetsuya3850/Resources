@@ -30,10 +30,6 @@
 * [f.lux](https://justgetflux.com/)
 * [npm](https://www.npmjs.com/)
 * [webpack](https://webpack.github.io/)
-* [Babel](https://babeljs.io/)
-* [ESLint](https://github.com/eslint/eslint)
-* [Jest](http://facebook.github.io/jest/docs/api.html)
-* [Enzyme with Jest](http://airbnb.io/enzyme/docs/guides/jest.html)
 * [Sketch](https://www.sketchapp.com/)
 * [Adobe CC](http://www.adobe.com/creativecloud.html)
 * [Node.js](https://nodejs.org/en/)
@@ -47,7 +43,10 @@
 * [A Rundown of JavaScript 2015 Features](https://auth0.com/blog/a-rundown-of-es6-features/)
 * [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
-
+* [Babel](https://babeljs.io/)
+* [ESLint](https://github.com/eslint/eslint)
+* [Jest](http://facebook.github.io/jest/docs/api.html)
+* [Enzyme](http://airbnb.io/enzyme/docs/guides/jest.html)
 
 ## React/Redux
 
