@@ -12,8 +12,10 @@
 * [Web Developer Roadmap 2017](https://github.com/kamranahmedse/developer-roadmap)
 * [The (R)Evolution of Web Development](http://blog.isquaredsoftware.com/presentations/2016-10-revolution-of-web-dev/#/?_k=c7mjfu)
 * [How it feels to learn JavaScript in 2016](https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f)
+* [State of the Art JavaScript in 2016](https://medium.com/javascript-and-opinions/state-of-the-art-javascript-in-2016-ab67fc68eb0b)
+* [the STATE of JavaScript 2016](http://stateofjs.com/)
 
-## Development Environment
+## Development Stack
 
 * [Google Chrome](https://www.google.com/intl/en/chrome/browser/canary.html)
 * [Chrome DevTools](https://developer.chrome.com/devtools)
@@ -27,9 +29,11 @@
 * [Jest Docs](http://facebook.github.io/jest/docs/api.html)
 * [Enzyme with Jest Docs](http://airbnb.io/enzyme/docs/guides/jest.html)
 * [Sketch](https://www.sketchapp.com/)
+* [Express](https://expressjs.com/)
+* [MongoDB](https://www.mongodb.com/)
 
 ## JavaScript
-
+* [The best of JavaScript, HTML, CSS](http://bestof.js.org/)
 * [Learn ES2015](https://babeljs.io/learn-es2015/)
 * [A Rundown of JavaScript 2015 Features](https://auth0.com/blog/a-rundown-of-es6-features/)
 
@@ -65,6 +69,9 @@
 * [Painting with Code](https://airbnb.design/painting-with-code/)
 * [Modern Design Tools: Using Real Data](https://medium.com/bridge-collection/modern-design-tools-using-real-data-62d499e97482)
 
+## Node.js/Express/MongoDB
+* [MongoDB University](https://university.mongodb.com/)
+
 
 ## Role Model
 
@@ -89,7 +96,7 @@
 * [2017 is the year that front-end developers should go back and master the basics](https://medium.freecodecamp.com/what-to-learn-in-2017-if-youre-a-frontend-developer-b6cfef46effd)
 * [Font Awesome](http://fontawesome.io/)
 * [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
-
+* [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 
 
 
@@ -108,17 +115,10 @@
 * [I spent 3 months applying to jobs after a coding bootcamp. Here’s what I learned.](https://medium.freecodecamp.com/5-key-learnings-from-the-post-bootcamp-job-search-9a07468d2331)
 * [Who Y Combinator Companies Want](http://blog.triplebyte.com/who-y-combinator-companies-want)
 
-
-
-
 * [gitignore](https://help.github.com/articles/ignoring-files/)
 
 #### Browser Support
 * [Can I use... Support tables for HTML5, CSS3, etc](http://caniuse.com/#home)
-
-#### Writing README.md
-
-* [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 
 #### Version Control
 
@@ -127,16 +127,4 @@
 
 
 #### JavaScript Landscape
-
-* [State of the Art JavaScript in 2016](https://medium.com/javascript-and-opinions/state-of-the-art-javascript-in-2016-ab67fc68eb0b)
-
-* [the STATE of JavaScript 2016](http://stateofjs.com/)
-* [The best of JavaScript, HTML, CSS](http://bestof.js.org/)
 * [Simplified JS Jargon](http://jargon.js.org/)
-
-
-## Back-End Web Development
-
-* [MongoDB University](https://university.mongodb.com/)
-* [Express API reference](https://expressjs.com/en/4x/api.html)
-* [File System](https://nodejs.org/api/fs.html#fs_fs_readfile_path_options_callback)
