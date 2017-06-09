@@ -21,7 +21,6 @@
 * [Chrome DevTools](https://developer.chrome.com/devtools)
 * [ATOM](https://atom.io/)
 * [git](https://git-scm.com/)
-* [Node.js](https://nodejs.org/en/)
 * [npm](https://www.npmjs.com/)
 * [webpack](https://webpack.github.io/)
 * [Babel](https://babeljs.io/)
@@ -29,8 +28,10 @@
 * [Jest](http://facebook.github.io/jest/docs/api.html)
 * [Enzyme with Jest](http://airbnb.io/enzyme/docs/guides/jest.html)
 * [Sketch](https://www.sketchapp.com/)
+* [Node.js](https://nodejs.org/en/)
 * [Express](https://expressjs.com/)
 * [MongoDB](https://www.mongodb.com/)
+* [Heroku](https://www.heroku.com/)
 
 ## JavaScript
 * [The best of JavaScript, HTML, CSS](http://bestof.js.org/)
