@@ -7,7 +7,11 @@
 * [LinkedIn](https://www.linkedin.com)
 
 ## Big Picture
-
+* [Developer Survey Results 2016](http://stackoverflow.com/insights/survey/2016)
+* [Web Development In 2017 - A Practical Guide](https://www.youtube.com/watch?v=9hDKfBKuXjI)
+* [Web Developer Roadmap 2017](https://github.com/kamranahmedse/developer-roadmap)
+* [The (R)Evolution of Web Development](http://blog.isquaredsoftware.com/presentations/2016-10-revolution-of-web-dev/#/?_k=c7mjfu)
+* [How it feels to learn JavaScript in 2016](https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f)
 
 ## Development Environment
 
@@ -23,6 +27,11 @@
 * [Jest Docs](http://facebook.github.io/jest/docs/api.html)
 * [Enzyme with Jest Docs](http://airbnb.io/enzyme/docs/guides/jest.html)
 * [Sketch](https://www.sketchapp.com/)
+
+## JavaScript
+
+* [Learn ES2015](https://babeljs.io/learn-es2015/)
+* [A Rundown of JavaScript 2015 Features](https://auth0.com/blog/a-rundown-of-es6-features/)
 
 ## React/Redux
 
@@ -42,7 +51,6 @@
 * [The Component Lifecycle](https://www.kirupa.com/react/component_lifecycle.htm)
 * [What to use for React Styling?](http://andrewhfarmer.com/how-to-style-react/)
 * [React.js Forms: Controlled Components](http://lorenstewart.me/2016/10/31/react-js-forms-controlled-components/)
-
 * [You Might Not Need Redux](https://medium.com/@dan_abramov/you-might-not-need-redux-be46360cf367)
 * [Redux](http://redux.js.org/)
 * [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux)
@@ -58,6 +66,34 @@
 * [Modern Design Tools: Using Real Data](https://medium.com/bridge-collection/modern-design-tools-using-real-data-62d499e97482)
 
 
+## Role Model
+
+* [NIPPON COLORS](http://nipponcolors.com/)
+* [WASARA](http://www.wasara.jp/)
+* [べにや無可有](http://mukayu.com/)
+* [Navigating Responsibility](http://www.navigatingresponsibly.dk/)
+* [The Hidden Worlds of the National Parks](https://artsandculture.withgoogle.com/en-us/national-parks-service)
+* [Spiber Inc.](https://www.spiber.jp/en)
+* [Sensorium](http://www.sensorium.org/)
+
+
+## Career
+* ['How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft' by Sean Lee](https://www.youtube.com/watch?v=YJZCUhxNCv8)
+
+
+## Others
+
+* [Soft Skills: The software developer's life manual](https://www.amazon.com/Soft-Skills-software-developers-manual/dp/1617292397/ref=sr_1_1?ie=UTF8&qid=1495198784&sr=8-1&keywords=soft+skills)
+* [How To Ask Questions The Smart Way](http://www.catb.org/~esr/faqs/smart-questions.html)
+* [Choose a License](https://choosealicense.com/)
+* [2017 is the year that front-end developers should go back and master the basics](https://medium.freecodecamp.com/what-to-learn-in-2017-if-youre-a-frontend-developer-b6cfef46effd)
+* [Font Awesome](http://fontawesome.io/)
+* [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
+
+
+
+
+
 #### Mindset
 
 * [Why Learning to Code is So Damn Hard](https://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard)
@@ -68,100 +104,35 @@
 
 #### Career
 * [How I joined Google](https://medium.com/google-design/how-i-joined-google-9bdb2d8bcb60)
-* ['How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft' by Sean Lee](https://www.youtube.com/watch?v=YJZCUhxNCv8)
+
 * [I spent 3 months applying to jobs after a coding bootcamp. Here’s what I learned.](https://medium.freecodecamp.com/5-key-learnings-from-the-post-bootcamp-job-search-9a07468d2331)
 * [Who Y Combinator Companies Want](http://blog.triplebyte.com/who-y-combinator-companies-want)
 
-#### Landscape
-
-* [Developer Survey Results 2016](http://stackoverflow.com/insights/survey/2016)
-* [Web Developer Roadmap 2017](https://github.com/kamranahmedse/developer-roadmap)
-* [2017 is the year that front-end developers should go back and master the basics](https://medium.freecodecamp.com/what-to-learn-in-2017-if-youre-a-frontend-developer-b6cfef46effd)
-
-#### Asking Questions
 
 
-* [How To Ask Questions The Smart Way](http://www.catb.org/~esr/faqs/smart-questions.html)
-
-#### Soft Skills
-* [Soft Skills: The software developer's life manual](https://www.amazon.com/Soft-Skills-software-developers-manual/dp/1617292397/ref=sr_1_1?ie=UTF8&qid=1495198784&sr=8-1&keywords=soft+skills)
-
-#### Code Sharing
 
 * [gitignore](https://help.github.com/articles/ignoring-files/)
 
-#### Liscence
-* [Choose a License](https://choosealicense.com/)
-
 #### Browser Support
-
 * [Can I use... Support tables for HTML5, CSS3, etc](http://caniuse.com/#home)
 
 #### Writing README.md
 
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 
-#### MOOC
-
-* [Udacity](https://www.udacity.com/)
-
-#### Role Model Websites
-
-* [NIPPON COLORS](http://nipponcolors.com/)
-* [WASARA](http://www.wasara.jp/)
-* [べにや無可有](http://mukayu.com/)
-* [Navigating Responsibility](http://www.navigatingresponsibly.dk/)
-* [The Hidden Worlds of the National Parks](https://artsandculture.withgoogle.com/en-us/national-parks-service)
-* [Spiber Inc.](https://www.spiber.jp/en)
-* [earth ::](https://earth.nullschool.net/)
-* [Sensorium](http://www.sensorium.org/)
-
-## Front-End Web Development
-
 #### Version Control
 
 * [git - the simple guide](http://rogerdudler.github.io/git-guide/)
 * [GIT CHEAT SHEET](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
 
-#### Fonts & Icons
-
-* [Google Fonts](https://fonts.google.com/)
-* [WE LOVE ICON FONTS](http://weloveiconfonts.com/)
-* [Font Awesome](http://fontawesome.io/)
-
-#### Optimization
-
-* [Measure Performance with the RAIL Model](https://developers.google.com/web/fundamentals/performance/rail)
-* [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
-
-#### Debugging
-
-* [Explore and Master Chrome DevTools](http://discover-devtools.codeschool.com/)
-
 
 #### JavaScript Landscape
 
-* [Web Development In 2017 - A Practical Guide](https://www.youtube.com/watch?v=9hDKfBKuXjI)
 * [State of the Art JavaScript in 2016](https://medium.com/javascript-and-opinions/state-of-the-art-javascript-in-2016-ab67fc68eb0b)
-* [How it feels to learn JavaScript in 2016](https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f)
+
 * [the STATE of JavaScript 2016](http://stateofjs.com/)
-* [State of the Art JavaScript in 2016](https://medium.com/javascript-and-opinions/state-of-the-art-javascript-in-2016-ab67fc68eb0b)
 * [The best of JavaScript, HTML, CSS](http://bestof.js.org/)
-* [The (R)Evolution of Web Development](http://blog.isquaredsoftware.com/presentations/2016-10-revolution-of-web-dev/#/?_k=c7mjfu)
 * [Simplified JS Jargon](http://jargon.js.org/)
-
-#### Modern JavaScript
-* [Learn ES2015](https://babeljs.io/learn-es2015/)
-* [A Rundown of JavaScript 2015 Features](https://auth0.com/blog/a-rundown-of-es6-features/)
-* [Introduction to fetch()](https://developers.google.com/web/updates/2015/03/introduction-to-fetch?hl=en)
-* [github/fetch](https://github.com/github/fetch)
-* [Anjana Vakil: Learning Functional Programming with JavaScript - JSUnconf 2016](https://www.youtube.com/watch?v=e-5obm1G_FY)
-
-#### JavaScript Books
-
-* [Eloquent JavaScript](http://eloquentjavascript.net/)
-
-
 
 
 ## Back-End Web Development
@@ -169,10 +140,3 @@
 * [MongoDB University](https://university.mongodb.com/)
 * [Express API reference](https://expressjs.com/en/4x/api.html)
 * [File System](https://nodejs.org/api/fs.html#fs_fs_readfile_path_options_callback)
-* [Path](https://nodejs.org/api/path.html)
-
-
-#### Tools
-
-* [Adobe Experience Design CC](http://www.adobe.com/jp/products/experience-design.html)
-
