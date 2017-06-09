@@ -62,7 +62,8 @@
 * [Redux](http://redux.js.org/)
 * [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux)
 * [Redux DevTools](https://github.com/gaearon/redux-devtools)
-
+* [Heroku Buildpack for create-react-app](https://github.com/mars/create-react-app-buildpack)
+* [create-react-app with a Node server on Heroku](https://github.com/mars/heroku-cra-node)
 
 ## UX Design
 
