@@ -12,7 +12,7 @@
 ## Development Environment
 
 * [Google Chrome](https://www.google.com/intl/en/chrome/browser/canary.html)
-* [Chrome DevTools Overview](https://developer.chrome.com/devtools)
+* [Chrome DevTools](https://developer.chrome.com/devtools)
 * [ATOM](https://atom.io/)
 * [git](https://git-scm.com/)
 * [Node.js](https://nodejs.org/en/)
@@ -22,10 +22,40 @@
 * [ESLint](https://github.com/eslint/eslint)
 * [Jest Docs](http://facebook.github.io/jest/docs/api.html)
 * [Enzyme with Jest Docs](http://airbnb.io/enzyme/docs/guides/jest.html)
+* [Sketch](https://www.sketchapp.com/)
+
+## React/Redux
+
+* [React](https://facebook.github.io/react/)
+* [Tutorial: Intro To React](https://facebook.github.io/react/tutorial/tutorial.html)
+* [React Get Started](https://facebook.github.io/react/docs/hello-world.html)
+* [React Fundamentals by ReactTraining.com](https://reacttraining.com/online/react-fundamentals)
+* [FULLSTACK REACT](https://www.fullstackreact.com/)
+* [react-redux-links](https://github.com/markerikson/react-redux-links)
+* [react-router](https://github.com/ReactTraining/react-router)
+* [Simple React Development in 2017](https://hackernoon.com/simple-react-development-in-2017-113bd563691f)
+* [Tips to learn React + Redux in 2017](https://www.robinwieruch.de/tips-to-learn-react-redux/)
+* [Presentational and Container Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0)
+* [Pros and Cons of using immutability with React.js](http://reactkungfu.com/2015/08/pros-and-cons-of-using-immutability-with-react-js/)
+* [Immutable Javascript using ES6 and beyond](https://wecodetheweb.com/2016/02/12/immutable-javascript-using-es6-and-beyond/)
+* [React AJAX Best Practices](http://andrewhfarmer.com/react-ajax-best-practices/)
+* [The Component Lifecycle](https://www.kirupa.com/react/component_lifecycle.htm)
+* [What to use for React Styling?](http://andrewhfarmer.com/how-to-style-react/)
+* [React.js Forms: Controlled Components](http://lorenstewart.me/2016/10/31/react-js-forms-controlled-components/)
+
+* [You Might Not Need Redux](https://medium.com/@dan_abramov/you-might-not-need-redux-be46360cf367)
+* [Redux](http://redux.js.org/)
+* [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux)
+* [Redux DevTools](https://github.com/gaearon/redux-devtools)
 
 
+## UX Design
 
-
+* [The Elements of User Experience](https://www.amazon.com/Elements-User-Experience-User-Centered-Design/dp/0321683684/ref=sr_1_1?ie=UTF8&qid=1492827574&sr=8-1&keywords=the+elements+of+user+experience)
+* [Don't Make Me Think](https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515/ref=sr_1_1?ie=UTF8&qid=1492827633&sr=8-1&keywords=don%27t+make+me+think)
+* [react-sketchapp](https://github.com/airbnb/react-sketchapp)
+* [Painting with Code](https://airbnb.design/painting-with-code/)
+* [Modern Design Tools: Using Real Data](https://medium.com/bridge-collection/modern-design-tools-using-real-data-62d499e97482)
 
 
 #### Mindset
@@ -132,34 +162,6 @@
 * [Eloquent JavaScript](http://eloquentjavascript.net/)
 
 
-#### React
-
-* [React](https://facebook.github.io/react/)
-* [Tutorial: Intro To React](https://facebook.github.io/react/tutorial/tutorial.html)
-* [React Get Started](https://facebook.github.io/react/docs/hello-world.html)
-* [React Fundamentals by ReactTraining.com](https://reacttraining.com/online/react-fundamentals)
-* [FULLSTACK REACT](https://www.fullstackreact.com/)
-* [react-redux-links](https://github.com/markerikson/react-redux-links)
-
-* [react-router](https://github.com/ReactTraining/react-router)
-* [Simple React Development in 2017](https://hackernoon.com/simple-react-development-in-2017-113bd563691f)
-* [Tips to learn React + Redux in 2017](https://www.robinwieruch.de/tips-to-learn-react-redux/)
-* [Presentational and Container Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0)
-* [Pros and Cons of using immutability with React.js](http://reactkungfu.com/2015/08/pros-and-cons-of-using-immutability-with-react-js/)
-* [Immutable Javascript using ES6 and beyond](https://wecodetheweb.com/2016/02/12/immutable-javascript-using-es6-and-beyond/)
-* [React AJAX Best Practices](http://andrewhfarmer.com/react-ajax-best-practices/)
-* [The Component Lifecycle](https://www.kirupa.com/react/component_lifecycle.htm)
-* [What to use for React Styling?](http://andrewhfarmer.com/how-to-style-react/)
-* [React.js Forms: Controlled Components](http://lorenstewart.me/2016/10/31/react-js-forms-controlled-components/)
-
-#### Redux
-
-* [You Might Not Need Redux](https://medium.com/@dan_abramov/you-might-not-need-redux-be46360cf367)
-* [Redux](http://redux.js.org/)
-* [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux)
-* [Redux DevTools](https://github.com/gaearon/redux-devtools)
-
-
 
 
 ## Back-End Web Development
@@ -169,14 +171,8 @@
 * [File System](https://nodejs.org/api/fs.html#fs_fs_readfile_path_options_callback)
 * [Path](https://nodejs.org/api/path.html)
 
-## UX Design
-
-#### Books
-* [The Elements of User Experience](https://www.amazon.com/Elements-User-Experience-User-Centered-Design/dp/0321683684/ref=sr_1_1?ie=UTF8&qid=1492827574&sr=8-1&keywords=the+elements+of+user+experience)
-* [Don't Make Me Think](https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515/ref=sr_1_1?ie=UTF8&qid=1492827633&sr=8-1&keywords=don%27t+make+me+think)
 
 #### Tools
 
 * [Adobe Experience Design CC](http://www.adobe.com/jp/products/experience-design.html)
-* [Painting with Code](https://airbnb.design/painting-with-code/)
-* [Modern Design Tools: Using Real Data](https://medium.com/bridge-collection/modern-design-tools-using-real-data-62d499e97482)
+
