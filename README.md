@@ -97,34 +97,14 @@
 * [Font Awesome](http://fontawesome.io/)
 * [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+* [Can I use... Support tables for HTML5, CSS3, etc](http://caniuse.com/#home)
 
-
-
-
-#### Mindset
-
-* [Why Learning to Code is So Damn Hard](https://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard)
-
-#### Fundamentals
+## Learn More
 * [Google Web Fundamentals](https://developers.google.com/web/fundamentals/)
 * [Mozilla Developer Network Web technology for developers](https://developer.mozilla.org/en-US/docs/Web)
 
-#### Career
-* [How I joined Google](https://medium.com/google-design/how-i-joined-google-9bdb2d8bcb60)
 
+* [Why Learning to Code is So Damn Hard](https://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard)
+* [How I joined Google](https://medium.com/google-design/how-i-joined-google-9bdb2d8bcb60)
 * [I spent 3 months applying to jobs after a coding bootcamp. Here’s what I learned.](https://medium.freecodecamp.com/5-key-learnings-from-the-post-bootcamp-job-search-9a07468d2331)
 * [Who Y Combinator Companies Want](http://blog.triplebyte.com/who-y-combinator-companies-want)
-
-* [gitignore](https://help.github.com/articles/ignoring-files/)
-
-#### Browser Support
-* [Can I use... Support tables for HTML5, CSS3, etc](http://caniuse.com/#home)
-
-#### Version Control
-
-* [git - the simple guide](http://rogerdudler.github.io/git-guide/)
-* [GIT CHEAT SHEET](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
-
-
-#### JavaScript Landscape
-* [Simplified JS Jargon](http://jargon.js.org/)
