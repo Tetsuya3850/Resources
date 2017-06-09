@@ -1,14 +1,36 @@
-# Good-Resource
+## Basic Tools
 
-## General
+* [Google](https://google.com)
+* [GitHub](https://github.com/)
+* [Stack Overflow](https://stackoverflow.com/)
+* [Medium](https://medium.com/)
+* [LinkedIn](https://www.linkedin.com)
+
+## Big Picture
+
+
+## Development Environment
+
+* [Google Chrome](https://www.google.com/intl/en/chrome/browser/canary.html)
+* [Chrome DevTools Overview](https://developer.chrome.com/devtools)
+* [ATOM](https://atom.io/)
+* [git](https://git-scm.com/)
+* [Node.js](https://nodejs.org/en/)
+* [npm](https://www.npmjs.com/)
+* [webpack](https://webpack.github.io/)
+* [Babel](https://babeljs.io/)
+* [ESLint](https://github.com/eslint/eslint)
+* [Jest Docs](http://facebook.github.io/jest/docs/api.html)
+* [Enzyme with Jest Docs](http://airbnb.io/enzyme/docs/guides/jest.html)
+
+
+
+
+
 
 #### Mindset
 
 * [Why Learning to Code is So Damn Hard](https://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard)
-
-#### Google
-
-* [Google](https://google.com)
 
 #### Fundamentals
 * [Google Web Fundamentals](https://developers.google.com/web/fundamentals/)
@@ -28,20 +50,14 @@
 
 #### Asking Questions
 
-* [Stack Overflow](https://stackoverflow.com/)
-* [How To Ask Questions The Smart Way](http://www.catb.org/~esr/faqs/smart-questions.html)
 
-#### Good Read
-* [Medium](https://medium.com/)
+* [How To Ask Questions The Smart Way](http://www.catb.org/~esr/faqs/smart-questions.html)
 
 #### Soft Skills
 * [Soft Skills: The software developer's life manual](https://www.amazon.com/Soft-Skills-software-developers-manual/dp/1617292397/ref=sr_1_1?ie=UTF8&qid=1495198784&sr=8-1&keywords=soft+skills)
 
-#### Networking
-* [LinkedIn](https://www.linkedin.com/feed/)
-
 #### Code Sharing
-* [GitHub](https://github.com/)
+
 * [gitignore](https://help.github.com/articles/ignoring-files/)
 
 #### Liscence
@@ -72,20 +88,10 @@
 
 ## Front-End Web Development
 
-#### Browser
-* [Google Chrome](https://www.google.com/intl/en/chrome/browser/canary.html)
-
-#### Text Editor
-* [ATOM](https://atom.io/)
-* [Atom Flight Manual](http://flight-manual.atom.io/)
-
 #### Version Control
-* [git](https://git-scm.com/)
+
 * [git - the simple guide](http://rogerdudler.github.io/git-guide/)
 * [GIT CHEAT SHEET](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
-
-#### Play Ground
-* [CodePen](http://codepen.io/)
 
 #### Fonts & Icons
 
@@ -101,7 +107,7 @@
 #### Debugging
 
 * [Explore and Master Chrome DevTools](http://discover-devtools.codeschool.com/)
-* [Chrome DevTools Overview](https://developer.chrome.com/devtools)
+
 
 #### JavaScript Landscape
 
@@ -134,7 +140,7 @@
 * [React Fundamentals by ReactTraining.com](https://reacttraining.com/online/react-fundamentals)
 * [FULLSTACK REACT](https://www.fullstackreact.com/)
 * [react-redux-links](https://github.com/markerikson/react-redux-links)
-* [create-react-app](https://github.com/facebookincubator/create-react-app)
+
 * [react-router](https://github.com/ReactTraining/react-router)
 * [Simple React Development in 2017](https://hackernoon.com/simple-react-development-in-2017-113bd563691f)
 * [Tips to learn React + Redux in 2017](https://www.robinwieruch.de/tips-to-learn-react-redux/)
@@ -153,33 +159,8 @@
 * [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux)
 * [Redux DevTools](https://github.com/gaearon/redux-devtools)
 
-#### Module bundler
-* [Webpack — The Confusing Parts](https://medium.com/@rajaraodv/webpack-the-confusing-parts-58712f8fcad9)
 
-#### JavaScript Transpiler
-* [Babel](https://babeljs.io/)
 
-#### CSS
-
-* [BEM](https://en.bem.info/methodology/quick-start/)
-
-#### API
-
-#### Code Linting
-* [ESLint](https://github.com/eslint/eslint)
-
-#### Testing
-* [Jest Docs](http://facebook.github.io/jest/docs/api.html)
-* [Enzyme with Jest Docs](http://airbnb.io/enzyme/docs/guides/jest.html)
-
-#### npm
-
-* [Node.js](https://nodejs.org/en/)
-* [npm](https://www.npmjs.com/)
-* [npm-scripts](https://docs.npmjs.com/misc/scripts)
-
-#### Hosting
-* [GitHub Pages](https://pages.github.com/)
 
 ## Back-End Web Development
 
