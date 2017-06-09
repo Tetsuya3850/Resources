@@ -26,8 +26,8 @@
 * [webpack](https://webpack.github.io/)
 * [Babel](https://babeljs.io/)
 * [ESLint](https://github.com/eslint/eslint)
-* [Jest Docs](http://facebook.github.io/jest/docs/api.html)
-* [Enzyme with Jest Docs](http://airbnb.io/enzyme/docs/guides/jest.html)
+* [Jest](http://facebook.github.io/jest/docs/api.html)
+* [Enzyme with Jest](http://airbnb.io/enzyme/docs/guides/jest.html)
 * [Sketch](https://www.sketchapp.com/)
 * [Express](https://expressjs.com/)
 * [MongoDB](https://www.mongodb.com/)
@@ -36,6 +36,8 @@
 * [The best of JavaScript, HTML, CSS](http://bestof.js.org/)
 * [Learn ES2015](https://babeljs.io/learn-es2015/)
 * [A Rundown of JavaScript 2015 Features](https://auth0.com/blog/a-rundown-of-es6-features/)
+* [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
+* [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 
 ## React/Redux
 
@@ -45,6 +47,7 @@
 * [React Fundamentals by ReactTraining.com](https://reacttraining.com/online/react-fundamentals)
 * [FULLSTACK REACT](https://www.fullstackreact.com/)
 * [react-redux-links](https://github.com/markerikson/react-redux-links)
+* [create-react-app](https://github.com/facebookincubator/create-react-app)
 * [react-router](https://github.com/ReactTraining/react-router)
 * [Simple React Development in 2017](https://hackernoon.com/simple-react-development-in-2017-113bd563691f)
 * [Tips to learn React + Redux in 2017](https://www.robinwieruch.de/tips-to-learn-react-redux/)
@@ -98,11 +101,12 @@
 * [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 * [Can I use... Support tables for HTML5, CSS3, etc](http://caniuse.com/#home)
+* [.gitignore templates](https://github.com/github/gitignore)
 
 ## Learn More
 * [Google Web Fundamentals](https://developers.google.com/web/fundamentals/)
 * [Mozilla Developer Network Web technology for developers](https://developer.mozilla.org/en-US/docs/Web)
-
+* [Awesome](https://github.com/sindresorhus/awesome)
 
 * [Why Learning to Code is So Damn Hard](https://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard)
 * [How I joined Google](https://medium.com/google-design/how-i-joined-google-9bdb2d8bcb60)
