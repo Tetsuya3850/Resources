@@ -88,8 +88,9 @@
 
 
 ## Career
+* [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-6th-Edition/dp/0984782850)
 * ['How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft' by Sean Lee](https://www.youtube.com/watch?v=YJZCUhxNCv8)
-
+* [Front-end Job Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
 
 ## Others
 
