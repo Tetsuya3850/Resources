@@ -38,6 +38,7 @@
 
 
 ## JavaScript
+
 * [The best of JavaScript, HTML, CSS](http://bestof.js.org/)
 * [Learn ES2015](https://babeljs.io/learn-es2015/)
 * [A Rundown of JavaScript 2015 Features](https://auth0.com/blog/a-rundown-of-es6-features/)
@@ -47,6 +48,7 @@
 * [ESLint](https://github.com/eslint/eslint)
 * [Jest](http://facebook.github.io/jest/docs/api.html)
 * [Enzyme](http://airbnb.io/enzyme/docs/guides/jest.html)
+
 
 ## React/Redux
 
@@ -86,6 +88,7 @@
 
 ## Node.js/Express/MongoDB
 
+* [Node.js v8.1.0 Documentation](https://nodejs.org/api/documentation.html)
 * [Express API](https://expressjs.com/en/api.html)
 * [MongoDB University](https://university.mongodb.com/)
 
@@ -118,7 +121,7 @@
 * [Font Awesome](http://fontawesome.io/)
 * [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
-* [Can I use... Support tables for HTML5, CSS3, etc](http://caniuse.com/#home)
+* [Can I use...](http://caniuse.com/#home)
 * [.gitignore templates](https://github.com/github/gitignore)
 
 
