@@ -123,7 +123,7 @@
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 * [Can I use...](http://caniuse.com/#home)
 * [.gitignore templates](https://github.com/github/gitignore)
-
+* [HOW TO START A BLOG](https://amylynnandrews.com/how-to-start-a-blog/)
 
 ## Learn More
 
