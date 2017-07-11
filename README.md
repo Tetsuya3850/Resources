@@ -78,6 +78,7 @@
 
 ## React Native
 * [react-native](https://github.com/facebook/react-native)
+* [React Native Tutorial](http://facebook.github.io/react-native/releases/0.31/docs/tutorial.html)
 
 ## UX Design
 
