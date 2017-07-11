@@ -50,7 +50,7 @@
 * [Enzyme](http://airbnb.io/enzyme/docs/guides/jest.html)
 
 
-## React/Redux
+## React
 
 * [React](https://facebook.github.io/react/)
 * [Tutorial: Intro To React](https://facebook.github.io/react/tutorial/tutorial.html)
@@ -69,12 +69,14 @@
 * [The Component Lifecycle](https://www.kirupa.com/react/component_lifecycle.htm)
 * [What to use for React Styling?](http://andrewhfarmer.com/how-to-style-react/)
 * [React.js Forms: Controlled Components](http://lorenstewart.me/2016/10/31/react-js-forms-controlled-components/)
+* [Heroku Buildpack for create-react-app](https://github.com/mars/create-react-app-buildpack)
+* [create-react-app with a Node server on Heroku](https://github.com/mars/heroku-cra-node)
+
+## Redux
 * [You Might Not Need Redux](https://medium.com/@dan_abramov/you-might-not-need-redux-be46360cf367)
 * [Redux](http://redux.js.org/)
 * [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux)
 * [Redux DevTools](https://github.com/gaearon/redux-devtools)
-* [Heroku Buildpack for create-react-app](https://github.com/mars/create-react-app-buildpack)
-* [create-react-app with a Node server on Heroku](https://github.com/mars/heroku-cra-node)
 
 ## React Native
 * [react-native](https://github.com/facebook/react-native)
