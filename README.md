@@ -98,8 +98,8 @@
 * [Express API](https://expressjs.com/en/api.html)
 
 ## MongoDB
-* [MongoDB University](https://university.mongodb.com/)
 * [MongoDB Docs](https://docs.mongodb.com/)
+* [MongoDB University](https://university.mongodb.com/)
 * [JSONLint](https://jsonlint.com/)
 
 ## Role Model
