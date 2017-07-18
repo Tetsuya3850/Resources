@@ -28,6 +28,7 @@
 * [Slack](https://slack.com/)
 * [Parells Desktop](www.parallels.com/products/desktop/)
 * [f.lux](https://justgetflux.com/)
+* [Freedom](https://freedom.to/)
 * [npm](https://www.npmjs.com/)
 * [webpack](https://webpack.github.io/)
 * [Sketch](https://www.sketchapp.com/)
