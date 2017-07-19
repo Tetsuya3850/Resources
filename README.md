@@ -36,7 +36,7 @@
 * [Node.js](https://nodejs.org/en/)
 * [MongoDB](https://www.mongodb.com/)
 * [Heroku](https://www.heroku.com/)
-
+* [language-babel](https://atom.io/packages/language-babel)
 
 ## JavaScript
 
