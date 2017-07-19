@@ -82,6 +82,7 @@
 ## React Native
 * [react-native](https://github.com/facebook/react-native)
 * [React Native Tutorial](https://facebook.github.io/react-native/docs/getting-started.html)
+* [create-react-native-app](https://github.com/react-community/create-react-native-app)
 * [tylermcginnis.com Course](https://tylermcginnis.com/courses/react-native/)
 
 ## UX Design
