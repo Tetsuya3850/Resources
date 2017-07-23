@@ -146,4 +146,5 @@
 * [Google Web Fundamentals](https://developers.google.com/web/fundamentals/)
 * [Mozilla Developer Network Web technology for developers](https://developer.mozilla.org/en-US/docs/Web)
 * [Awesome](https://github.com/sindresorhus/awesome)
+* [Software Engineering Daily](https://softwareengineeringdaily.com/)
 
