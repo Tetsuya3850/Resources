@@ -79,23 +79,6 @@
 * [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux)
 * [Redux DevTools](https://github.com/gaearon/redux-devtools)
 
-## React Native
-* [react-native](https://github.com/facebook/react-native)
-* [React Native Tutorial](https://facebook.github.io/react-native/docs/getting-started.html)
-* [Expo](https://expo.io/)
-* [create-react-native-app](https://github.com/react-community/create-react-native-app)
-* [tylermcginnis.com Course](https://tylermcginnis.com/courses/react-native/)
-* [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons)
-
-## UX Design
-
-* [The Elements of User Experience](https://www.amazon.com/Elements-User-Experience-User-Centered-Design/dp/0321683684/ref=sr_1_1?ie=UTF8&qid=1492827574&sr=8-1&keywords=the+elements+of+user+experience)
-* [Don't Make Me Think](https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515/ref=sr_1_1?ie=UTF8&qid=1492827633&sr=8-1&keywords=don%27t+make+me+think)
-* [react-sketchapp](https://github.com/airbnb/react-sketchapp)
-* [Painting with Code](https://airbnb.design/painting-with-code/)
-* [Modern Design Tools: Using Real Data](https://medium.com/bridge-collection/modern-design-tools-using-real-data-62d499e97482)
-
-
 ## Node.js/Express
 
 * [Node.js v8.1.0 Documentation](https://nodejs.org/api/documentation.html)
@@ -106,8 +89,24 @@
 * [MongoDB University](https://university.mongodb.com/)
 * [JSONLint](https://jsonlint.com/)
 
+## React Native
+* [react-native](https://github.com/facebook/react-native)
+* [React Native Tutorial](https://facebook.github.io/react-native/docs/getting-started.html)
+* [Expo](https://expo.io/)
+* [create-react-native-app](https://github.com/react-community/create-react-native-app)
+* [tylermcginnis.com Course](https://tylermcginnis.com/courses/react-native/)
+* [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons)
+
 ## Infrastructure
 * [Amazon Web Services](https://aws.amazon.com/?nc2=h_lg)
+
+## UX Design
+
+* [The Elements of User Experience](https://www.amazon.com/Elements-User-Experience-User-Centered-Design/dp/0321683684/ref=sr_1_1?ie=UTF8&qid=1492827574&sr=8-1&keywords=the+elements+of+user+experience)
+* [Don't Make Me Think](https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515/ref=sr_1_1?ie=UTF8&qid=1492827633&sr=8-1&keywords=don%27t+make+me+think)
+* [react-sketchapp](https://github.com/airbnb/react-sketchapp)
+* [Painting with Code](https://airbnb.design/painting-with-code/)
+* [Modern Design Tools: Using Real Data](https://medium.com/bridge-collection/modern-design-tools-using-real-data-62d499e97482)
 
 ## Role Model
 
