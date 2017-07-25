@@ -103,6 +103,7 @@
 
 ## Infrastructure
 * [Amazon Web Services](https://aws.amazon.com/?nc2=h_lg)
+* [AWS open-guides](https://github.com/open-guides/og-aws)
 
 ## UX Design
 
