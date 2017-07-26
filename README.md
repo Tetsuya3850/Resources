@@ -80,8 +80,7 @@
 * [Redux DevTools](https://github.com/gaearon/redux-devtools)
 
 ## CSS
-* [CSS-Modules](https://github.com/css-modules/css-modules)
-
+* [react-css-modules](https://github.com/gajus/react-css-modules)
 
 ## Node.js/Express
 
