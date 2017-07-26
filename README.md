@@ -49,7 +49,7 @@
 * [ESLint](https://github.com/eslint/eslint)
 * [Jest](http://facebook.github.io/jest/docs/api.html)
 * [Enzyme](http://airbnb.io/enzyme/docs/guides/jest.html)
-
+* [Lodash](https://lodash.com/)
 
 ## React
 
