@@ -97,7 +97,7 @@
 * [React Native Tutorial](https://facebook.github.io/react-native/docs/getting-started.html)
 * [Expo](https://expo.io/)
 * [create-react-native-app](https://github.com/react-community/create-react-native-app)
-* [tylermcginnis.com Course](https://tylermcginnis.com/courses/react-native/)
+* [React Native Fundamentals](https://tylermcginnis.com/courses/react-native/)
 * [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons)
 
 ## Infrastructure
