@@ -81,6 +81,8 @@
 
 ## CSS
 * [react-css-modules](https://github.com/gajus/react-css-modules)
+* [GET READY FOR CSS GRID LAYOUT](https://abookapart.com/products/get-ready-for-css-grid-layout)
+* [Grid by Example](https://gridbyexample.com/)
 
 ## Node.js/Express
 
