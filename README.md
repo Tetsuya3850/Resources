@@ -112,6 +112,9 @@
 * [Painting with Code](https://airbnb.design/painting-with-code/)
 * [Modern Design Tools: Using Real Data](https://medium.com/bridge-collection/modern-design-tools-using-real-data-62d499e97482)
 
+## Tech Entreprenuership
+* [Microsoft Project](https://products.office.com/en/project/project-and-portfolio-management-software?tab=tabs-1)
+
 ## Role Model
 
 * [NIPPON COLORS](http://nipponcolors.com/)
