@@ -38,6 +38,7 @@
 * [MongoDB](https://www.mongodb.com/)
 * [Heroku](https://www.heroku.com/)
 * [language-babel](https://atom.io/packages/language-babel)
+* [Travis CI](https://travis-ci.com/)
 
 ## JavaScript
 
