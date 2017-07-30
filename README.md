@@ -116,6 +116,7 @@
 * [Painting with Code](https://airbnb.design/painting-with-code/)
 * [Modern Design Tools: Using Real Data](https://medium.com/bridge-collection/modern-design-tools-using-real-data-62d499e97482)
 * [ACCESSIBILITY ACCORDING TO ACTUAL PEOPLE WITH DISABILITIES](https://axesslab.com/accessibility-according-to-pwd/?utm_source=frontendfocus&utm_medium=email)
+* [Introduction to WAI ARIA](https://dev.opera.com/articles/introduction-to-wai-aria/)
 
 ## Tech Entreprenuership
 * [Microsoft Project](https://products.office.com/en/project/project-and-portfolio-management-software?tab=tabs-1)
