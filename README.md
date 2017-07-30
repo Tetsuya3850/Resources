@@ -51,6 +51,7 @@
 * [Jest](http://facebook.github.io/jest/docs/api.html)
 * [Enzyme](http://airbnb.io/enzyme/docs/guides/jest.html)
 * [Lodash](https://lodash.com/)
+* [A Brief History of JavaScript](https://auth0.com/blog/a-brief-history-of-javascript/)
 
 ## React
 
