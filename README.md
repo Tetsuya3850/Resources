@@ -121,6 +121,7 @@
 
 ## Tech Entreprenuership
 * [Microsoft Project](https://products.office.com/en/project/project-and-portfolio-management-software?tab=tabs-1)
+* [The Lean Startup](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898)
 
 ## Role Model
 
