@@ -54,6 +54,7 @@
 * [Jest](http://facebook.github.io/jest/docs/api.html)
 * [Enzyme](http://airbnb.io/enzyme/docs/guides/jest.html)
 * [Lodash](https://lodash.com/)
+* [Immutable.js](https://facebook.github.io/immutable-js/)
 
 ## React
 
