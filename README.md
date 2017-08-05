@@ -19,6 +19,7 @@
 * [A Brief History of JavaScript](https://auth0.com/blog/a-brief-history-of-javascript/)
 * [Our entire team of engineers use this front end development guide](https://medium.freecodecamp.org/grabs-front-end-guide-for-large-teams-484d4033cc41)
 * [Why Learning to Code is So Damn Hard](https://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard)
+* [first do it, then do it right, then do it better.](https://medium.com/@addyosmani/totally-get-your-frustration-ea11adf237e3)
 
 
 ## Development Stack
