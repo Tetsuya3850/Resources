@@ -82,6 +82,7 @@
 * [You Might Not Need Redux](https://medium.com/@dan_abramov/you-might-not-need-redux-be46360cf367)
 * [Redux](http://redux.js.org/)
 * [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux)
+* [Building React Applications with Idiomatic Redux](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)
 * [Redux DevTools](https://github.com/gaearon/redux-devtools)
 * [redux-thunk](https://github.com/gaearon/redux-thunk)
 * [Using Immutable.JS with Redux](http://redux.js.org/docs/recipes/UsingImmutableJS.html)
