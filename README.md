@@ -87,6 +87,7 @@
 * [redux-thunk](https://github.com/gaearon/redux-thunk)
 * [Using Immutable.JS with Redux](http://redux.js.org/docs/recipes/UsingImmutableJS.html)
 * [Immutable.js Object Formatter](https://chrome.google.com/webstore/detail/immutablejs-object-format/hgldghadipiblonfkkicmgcbbijnpeog/related)
+* [Anjana Vakil: Learning Functional Programming with JavaScript - JSUnconf 2016](https://www.youtube.com/watch?v=e-5obm1G_FY&feature=youtu.be)
 
 
 ## CSS
