@@ -88,7 +88,7 @@
 * [Using Immutable.JS with Redux](http://redux.js.org/docs/recipes/UsingImmutableJS.html)
 * [Immutable.js Object Formatter](https://chrome.google.com/webstore/detail/immutablejs-object-format/hgldghadipiblonfkkicmgcbbijnpeog/related)
 * [Anjana Vakil: Learning Functional Programming with JavaScript - JSUnconf 2016](https://www.youtube.com/watch?v=e-5obm1G_FY&feature=youtu.be)
-
+* [Avoiding Accidental Complexity When Structuring Your App State](https://hackernoon.com/avoiding-accidental-complexity-when-structuring-your-app-state-6e6d22ad5e2a)
 
 ## CSS
 * [react-css-modules](https://github.com/gajus/react-css-modules)
