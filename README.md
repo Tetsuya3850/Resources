@@ -172,4 +172,4 @@
 * [Mozilla Developer Network Web technology for developers](https://developer.mozilla.org/en-US/docs/Web)
 * [Awesome](https://github.com/sindresorhus/awesome)
 * [Software Engineering Daily](https://softwareengineeringdaily.com/)
-
+* [spellbook-of-modern-webdev](https://github.com/dexteryy/spellbook-of-modern-webdev)
