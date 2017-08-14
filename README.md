@@ -9,7 +9,7 @@
 
 ## Big Picture
 
-* [Developer Survey Results 2016](http://stackoverflow.com/insights/survey/2016)
+* [Developer Survey Results 2017](https://insights.stackoverflow.com/survey/2017)
 * [Web Development In 2017 - A Practical Guide](https://www.youtube.com/watch?v=9hDKfBKuXjI)
 * [Web Developer Roadmap 2017](https://github.com/kamranahmedse/developer-roadmap)
 * [The (R)Evolution of Web Development](http://blog.isquaredsoftware.com/presentations/2016-10-revolution-of-web-dev/#/?_k=c7mjfu)
