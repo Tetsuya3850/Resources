@@ -167,6 +167,7 @@
 * [.gitignore templates](https://github.com/github/gitignore)
 * [HOW TO START A BLOG](https://amylynnandrews.com/how-to-start-a-blog/)
 * [package.json](https://docs.npmjs.com/files/package.json)
+* [Bret Victor The Future of Programming](https://www.youtube.com/watch?v=8pTEmbeENF4)
 
 ## Learn More
 
