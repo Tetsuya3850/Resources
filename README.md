@@ -166,6 +166,7 @@
 * [Can I use...](http://caniuse.com/#home)
 * [.gitignore templates](https://github.com/github/gitignore)
 * [HOW TO START A BLOG](https://amylynnandrews.com/how-to-start-a-blog/)
+* [package.json](https://docs.npmjs.com/files/package.json)
 
 ## Learn More
 
