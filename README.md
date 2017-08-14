@@ -100,6 +100,7 @@
 ## Node.js/Express
 
 * [Node.js v8.1.0 Documentation](https://nodejs.org/api/documentation.html)
+* [art-of-node](https://github.com/maxogden/art-of-node)
 * [Express API](https://expressjs.com/en/api.html)
 
 ## MongoDB
