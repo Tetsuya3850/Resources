@@ -93,6 +93,7 @@
 * [Database Normalization Explained in Simple English](https://www.essentialsql.com/get-ready-to-learn-sql-database-normalization-explained-in-simple-english/)
 
 ## CSS
+* [BEM](https://en.bem.info/methodology/)
 * [react-css-modules](https://github.com/gajus/react-css-modules)
 * [GET READY FOR CSS GRID LAYOUT](https://abookapart.com/products/get-ready-for-css-grid-layout)
 * [Grid by Example](https://gridbyexample.com/)
