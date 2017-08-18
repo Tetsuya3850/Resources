@@ -104,6 +104,7 @@
 * [art-of-node](https://github.com/maxogden/art-of-node)
 * [Express API](https://expressjs.com/en/api.html)
 * [body-parser](https://www.npmjs.com/package/body-parser)
+* [passport](https://github.com/jaredhanson/passport)
 
 ## MongoDB
 * [MongoDB Docs](https://docs.mongodb.com/)
