@@ -110,6 +110,8 @@
 ## MongoDB
 * [MongoDB Docs](https://docs.mongodb.com/)
 * [MongoDB University](https://university.mongodb.com/)
+* [mLab](https://mlab.com/)
+* [Mongoose](http://mongoosejs.com/)
 * [JSONLint](https://jsonlint.com/)
 
 ## React Native
