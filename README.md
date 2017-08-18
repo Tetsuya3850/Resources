@@ -102,6 +102,7 @@
 
 * [Node.js v8.1.0 Documentation](https://nodejs.org/api/documentation.html)
 * [art-of-node](https://github.com/maxogden/art-of-node)
+* [Learn and Understand NodeJS](https://www.udemy.com/understand-nodejs/learn/v4/content)
 * [Express API](https://expressjs.com/en/api.html)
 * [body-parser](https://www.npmjs.com/package/body-parser)
 * [passport](https://github.com/jaredhanson/passport)
