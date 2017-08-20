@@ -110,7 +110,8 @@
 ## MongoDB
 * [MongoDB Docs](https://docs.mongodb.com/)
 * [MongoDB University](https://university.mongodb.com/)
-* [mLab](https://mlab.com/)
+* [MongoDB Atlas](https://www.mongodb.com/cloud/atlas)
+* [MongoDB Compass](https://www.mongodb.com/products/compass)
 * [Mongoose](http://mongoosejs.com/)
 * [JSONLint](https://jsonlint.com/)
 
