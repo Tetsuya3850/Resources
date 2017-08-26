@@ -40,7 +40,6 @@
 * [Node.js](https://nodejs.org/en/)
 * [MongoDB](https://www.mongodb.com/)
 * [Heroku](https://www.heroku.com/)
-* [Travis CI](https://travis-ci.com/)
 
 ## JavaScript
 
