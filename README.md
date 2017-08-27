@@ -76,6 +76,7 @@
 * [React.js Forms: Controlled Components](http://lorenstewart.me/2016/10/31/react-js-forms-controlled-components/)
 * [Heroku Buildpack for create-react-app](https://github.com/mars/create-react-app-buildpack)
 * [create-react-app with a Node server on Heroku](https://github.com/mars/heroku-cra-node)
+* [Explaining React's license](https://code.facebook.com/posts/112130496157735/explaining-react-s-license/?utm_source=reactnl&utm_medium=email)
 
 ## Redux
 * [You Might Not Need Redux](https://medium.com/@dan_abramov/you-might-not-need-redux-be46360cf367)
