@@ -22,6 +22,7 @@
 * [first do it, then do it right, then do it better.](https://medium.com/@addyosmani/totally-get-your-frustration-ea11adf237e3)
 * [How Aristotle Created the Computer](https://www.theatlantic.com/technology/archive/2017/03/aristotle-computer/518697/)
 * [20 Things I Learned About Browsers and the Web](http://www.20thingsilearned.com/en-US/home)
+* [Keynote - Jacob Kaplan-Moss - Pycon 2015](https://www.youtube.com/watch?v=hIJdFxYlEKE)
 
 ## Development Stack
 
