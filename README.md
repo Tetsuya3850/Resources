@@ -108,6 +108,9 @@
 * [body-parser](https://www.npmjs.com/package/body-parser)
 * [passport](https://github.com/jaredhanson/passport)
 
+## Python
+* [Google's Python Class](https://developers.google.com/edu/python/)
+
 ## MongoDB
 * [MongoDB Docs](https://docs.mongodb.com/)
 * [MongoDB University](https://university.mongodb.com/)
