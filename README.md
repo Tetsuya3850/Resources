@@ -109,6 +109,7 @@
 * [passport](https://github.com/jaredhanson/passport)
 
 ## Python
+* [The Python Tutorial](https://docs.python.org/3/tutorial/index.html)
 * [PEP 8 -- Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)
 * [Google's Python Class](https://developers.google.com/edu/python/)
 
