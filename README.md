@@ -114,6 +114,9 @@
 * [Google's Python Class](https://developers.google.com/edu/python/)
 * [Programming Foundations with Python](https://www.udacity.com/course/programming-foundations-with-python--ud036)
 
+## SQL
+* [SQL Tutorial](https://www.w3schools.com/sql/default.asp)
+
 ## MongoDB
 * [MongoDB Docs](https://docs.mongodb.com/)
 * [MongoDB University](https://university.mongodb.com/)
