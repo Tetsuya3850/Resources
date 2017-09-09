@@ -99,6 +99,15 @@
 * [GET READY FOR CSS GRID LAYOUT](https://abookapart.com/products/get-ready-for-css-grid-layout)
 * [Grid by Example](https://gridbyexample.com/)
 
+## React Native
+* [react-native](https://github.com/facebook/react-native)
+* [React Native Tutorial](https://facebook.github.io/react-native/docs/getting-started.html)
+* [Expo](https://expo.io/)
+* [create-react-native-app](https://github.com/react-community/create-react-native-app)
+* [React Native Fundamentals](https://tylermcginnis.com/courses/react-native/)
+* [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons)
+* [Native Directory](http://native.directory/)
+
 ## Node.js/Express
 
 * [Node.js v8.1.0 Documentation](https://nodejs.org/api/documentation.html)
@@ -124,14 +133,6 @@
 * [MongoDB Compass](https://www.mongodb.com/products/compass)
 * [Mongoose](http://mongoosejs.com/)
 * [JSONLint](https://jsonlint.com/)
-
-## React Native
-* [react-native](https://github.com/facebook/react-native)
-* [React Native Tutorial](https://facebook.github.io/react-native/docs/getting-started.html)
-* [Expo](https://expo.io/)
-* [create-react-native-app](https://github.com/react-community/create-react-native-app)
-* [React Native Fundamentals](https://tylermcginnis.com/courses/react-native/)
-* [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons)
 
 ## Infrastructure
 * [Amazon Web Services](https://aws.amazon.com/?nc2=h_lg)
