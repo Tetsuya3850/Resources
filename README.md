@@ -47,6 +47,7 @@
 * [Learn ES2015](https://babeljs.io/learn-es2015/)
 * [A Rundown of JavaScript 2015 Features](https://auth0.com/blog/a-rundown-of-es6-features/)
 * [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
+* [10 Interview Questions Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95)
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 * [Babel](https://babeljs.io/)
 * [ESLint](https://github.com/eslint/eslint)
