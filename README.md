@@ -22,6 +22,7 @@
 * [How Aristotle Created the Computer](https://www.theatlantic.com/technology/archive/2017/03/aristotle-computer/518697/)
 * [20 Things I Learned About Browsers and the Web](http://www.20thingsilearned.com/en-US/home)
 * [Keynote - Jacob Kaplan-Moss - Pycon 2015](https://www.youtube.com/watch?v=hIJdFxYlEKE)
+* [40 Key Computer Science Concepts Explained In Layman’s Terms](http://carlcheo.com/compsci)
 
 ## Development Stack
 
