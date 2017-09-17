@@ -23,6 +23,7 @@
 * [20 Things I Learned About Browsers and the Web](http://www.20thingsilearned.com/en-US/home)
 * [Keynote - Jacob Kaplan-Moss - Pycon 2015](https://www.youtube.com/watch?v=hIJdFxYlEKE)
 * [40 Key Computer Science Concepts Explained In Layman’s Terms](http://carlcheo.com/compsci)
+* [Ten Things A Serious JavaScript Developer Should Learn](https://benmccormick.org/2017/07/19/ten-things-javascript/)
 
 ## Development Stack
 
@@ -114,90 +115,4 @@
 
 * [Node.js v8.1.0 Documentation](https://nodejs.org/api/documentation.html)
 * [art-of-node](https://github.com/maxogden/art-of-node)
-* [Learn and Understand NodeJS](https://www.udemy.com/understand-nodejs/learn/v4/content)
-* [Express API](https://expressjs.com/en/api.html)
-* [body-parser](https://www.npmjs.com/package/body-parser)
-* [passport](https://github.com/jaredhanson/passport)
-
-## Python
-* [The Python Tutorial](https://docs.python.org/3/tutorial/index.html)
-* [PEP 8 -- Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)
-* [Google's Python Class](https://developers.google.com/edu/python/)
-* [Programming Foundations with Python](https://www.udacity.com/course/programming-foundations-with-python--ud036)
-
-## SQL
-* [SQL Tutorial](https://www.w3schools.com/sql/default.asp)
-
-## MongoDB
-* [MongoDB Docs](https://docs.mongodb.com/)
-* [MongoDB University](https://university.mongodb.com/)
-* [MongoDB Atlas](https://www.mongodb.com/cloud/atlas)
-* [MongoDB Compass](https://www.mongodb.com/products/compass)
-* [Mongoose](http://mongoosejs.com/)
-* [JSONLint](https://jsonlint.com/)
-
-## Infrastructure
-* [Amazon Web Services](https://aws.amazon.com/?nc2=h_lg)
-* [AWS open-guides](https://github.com/open-guides/og-aws)
-
-## UX Design
-
-* [The Elements of User Experience](https://www.amazon.com/Elements-User-Experience-User-Centered-Design/dp/0321683684/ref=sr_1_1?ie=UTF8&qid=1492827574&sr=8-1&keywords=the+elements+of+user+experience)
-* [Don't Make Me Think](https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515/ref=sr_1_1?ie=UTF8&qid=1492827633&sr=8-1&keywords=don%27t+make+me+think)
-* [Nobody Wants To Use Your Product](https://www.smashingmagazine.com/2016/01/nobody-wants-use-your-product/)
-* [react-sketchapp](https://github.com/airbnb/react-sketchapp)
-* [Painting with Code](https://airbnb.design/painting-with-code/)
-* [Modern Design Tools: Using Real Data](https://medium.com/bridge-collection/modern-design-tools-using-real-data-62d499e97482)
-* [We Don’t Need More Designers Who Can Code](https://medium.com/re-write/we-dont-need-more-designers-who-can-code-b81483d2a0e6)
-* [ACCESSIBILITY ACCORDING TO ACTUAL PEOPLE WITH DISABILITIES](https://axesslab.com/accessibility-according-to-pwd/?utm_source=frontendfocus&utm_medium=email)
-* [Introduction to WAI ARIA](https://dev.opera.com/articles/introduction-to-wai-aria/)
-
-## Tech Entreprenuership
-* [Microsoft Project](https://products.office.com/en/project/project-and-portfolio-management-software?tab=tabs-1)
-* [The Lean Startup](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898)
-* [Innovater's Dilemma](https://www.amazon.com/Innovators-Dilemma-Technologies-Management-Innovation/dp/1633691780/ref=pd_lpo_sbs_14_t_0?_encoding=UTF8&psc=1&refRID=CP8ZSE9R0G0W26897GRA)
-
-## Role Model
-
-* [NIPPON COLORS](http://nipponcolors.com/)
-* [WASARA](http://www.wasara.jp/)
-* [べにや無可有](http://mukayu.com/)
-* [Navigating Responsibility](http://www.navigatingresponsibly.dk/)
-* [The Hidden Worlds of the National Parks](https://artsandculture.withgoogle.com/en-us/national-parks-service)
-* [Spiber Inc.](https://www.spiber.jp/en)
-* [Sensorium](http://www.sensorium.org/)
-
-
-## Career
-* [LinkedIn](https://www.linkedin.com)
-* [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-6th-Edition/dp/0984782850)
-* [I spent 3 months applying to jobs after a coding bootcamp. Here’s what I learned.](https://medium.freecodecamp.com/5-key-learnings-from-the-post-bootcamp-job-search-9a07468d2331)
-* ['How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft' by Sean Lee](https://www.youtube.com/watch?v=YJZCUhxNCv8)
-* [Front-end Job Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
-
-
-## Others
-
-* [Soft Skills: The software developer's life manual](https://www.amazon.com/Soft-Skills-software-developers-manual/dp/1617292397/ref=sr_1_1?ie=UTF8&qid=1495198784&sr=8-1&keywords=soft+skills)
-* [How To Ask Questions The Smart Way](http://www.catb.org/~esr/faqs/smart-questions.html)
-* [Choose a License](https://choosealicense.com/)
-* [2017 is the year that front-end developers should go back and master the basics](https://medium.freecodecamp.com/what-to-learn-in-2017-if-youre-a-frontend-developer-b6cfef46effd)
-* [Font Awesome](http://fontawesome.io/)
-* [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
-* [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
-* [Can I use...](http://caniuse.com/#home)
-* [.gitignore templates](https://github.com/github/gitignore)
-* [HOW TO START A BLOG](https://amylynnandrews.com/how-to-start-a-blog/)
-* [package.json](https://docs.npmjs.com/files/package.json)
-* [Bret Victor The Future of Programming](https://www.youtube.com/watch?v=8pTEmbeENF4)
-* [Readme Driven Development](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html)
-* [Why I Stopped Helping People and You Should Too](https://medium.com/learn-unlearn-relearn/why-i-stopped-helping-people-and-you-should-too-36d09d04784c)
-* [Silicon Valley Etiquette](https://medium.com/@romainserman/silicon-valley-etiquette-6934cf6f8f73)
-
-## Learn More
-
-* [Google Web Fundamentals](https://developers.google.com/web/fundamentals/)
-* [Google Technical Development Guide](https://www.google.com/about/careers/students/guide-to-technical-development.html)
-* [Mozilla Developer Network Web technology for developers](https://developer.mozilla.org/en-US/docs/Web)
-* [Software Engineering Daily](https://softwareengineeringdaily.com/)
-* [spellbook-of-modern-webdev](https://github.com/dexteryy/spellbook-of-modern-webdev)
+* [Learn and Understand NodeJS](https://www.udemy.com/understand-nodejs/learn/v4/co
