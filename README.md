@@ -191,6 +191,7 @@
 * [Readme Driven Development](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html)
 * [Why I Stopped Helping People and You Should Too](https://medium.com/learn-unlearn-relearn/why-i-stopped-helping-people-and-you-should-too-36d09d04784c)
 * [Silicon Valley Etiquette](https://medium.com/@romainserman/silicon-valley-etiquette-6934cf6f8f73)
+* [HTML5 Element Flowchart](http://html5doctor.com/downloads/h5d-sectioning-flowchart.png)
 
 ## Learn More
 * [Google Web Fundamentals](https://developers.google.com/web/fundamentals/)
