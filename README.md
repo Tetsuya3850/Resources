@@ -24,6 +24,7 @@
 * [Keynote - Jacob Kaplan-Moss - Pycon 2015](https://www.youtube.com/watch?v=hIJdFxYlEKE)
 * [40 Key Computer Science Concepts Explained In Layman’s Terms](http://carlcheo.com/compsci)
 * [Ten Things A Serious JavaScript Developer Should Learn](https://benmccormick.org/2017/07/19/ten-things-javascript/)
+* [Map of Computer Science](https://www.youtube.com/watch?v=SzJ46YA_RaA)
 
 ## Development Stack
 
