@@ -127,6 +127,7 @@
 * [Google's Python Class](https://developers.google.com/edu/python/)
 * [Programming Foundations with Python](https://www.udacity.com/course/programming-foundations-with-python--ud036)
 * [django](https://www.djangoproject.com/)
+* [Django Web Framework](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django)
 
 ## SQL
 * [SQL Tutorial](https://www.w3schools.com/sql/default.asp)
