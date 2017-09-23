@@ -82,6 +82,7 @@
 * [Heroku Buildpack for create-react-app](https://github.com/mars/create-react-app-buildpack)
 * [create-react-app with a Node server on Heroku](https://github.com/mars/heroku-cra-node)
 * [Explaining React's license](https://code.facebook.com/posts/112130496157735/explaining-react-s-license/?utm_source=reactnl&utm_medium=email)
+* [Relicensing React, Jest, Flow, and Immutable.js](https://code.facebook.com/posts/300798627056246/relicensing-react-jest-flow-and-immutable-js/)
 
 ## Redux
 * [You Might Not Need Redux](https://medium.com/@dan_abramov/you-might-not-need-redux-be46360cf367)
