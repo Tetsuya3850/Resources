@@ -177,7 +177,7 @@
 * [I spent 3 months applying to jobs after a coding bootcamp. Here’s what I learned.](https://medium.freecodecamp.com/5-key-learnings-from-the-post-bootcamp-job-search-9a07468d2331)
 * ['How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft' by Sean Lee](https://www.youtube.com/watch?v=YJZCUhxNCv8)
 * [Front-end Job Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
-
+* [PayScale](https://www.payscale.com/)
 
 ## Others
 * [Soft Skills: The software developer's life manual](https://www.amazon.com/Soft-Skills-software-developers-manual/dp/1617292397/ref=sr_1_1?ie=UTF8&qid=1495198784&sr=8-1&keywords=soft+skills)
