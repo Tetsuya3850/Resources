@@ -120,7 +120,7 @@
 * [art-of-node](https://github.com/maxogden/art-of-node)
 * [Learn and Understand NodeJS](https://www.udemy.com/understand-nodejs/learn/v4/content)
 * [Express API](https://expressjs.com/en/api.html)
-* [body-parser](https://www.npmjs.com/package/body-parser)
+* [nodemon](https://github.com/remy/nodemon)
 * [passport](https://github.com/jaredhanson/passport)
 
 ## Python
