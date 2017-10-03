@@ -120,8 +120,7 @@
 * [art-of-node](https://github.com/maxogden/art-of-node)
 * [Learn and Understand NodeJS](https://www.udemy.com/understand-nodejs/learn/v4/content)
 * [Express API](https://expressjs.com/en/api.html)
-* [nodemon](https://github.com/remy/nodemon)
-* [passport](https://github.com/jaredhanson/passport)
+* [MDN's Express Tutorial](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs)
 
 ## Python
 * [The Python Tutorial](https://docs.python.org/3/tutorial/index.html)
