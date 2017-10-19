@@ -164,6 +164,7 @@
 * [Microsoft Project](https://products.office.com/en/project/project-and-portfolio-management-software?tab=tabs-1)
 * [The Lean Startup](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898)
 * [Innovater's Dilemma](https://www.amazon.com/Innovators-Dilemma-Technologies-Management-Innovation/dp/1633691780/ref=pd_lpo_sbs_14_t_0?_encoding=UTF8&psc=1&refRID=CP8ZSE9R0G0W26897GRA)
+* [The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers](https://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205)
 
 ## Role Model
 * [NIPPON COLORS](http://nipponcolors.com/)
