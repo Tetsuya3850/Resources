@@ -59,6 +59,7 @@
 * [Enzyme](http://airbnb.io/enzyme/docs/guides/jest.html)
 * [Lodash](https://lodash.com/)
 * [Immutable.js](https://facebook.github.io/immutable-js/)
+* [TypeScript](https://www.typescriptlang.org/index.html)
 
 ## React
 
