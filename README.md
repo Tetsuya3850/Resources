@@ -61,6 +61,7 @@
 * [Immutable.js](https://facebook.github.io/immutable-js/)
 * [TypeScript](https://www.typescriptlang.org/index.html)
 * [The Cost Of JavaScript](https://medium.com/dev-channel/the-cost-of-javascript-84009f51e99e)
+* [SurviveJS - Webpack](https://survivejs.com/webpack/)
 
 ## React
 
