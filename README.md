@@ -3,7 +3,6 @@
 * [Google](https://google.com)
 * [GitHub](https://github.com/)
 * [Stack Overflow](https://stackoverflow.com/)
-* [Medium](https://medium.com/)
 
 
 ## Big Picture
