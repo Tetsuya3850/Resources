@@ -8,7 +8,7 @@
 ## Big Picture
 
 * [Developer Survey Results 2017](https://insights.stackoverflow.com/survey/2017)
-* [Web Development In 2017 - A Practical Guide](https://www.youtube.com/watch?v=9hDKfBKuXjI)
+* [Web Development In 2018 - A Practical Guide](https://www.youtube.com/watch?v=Zftx68K-1D4)
 * [Web Developer Roadmap 2017](https://github.com/kamranahmedse/developer-roadmap)
 * [The (R)Evolution of Web Development](http://blog.isquaredsoftware.com/presentations/2016-10-revolution-of-web-dev/#/?_k=c7mjfu)
 * [How it feels to learn JavaScript in 2016](https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f)
