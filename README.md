@@ -206,6 +206,7 @@
 * [Silicon Valley Etiquette](https://medium.com/@romainserman/silicon-valley-etiquette-6934cf6f8f73)
 * [HTML5 Element Flowchart](http://html5doctor.com/downloads/h5d-sectioning-flowchart.png)
 * [The Mega HTML5 Cheatsheet](https://medium.com/level-up-web/the-mega-html5-cheatsheet-e8c479b1c521)
+* [AI in China: Cutting Through the Hype](https://www.eurasiagroup.net/live-post/ai-in-china-cutting-through-the-hype)
 
 ## Learn More
 * [Google Web Fundamentals](https://developers.google.com/web/fundamentals/)
