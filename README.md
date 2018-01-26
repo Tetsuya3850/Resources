@@ -25,6 +25,7 @@
 * [Ten Things A Serious JavaScript Developer Should Learn](https://benmccormick.org/2017/07/19/ten-things-javascript/)
 * [Map of Computer Science](https://www.youtube.com/watch?v=SzJ46YA_RaA)
 * [Hacker Rank 2018 Developer Skills Report](https://research.hackerrank.com/developer-skills/2018/)
+* [Why Software Is Eating the World](https://a16z.com/2016/08/20/why-software-is-eating-the-world/)
 
 ## Development Stack
 
