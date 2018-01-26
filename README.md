@@ -24,6 +24,7 @@
 * [40 Key Computer Science Concepts Explained In Layman’s Terms](http://carlcheo.com/compsci)
 * [Ten Things A Serious JavaScript Developer Should Learn](https://benmccormick.org/2017/07/19/ten-things-javascript/)
 * [Map of Computer Science](https://www.youtube.com/watch?v=SzJ46YA_RaA)
+* [Hacker Rank 2018 Developer Skills Report](https://research.hackerrank.com/developer-skills/2018/)
 
 ## Development Stack
 
