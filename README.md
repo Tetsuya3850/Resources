@@ -1,10 +1,3 @@
-## Basic Tools
-
-* [Google](https://google.com)
-* [GitHub](https://github.com/)
-* [Stack Overflow](https://stackoverflow.com/)
-
-
 ## Big Picture
 
 * [Developer Survey Results 2017](https://insights.stackoverflow.com/survey/2017)
@@ -28,7 +21,9 @@
 * [Why Software Is Eating the World](https://a16z.com/2016/08/20/why-software-is-eating-the-world/)
 
 ## Development Stack
-
+* [Google](https://google.com)
+* [GitHub](https://github.com/)
+* [Stack Overflow](https://stackoverflow.com/)
 * [Google Chrome](https://www.google.com/intl/en/chrome/browser/canary.html)
 * [Chrome DevTools](https://developer.chrome.com/devtools)
 * [ATOM](https://atom.io/)
