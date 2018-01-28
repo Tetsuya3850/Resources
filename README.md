@@ -21,12 +21,22 @@
 * [Adobe CC](http://www.adobe.com/creativecloud.html)
 * [Heroku](https://www.heroku.com/)
 
-## JavaScript
+## JavaScript Front-End
+* [React](https://reactjs.org/)
+* [create-react-app](https://github.com/facebook/create-react-app)
+* [react-router-dom](https://reacttraining.com/react-router/web)
+* [Redux](http://redux.js.org/)
+* [redux-thunk](https://github.com/gaearon/redux-thunk)
+* [tylermcginnis.com](https://tylermcginnis.com/)
+* [Fullstack React](https://www.fullstackreact.com/)
 
-* [The best of JavaScript, HTML, CSS](http://bestof.js.org/)
+
+
+
+
 * [Learn ES2015](https://babeljs.io/learn-es2015/)
 * [A Rundown of JavaScript 2015 Features](https://auth0.com/blog/a-rundown-of-es6-features/)
-* [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
+
 * [10 Interview Questions Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95)
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 * [Babel](https://babeljs.io/)
@@ -45,14 +55,12 @@
 
 ## React
 
-* [React](https://facebook.github.io/react/)
-* [Tutorial: Intro To React](https://facebook.github.io/react/tutorial/tutorial.html)
-* [React Get Started](https://facebook.github.io/react/docs/hello-world.html)
-* [React Fundamentals by ReactTraining.com](https://reacttraining.com/online/react-fundamentals)
-* [FULLSTACK REACT](https://www.fullstackreact.com/)
+
+
+
+
 * [react-redux-links](https://github.com/markerikson/react-redux-links)
-* [create-react-app](https://github.com/facebookincubator/create-react-app)
-* [react-router](https://github.com/ReactTraining/react-router)
+
 * [Simple React Development in 2017](https://hackernoon.com/simple-react-development-in-2017-113bd563691f)
 * [Tips to learn React + Redux in 2017](https://www.robinwieruch.de/tips-to-learn-react-redux/)
 * [Presentational and Container Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0)
@@ -72,11 +80,11 @@
 
 ## Redux
 * [You Might Not Need Redux](https://medium.com/@dan_abramov/you-might-not-need-redux-be46360cf367)
-* [Redux](http://redux.js.org/)
+
 * [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux)
 * [Building React Applications with Idiomatic Redux](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)
 * [Redux DevTools](https://github.com/gaearon/redux-devtools)
-* [redux-thunk](https://github.com/gaearon/redux-thunk)
+
 * [normalizr](https://github.com/paularmstrong/normalizr)
 * [Using Immutable.JS with Redux](http://redux.js.org/docs/recipes/UsingImmutableJS.html)
 * [Immutable.js Object Formatter](https://chrome.google.com/webstore/detail/immutablejs-object-format/hgldghadipiblonfkkicmgcbbijnpeog/related)
@@ -200,6 +208,8 @@
 * [Why Software Is Eating the World](https://a16z.com/2016/08/20/why-software-is-eating-the-world/)
 * [f.lux](https://justgetflux.com/)
 * [Freedom](https://freedom.to/)
+* [The best of JavaScript, HTML, CSS](http://bestof.js.org/)
+* [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
 
 ## Learn More
 * [Google Web Fundamentals](https://developers.google.com/web/fundamentals/)
