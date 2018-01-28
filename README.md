@@ -5,18 +5,8 @@
 * [Web Developer Roadmap 2018](https://github.com/kamranahmedse/developer-roadmap)
 * [The (R)Evolution of Web Development](http://blog.isquaredsoftware.com/presentations/2016-10-revolution-of-web-dev/#/?_k=c7mjfu)
 * [the STATE of JavaScript 2017](http://stateofjs.com/)
-* [A Brief History of JavaScript](https://auth0.com/blog/a-brief-history-of-javascript/)
-* [Our entire team of engineers use this front end development guide](https://medium.freecodecamp.org/grabs-front-end-guide-for-large-teams-484d4033cc41)
-* [Why Learning to Code is So Damn Hard](https://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard)
-* [first do it, then do it right, then do it better.](https://medium.com/@addyosmani/totally-get-your-frustration-ea11adf237e3)
-* [How Aristotle Created the Computer](https://www.theatlantic.com/technology/archive/2017/03/aristotle-computer/518697/)
-* [20 Things I Learned About Browsers and the Web](http://www.20thingsilearned.com/en-US/home)
-* [Keynote - Jacob Kaplan-Moss - Pycon 2015](https://www.youtube.com/watch?v=hIJdFxYlEKE)
-* [40 Key Computer Science Concepts Explained In Layman’s Terms](http://carlcheo.com/compsci)
-* [Ten Things A Serious JavaScript Developer Should Learn](https://benmccormick.org/2017/07/19/ten-things-javascript/)
 * [Map of Computer Science](https://www.youtube.com/watch?v=SzJ46YA_RaA)
 * [Hacker Rank 2018 Developer Skills Report](https://research.hackerrank.com/developer-skills/2018/)
-* [Why Software Is Eating the World](https://a16z.com/2016/08/20/why-software-is-eating-the-world/)
 
 ## Development Stack
 * [Google](https://google.com)
@@ -207,6 +197,12 @@
 * [HTML5 Element Flowchart](http://html5doctor.com/downloads/h5d-sectioning-flowchart.png)
 * [The Mega HTML5 Cheatsheet](https://medium.com/level-up-web/the-mega-html5-cheatsheet-e8c479b1c521)
 * [AI in China: Cutting Through the Hype](https://www.eurasiagroup.net/live-post/ai-in-china-cutting-through-the-hype)
+* [Why Learning to Code is So Damn Hard](https://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard)
+* [20 Things I Learned About Browsers and the Web](http://www.20thingsilearned.com/en-US/home)
+* [Keynote - Jacob Kaplan-Moss - Pycon 2015](https://www.youtube.com/watch?v=hIJdFxYlEKE)
+* [40 Key Computer Science Concepts Explained In Layman’s Terms](http://carlcheo.com/compsci)
+* [Ten Things A Serious JavaScript Developer Should Learn](https://benmccormick.org/2017/07/19/ten-things-javascript/)
+* [Why Software Is Eating the World](https://a16z.com/2016/08/20/why-software-is-eating-the-world/)
 
 ## Learn More
 * [Google Web Fundamentals](https://developers.google.com/web/fundamentals/)
