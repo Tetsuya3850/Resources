@@ -133,6 +133,7 @@
 * [Express API](https://expressjs.com/en/api.html)
 * [Production best practices: performance and reliability](https://expressjs.com/en/advanced/best-practice-performance.html)
 * [MDN's Express Tutorial](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs)
+* [body-parser](https://www.npmjs.com/package/body-parser)
 * [Deploying Node.js Apps on Heroku](https://devcenter.heroku.com/articles/deploying-nodejs)
 
 ## Python
