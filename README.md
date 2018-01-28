@@ -125,6 +125,8 @@
 * [Node.js v8.1.0 Documentation](https://nodejs.org/api/documentation.html)
 * [art-of-node](https://github.com/maxogden/art-of-node)
 * [Learn and Understand NodeJS](https://www.udemy.com/understand-nodejs/learn/v4/content)
+* [10 Tips to Become a Better Node Developer in 2017](https://www.sitepoint.com/10-tips-to-become-a-better-node-developer/)
+* [10 Node.js Best Practices: Enlightenment from the Node Gurus](https://www.sitepoint.com/node-js-best-practices-from-the-node-gurus/)
 * [Express API](https://expressjs.com/en/api.html)
 * [MDN's Express Tutorial](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs)
 
