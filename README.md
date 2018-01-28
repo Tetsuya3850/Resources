@@ -4,8 +4,6 @@
 * [Web Development In 2018 - A Practical Guide](https://www.youtube.com/watch?v=Zftx68K-1D4)
 * [Web Developer Roadmap 2018](https://github.com/kamranahmedse/developer-roadmap)
 * [The (R)Evolution of Web Development](http://blog.isquaredsoftware.com/presentations/2016-10-revolution-of-web-dev/#/?_k=c7mjfu)
-* [How it feels to learn JavaScript in 2016](https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f)
-* [State of the Art JavaScript in 2016](https://medium.com/javascript-and-opinions/state-of-the-art-javascript-in-2016-ab67fc68eb0b)
 * [the STATE of JavaScript 2017](http://stateofjs.com/)
 * [A Brief History of JavaScript](https://auth0.com/blog/a-brief-history-of-javascript/)
 * [Our entire team of engineers use this front end development guide](https://medium.freecodecamp.org/grabs-front-end-guide-for-large-teams-484d4033cc41)
