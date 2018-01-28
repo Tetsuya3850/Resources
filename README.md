@@ -128,6 +128,7 @@
 * [10 Tips to Become a Better Node Developer in 2017](https://www.sitepoint.com/10-tips-to-become-a-better-node-developer/)
 * [10 Node.js Best Practices: Enlightenment from the Node Gurus](https://www.sitepoint.com/node-js-best-practices-from-the-node-gurus/)
 * [dotenv](https://www.npmjs.com/package/dotenv)
+* [nodemon](https://github.com/remy/nodemon)
 * [Express API](https://expressjs.com/en/api.html)
 * [Production best practices: performance and reliability](https://expressjs.com/en/advanced/best-practice-performance.html)
 * [MDN's Express Tutorial](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs)
