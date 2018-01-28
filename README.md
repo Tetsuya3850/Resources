@@ -1,5 +1,4 @@
 ## Big Picture
-
 * [Developer Survey Results 2017](https://insights.stackoverflow.com/survey/2017)
 * [Web Development In 2018 - A Practical Guide](https://www.youtube.com/watch?v=Zftx68K-1D4)
 * [Web Developer Roadmap 2018](https://github.com/kamranahmedse/developer-roadmap)
@@ -8,27 +7,19 @@
 * [Map of Computer Science](https://www.youtube.com/watch?v=SzJ46YA_RaA)
 * [Hacker Rank 2018 Developer Skills Report](https://research.hackerrank.com/developer-skills/2018/)
 
-## Development Stack
+## Development Tools
 * [Google](https://google.com)
+* [Google Chrome](https://www.google.com/intl/en/chrome/browser/canary.html)
 * [GitHub](https://github.com/)
 * [Stack Overflow](https://stackoverflow.com/)
-* [Google Chrome](https://www.google.com/intl/en/chrome/browser/canary.html)
-* [Chrome DevTools](https://developer.chrome.com/devtools)
-* [ATOM](https://atom.io/)
+* [Medium](https://medium.com/)
+* [Atom](https://atom.io/)
 * [git](https://git-scm.com/)
 * [Slack](https://slack.com/)
 * [Parells Desktop](www.parallels.com/products/desktop/)
-* [f.lux](https://justgetflux.com/)
-* [Freedom](https://freedom.to/)
-* [npm](https://www.npmjs.com/)
-* [webpack](https://webpack.github.io/)
 * [Sketch](https://www.sketchapp.com/)
 * [Adobe CC](http://www.adobe.com/creativecloud.html)
-* [Node.js](https://nodejs.org/en/)
-* [MongoDB](https://www.mongodb.com/)
 * [Heroku](https://www.heroku.com/)
-* [Expo](https://expo.io/)
-* [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc?hl=en)
 
 ## JavaScript
 
@@ -47,6 +38,10 @@
 * [TypeScript](https://www.typescriptlang.org/index.html)
 * [The Cost Of JavaScript](https://medium.com/dev-channel/the-cost-of-javascript-84009f51e99e)
 * [SurviveJS - Webpack](https://survivejs.com/webpack/)
+* [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc?hl=en)
+* [npm](https://www.npmjs.com/)
+* [webpack](https://webpack.github.io/)
+
 
 ## React
 
@@ -203,6 +198,8 @@
 * [40 Key Computer Science Concepts Explained In Layman’s Terms](http://carlcheo.com/compsci)
 * [Ten Things A Serious JavaScript Developer Should Learn](https://benmccormick.org/2017/07/19/ten-things-javascript/)
 * [Why Software Is Eating the World](https://a16z.com/2016/08/20/why-software-is-eating-the-world/)
+* [f.lux](https://justgetflux.com/)
+* [Freedom](https://freedom.to/)
 
 ## Learn More
 * [Google Web Fundamentals](https://developers.google.com/web/fundamentals/)
