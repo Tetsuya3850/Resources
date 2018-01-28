@@ -45,6 +45,7 @@
 * [MongoDB](https://www.mongodb.com/)
 * [Heroku](https://www.heroku.com/)
 * [Expo](https://expo.io/)
+* [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc?hl=en)
 
 ## JavaScript
 
