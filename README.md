@@ -130,7 +130,7 @@
 * [Express API](https://expressjs.com/en/api.html)
 * [Production best practices: performance and reliability](https://expressjs.com/en/advanced/best-practice-performance.html)
 * [MDN's Express Tutorial](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs)
-* [Getting Started on Heroku with Node.js](https://devcenter.heroku.com/articles/getting-started-with-nodejs#introduction)
+* [Deploying Node.js Apps on Heroku](https://devcenter.heroku.com/articles/deploying-nodejs)
 
 ## Python
 * [The Python Tutorial](https://docs.python.org/3/tutorial/index.html)
