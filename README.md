@@ -128,6 +128,9 @@
 * [Google's Python Class](https://developers.google.com/edu/python/)
 * [Programming Foundations with Python](https://www.udacity.com/course/programming-foundations-with-python--ud036)
 
+## Java
+* [Head First Java](https://www.amazon.com/Head-First-Java-Kathy-Sierra/dp/0596009208)
+
 ## SQL
 * [SQL Tutorial](https://www.w3schools.com/sql/default.asp)
 
