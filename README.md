@@ -93,7 +93,7 @@
 * [.gitignore templates](https://github.com/github/gitignore)
 * [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc?hl=en)
 * [Can I use...](http://caniuse.com/#home)
-
+* [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 
 
 
@@ -118,7 +118,6 @@
 * [normalizr](https://github.com/paularmstrong/normalizr)
 * [Using Immutable.JS with Redux](http://redux.js.org/docs/recipes/UsingImmutableJS.html)
 * [Immutable.js Object Formatter](https://chrome.google.com/webstore/detail/immutablejs-object-format/hgldghadipiblonfkkicmgcbbijnpeog/related)
-* [Anjana Vakil: Learning Functional Programming with JavaScript - JSUnconf 2016](https://www.youtube.com/watch?v=e-5obm1G_FY&feature=youtu.be)
 * [Avoiding Accidental Complexity When Structuring Your App State](https://hackernoon.com/avoiding-accidental-complexity-when-structuring-your-app-state-6e6d22ad5e2a)
 * [Database Normalization Explained in Simple English](https://www.essentialsql.com/get-ready-to-learn-sql-database-normalization-explained-in-simple-english/)
 
@@ -138,10 +137,6 @@
 
 
 
-
-
-
-* [Nobody Wants To Use Your Product](https://www.smashingmagazine.com/2016/01/nobody-wants-use-your-product/)
 * [Painting with Code](https://airbnb.design/painting-with-code/)
 
 * [Innovater's Dilemma](https://www.amazon.com/Innovators-Dilemma-Technologies-Management-Innovation/dp/1633691780/ref=pd_lpo_sbs_14_t_0?_encoding=UTF8&psc=1&refRID=CP8ZSE9R0G0W26897GRA)
@@ -150,11 +145,8 @@
 
 ## Role Model
 * [NIPPON COLORS](http://nipponcolors.com/)
-* [WASARA](http://www.wasara.jp/)
-* [べにや無可有](http://mukayu.com/)
 * [Navigating Responsibility](http://www.navigatingresponsibly.dk/)
 * [The Hidden Worlds of the National Parks](https://artsandculture.withgoogle.com/en-us/national-parks-service)
-* [Sensorium](http://www.sensorium.org/)
 
 
 ## Career
@@ -170,12 +162,7 @@
 * [How To Ask Questions The Smart Way](http://www.catb.org/~esr/faqs/smart-questions.html)
 * [Choose a License](https://choosealicense.com/)
 * [2017 is the year that front-end developers should go back and master the basics](https://medium.freecodecamp.com/what-to-learn-in-2017-if-youre-a-frontend-developer-b6cfef46effd)
-* [Font Awesome](http://fontawesome.io/)
-* [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
-
-
 * [HOW TO START A BLOG](https://amylynnandrews.com/how-to-start-a-blog/)
-* [Readme Driven Development](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html)
 * [HTML5 Element Flowchart](http://html5doctor.com/downloads/h5d-sectioning-flowchart.png)
 * [The Mega HTML5 Cheatsheet](https://medium.com/level-up-web/the-mega-html5-cheatsheet-e8c479b1c521)
 * [AI in China: Cutting Through the Hype](https://www.eurasiagroup.net/live-post/ai-in-china-cutting-through-the-hype)
@@ -185,4 +172,3 @@
 * [40 Key Computer Science Concepts Explained In Layman’s Terms](http://carlcheo.com/compsci)
 * [Ten Things A Serious JavaScript Developer Should Learn](https://benmccormick.org/2017/07/19/ten-things-javascript/)
 * [Why Software Is Eating the World](https://a16z.com/2016/08/20/why-software-is-eating-the-world/)
-
