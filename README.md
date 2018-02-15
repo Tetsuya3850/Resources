@@ -22,7 +22,6 @@
 * [Heroku](https://www.heroku.com/)
 * [f.lux](https://justgetflux.com/)
 * [Freedom](https://freedom.to/)
-* [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc?hl=en)
 
 ## React.js
 * [React](https://reactjs.org/)
@@ -35,6 +34,7 @@
 * [redux-thunk](https://github.com/gaearon/redux-thunk)
 * [Redux DevTools](https://github.com/gaearon/redux-devtools)
 * [Immutable.js](https://facebook.github.io/immutable-js/)
+* [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
 * [tylermcginnis.com](https://tylermcginnis.com/)
 * [Fullstack React](https://www.fullstackreact.com/)
 * [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux)
@@ -89,6 +89,12 @@
 * [Elements of Programming Interview in Python](https://www.amazon.com/Elements-Programming-Interviews-Python-Insiders/dp/1537713949/ref=pd_sim_14_3?_encoding=UTF8&psc=1&refRID=4FWT0BDPHRNGFNH7B928)
 * [Soft Skills: The software developer's life manual](https://www.amazon.com/Soft-Skills-software-developers-manual/dp/1617292397/ref=sr_1_1?ie=UTF8&qid=1495198784&sr=8-1&keywords=soft+skills)
 
+## Others
+* [.gitignore templates](https://github.com/github/gitignore)
+* [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc?hl=en)
+* [Can I use...](http://caniuse.com/#home)
+
+
 
 
 ## React
@@ -136,7 +142,6 @@
 
 
 * [Nobody Wants To Use Your Product](https://www.smashingmagazine.com/2016/01/nobody-wants-use-your-product/)
-* [react-sketchapp](https://github.com/airbnb/react-sketchapp)
 * [Painting with Code](https://airbnb.design/painting-with-code/)
 
 * [Innovater's Dilemma](https://www.amazon.com/Innovators-Dilemma-Technologies-Management-Innovation/dp/1633691780/ref=pd_lpo_sbs_14_t_0?_encoding=UTF8&psc=1&refRID=CP8ZSE9R0G0W26897GRA)
@@ -160,15 +165,15 @@
 * [PayScale](https://www.payscale.com/)
 * [10 Interview Questions Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95)
 
-## Others
+
 
 * [How To Ask Questions The Smart Way](http://www.catb.org/~esr/faqs/smart-questions.html)
 * [Choose a License](https://choosealicense.com/)
 * [2017 is the year that front-end developers should go back and master the basics](https://medium.freecodecamp.com/what-to-learn-in-2017-if-youre-a-frontend-developer-b6cfef46effd)
 * [Font Awesome](http://fontawesome.io/)
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
-* [Can I use...](http://caniuse.com/#home)
-* [.gitignore templates](https://github.com/github/gitignore)
+
+
 * [HOW TO START A BLOG](https://amylynnandrews.com/how-to-start-a-blog/)
 * [Readme Driven Development](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html)
 * [HTML5 Element Flowchart](http://html5doctor.com/downloads/h5d-sectioning-flowchart.png)
@@ -180,12 +185,4 @@
 * [40 Key Computer Science Concepts Explained In Layman’s Terms](http://carlcheo.com/compsci)
 * [Ten Things A Serious JavaScript Developer Should Learn](https://benmccormick.org/2017/07/19/ten-things-javascript/)
 * [Why Software Is Eating the World](https://a16z.com/2016/08/20/why-software-is-eating-the-world/)
-* [The best of JavaScript, HTML, CSS](http://bestof.js.org/)
-* [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
 
-## Learn More
-* [Google Web Fundamentals](https://developers.google.com/web/fundamentals/)
-* [Google Technical Development Guide](https://www.google.com/about/careers/students/guide-to-technical-development.html)
-* [Mozilla Developer Network Web technology for developers](https://developer.mozilla.org/en-US/docs/Web)
-* [Software Engineering Daily](https://softwareengineeringdaily.com/)
-* [spellbook-of-modern-webdev](https://github.com/dexteryy/spellbook-of-modern-webdev)
