@@ -2,9 +2,7 @@
 * [Developer Survey Results 2017](https://insights.stackoverflow.com/survey/2017)
 * [Web Development In 2018 - A Practical Guide](https://www.youtube.com/watch?v=Zftx68K-1D4)
 * [Web Developer Roadmap 2018](https://github.com/kamranahmedse/developer-roadmap)
-* [The (R)Evolution of Web Development](http://blog.isquaredsoftware.com/presentations/2016-10-revolution-of-web-dev/#/?_k=c7mjfu)
 * [the STATE of JavaScript 2017](http://stateofjs.com/)
-* [Map of Computer Science](https://www.youtube.com/watch?v=SzJ46YA_RaA)
 * [Hacker Rank 2018 Developer Skills Report](https://research.hackerrank.com/developer-skills/2018/)
 
 ## Development Tools
@@ -97,9 +95,8 @@
 * [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc?hl=en)
 * [Can I use...](http://caniuse.com/#home)
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
-
-
-
+* [20 Things I Learned About Browsers and the Web](http://www.20thingsilearned.com/en-US/home)
+* [Map of Computer Science](https://www.youtube.com/watch?v=SzJ46YA_RaA)
 
 
 
@@ -111,7 +108,6 @@
 * [React Lifecycle Methods- how and when to use them](https://engineering.musefind.com/react-lifecycle-methods-how-and-when-to-use-them-2111a1b692b1)
 
 ## Redux
-* [normalizr](https://github.com/paularmstrong/normalizr)
 * [Avoiding Accidental Complexity When Structuring Your App State](https://hackernoon.com/avoiding-accidental-complexity-when-structuring-your-app-state-6e6d22ad5e2a)
 * [Database Normalization Explained in Simple English](https://www.essentialsql.com/get-ready-to-learn-sql-database-normalization-explained-in-simple-english/)
 
@@ -144,11 +140,9 @@
 * [Choose a License](https://choosealicense.com/)
 * [2017 is the year that front-end developers should go back and master the basics](https://medium.freecodecamp.com/what-to-learn-in-2017-if-youre-a-frontend-developer-b6cfef46effd)
 * [HOW TO START A BLOG](https://amylynnandrews.com/how-to-start-a-blog/)
-* [HTML5 Element Flowchart](http://html5doctor.com/downloads/h5d-sectioning-flowchart.png)
-* [The Mega HTML5 Cheatsheet](https://medium.com/level-up-web/the-mega-html5-cheatsheet-e8c479b1c521)
 * [AI in China: Cutting Through the Hype](https://www.eurasiagroup.net/live-post/ai-in-china-cutting-through-the-hype)
 * [Why Learning to Code is So Damn Hard](https://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard)
-* [20 Things I Learned About Browsers and the Web](http://www.20thingsilearned.com/en-US/home)
+
 * [40 Key Computer Science Concepts Explained In Layman’s Terms](http://carlcheo.com/compsci)
 * [Ten Things A Serious JavaScript Developer Should Learn](https://benmccormick.org/2017/07/19/ten-things-javascript/)
 * [Why Software Is Eating the World](https://a16z.com/2016/08/20/why-software-is-eating-the-world/)
