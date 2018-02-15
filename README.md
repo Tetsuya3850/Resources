@@ -77,6 +77,7 @@
 ## UX Design
 * [The Elements of User Experience](https://www.amazon.com/Elements-User-Experience-User-Centered-Design/dp/0321683684/ref=sr_1_1?ie=UTF8&qid=1492827574&sr=8-1&keywords=the+elements+of+user+experience)
 * [Don't Make Me Think](https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515/ref=sr_1_1?ie=UTF8&qid=1492827633&sr=8-1&keywords=don%27t+make+me+think)
+* [Accessibility according to actual people with disabilities](https://axesslab.com/accessibility-according-to-pwd)
 
 ## Tech Entreprenuership
 * [The Lean Startup](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898)
@@ -138,11 +139,6 @@
 * [Nobody Wants To Use Your Product](https://www.smashingmagazine.com/2016/01/nobody-wants-use-your-product/)
 * [react-sketchapp](https://github.com/airbnb/react-sketchapp)
 * [Painting with Code](https://airbnb.design/painting-with-code/)
-* [Modern Design Tools: Using Real Data](https://medium.com/bridge-collection/modern-design-tools-using-real-data-62d499e97482)
-* [We Don’t Need More Designers Who Can Code](https://medium.com/re-write/we-dont-need-more-designers-who-can-code-b81483d2a0e6)
-* [ACCESSIBILITY ACCORDING TO ACTUAL PEOPLE WITH DISABILITIES](https://axesslab.com/accessibility-according-to-pwd/?utm_source=frontendfocus&utm_medium=email)
-* [Introduction to WAI ARIA](https://dev.opera.com/articles/introduction-to-wai-aria/)
-
 
 * [Innovater's Dilemma](https://www.amazon.com/Innovators-Dilemma-Technologies-Management-Innovation/dp/1633691780/ref=pd_lpo_sbs_14_t_0?_encoding=UTF8&psc=1&refRID=CP8ZSE9R0G0W26897GRA)
 
@@ -171,7 +167,6 @@
 * [Choose a License](https://choosealicense.com/)
 * [2017 is the year that front-end developers should go back and master the basics](https://medium.freecodecamp.com/what-to-learn-in-2017-if-youre-a-frontend-developer-b6cfef46effd)
 * [Font Awesome](http://fontawesome.io/)
-* [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 * [Can I use...](http://caniuse.com/#home)
 * [.gitignore templates](https://github.com/github/gitignore)
