@@ -85,10 +85,9 @@
 * [The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers](https://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205)
 
 ## Tech Career
-* [Soft Skills: The software developer's life manual](https://www.amazon.com/Soft-Skills-software-developers-manual/dp/1617292397/ref=sr_1_1?ie=UTF8&qid=1495198784&sr=8-1&keywords=soft+skills)
 * [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-6th-Edition/dp/0984782850)
 * [Elements of Programming Interview in Python](https://www.amazon.com/Elements-Programming-Interviews-Python-Insiders/dp/1537713949/ref=pd_sim_14_3?_encoding=UTF8&psc=1&refRID=4FWT0BDPHRNGFNH7B928)
-
+* [Soft Skills: The software developer's life manual](https://www.amazon.com/Soft-Skills-software-developers-manual/dp/1617292397/ref=sr_1_1?ie=UTF8&qid=1495198784&sr=8-1&keywords=soft+skills)
 
 
 
