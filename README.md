@@ -24,19 +24,20 @@
 * [Freedom](https://freedom.to/)
 
 ## React.js
-* [React](https://reactjs.org/)
+* [React Docs](https://reactjs.org/)
 * [create-react-app](https://github.com/facebook/create-react-app)
 * [react-router-dom](https://reacttraining.com/react-router/web)
-* [react-native](https://github.com/facebook/react-native)
+* [React Devtools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)
+* [React Native Docs](http://facebook.github.io/react-native/)
 * [Expo](https://expo.io/)
 * [create-react-native-app](https://github.com/react-community/create-react-native-app)
-* [Redux](http://redux.js.org/)
+* [Redux Docs](http://redux.js.org/)
 * [redux-thunk](https://github.com/gaearon/redux-thunk)
 * [Redux DevTools](https://github.com/gaearon/redux-devtools)
 * [Immutable.js](https://facebook.github.io/immutable-js/)
 * [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
-* [tylermcginnis.com](https://tylermcginnis.com/)
 * [Fullstack React](https://www.fullstackreact.com/)
+* [tylermcginnis.com](https://tylermcginnis.com/)
 * [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux)
 * [Building React Applications with Idiomatic Redux](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)
 * [Presentational and Container Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0)
@@ -48,6 +49,7 @@
 * [MDN's Express Tutorial](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs)
 * [body-parser](https://www.npmjs.com/package/body-parser)
 * [Helmet](https://helmetjs.github.io/)
+* [Passport](http://www.passportjs.org/)
 
 ## Python
 * [The Python Tutorial](https://docs.python.org/3/tutorial/index.html)
@@ -98,20 +100,18 @@
 
 
 
+
+
+
+
+
 ## React
-* [Immutable Javascript using ES6 and beyond](https://wecodetheweb.com/2016/02/12/immutable-javascript-using-es6-and-beyond/)
-* [React AJAX Best Practices](http://andrewhfarmer.com/react-ajax-best-practices/)
-* [The Component Lifecycle](https://www.kirupa.com/react/component_lifecycle.htm)
-* [What to use for React Styling?](http://andrewhfarmer.com/how-to-style-react/)
-* [React.js Forms: Controlled Components](http://lorenstewart.me/2016/10/31/react-js-forms-controlled-components/)
 * [All the fundamental React.js concepts, jammed into this single Medium article](https://medium.freecodecamp.org/all-the-fundamental-react-js-concepts-jammed-into-this-single-medium-article-c83f9b53eac2)
 * [What’s New With Server-Side Rendering in React 16](https://hackernoon.com/whats-new-with-server-side-rendering-in-react-16-9b0d78585d67)
 * [React Lifecycle Methods- how and when to use them](https://engineering.musefind.com/react-lifecycle-methods-how-and-when-to-use-them-2111a1b692b1)
 
 ## Redux
 * [normalizr](https://github.com/paularmstrong/normalizr)
-* [Using Immutable.JS with Redux](http://redux.js.org/docs/recipes/UsingImmutableJS.html)
-* [Immutable.js Object Formatter](https://chrome.google.com/webstore/detail/immutablejs-object-format/hgldghadipiblonfkkicmgcbbijnpeog/related)
 * [Avoiding Accidental Complexity When Structuring Your App State](https://hackernoon.com/avoiding-accidental-complexity-when-structuring-your-app-state-6e6d22ad5e2a)
 * [Database Normalization Explained in Simple English](https://www.essentialsql.com/get-ready-to-learn-sql-database-normalization-explained-in-simple-english/)
 
@@ -133,20 +133,7 @@
 
 * [Painting with Code](https://airbnb.design/painting-with-code/)
 
-* [Innovater's Dilemma](https://www.amazon.com/Innovators-Dilemma-Technologies-Management-Innovation/dp/1633691780/ref=pd_lpo_sbs_14_t_0?_encoding=UTF8&psc=1&refRID=CP8ZSE9R0G0W26897GRA)
 
-
-
-## Role Model
-* [NIPPON COLORS](http://nipponcolors.com/)
-* [Navigating Responsibility](http://www.navigatingresponsibly.dk/)
-* [The Hidden Worlds of the National Parks](https://artsandculture.withgoogle.com/en-us/national-parks-service)
-
-
-## Career
-
-
-* ['How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft' by Sean Lee](https://www.youtube.com/watch?v=YJZCUhxNCv8)
 * [Front-end Job Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
 * [PayScale](https://www.payscale.com/)
 * [10 Interview Questions Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95)
