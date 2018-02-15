@@ -99,7 +99,6 @@
 
 
 ## React
-* [Simple React Development in 2017](https://hackernoon.com/simple-react-development-in-2017-113bd563691f)
 * [Tips to learn React + Redux in 2017](https://www.robinwieruch.de/tips-to-learn-react-redux/)
 * [Pros and Cons of using immutability with React.js](http://reactkungfu.com/2015/08/pros-and-cons-of-using-immutability-with-react-js/)
 * [Immutable Javascript using ES6 and beyond](https://wecodetheweb.com/2016/02/12/immutable-javascript-using-es6-and-beyond/)
