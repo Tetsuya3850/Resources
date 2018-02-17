@@ -102,18 +102,13 @@
 * [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc?hl=en)
 * [Can I use...](http://caniuse.com/#home)
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
-
+* [How To Ask Questions The Smart Way](http://www.catb.org/~esr/faqs/smart-questions.html)
 
 
 
 
 
 ## R
-* [What’s New With Server-Side Rendering in React 16](https://hackernoon.com/whats-new-with-server-side-rendering-in-react-16-9b0d78585d67)
-* [React Lifecycle Methods- how and when to use them](https://engineering.musefind.com/react-lifecycle-methods-how-and-when-to-use-them-2111a1b692b1)
-* [Database Normalization Explained in Simple English](https://www.essentialsql.com/get-ready-to-learn-sql-database-normalization-explained-in-simple-english/)
-* [GET READY FOR CSS GRID LAYOUT](https://abookapart.com/products/get-ready-for-css-grid-layout)
-* [Grid by Example](https://gridbyexample.com/)
 * [Learn and Understand NodeJS](https://www.udemy.com/understand-nodejs/learn/v4/content)
 * [10 Tips to Become a Better Node Developer in 2017](https://www.sitepoint.com/10-tips-to-become-a-better-node-developer/)
 * [10 Node.js Best Practices: Enlightenment from the Node Gurus](https://www.sitepoint.com/node-js-best-practices-from-the-node-gurus/)
@@ -121,7 +116,5 @@
 * [Front-end Job Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
 * [PayScale](https://www.payscale.com/)
 * [10 Interview Questions Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95)
-* [How To Ask Questions The Smart Way](http://www.catb.org/~esr/faqs/smart-questions.html)
 * [2017 is the year that front-end developers should go back and master the basics](https://medium.freecodecamp.com/what-to-learn-in-2017-if-youre-a-frontend-developer-b6cfef46effd)
 * [HOW TO START A BLOG](https://amylynnandrews.com/how-to-start-a-blog/)
-* [Ten Things A Serious JavaScript Developer Should Learn](https://benmccormick.org/2017/07/19/ten-things-javascript/)
