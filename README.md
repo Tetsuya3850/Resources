@@ -74,6 +74,7 @@
 * [20 Things I Learned About Browsers and the Web](http://www.20thingsilearned.com/en-US/home)
 * [40 Key Computer Science Concepts Explained In Layman’s Terms](http://carlcheo.com/compsci)
 * [Map of Computer Science](https://www.youtube.com/watch?v=SzJ46YA_RaA)
+* [Domino Addition - Numberphile](https://www.youtube.com/watch?v=lNuPy-r1GuQ)
 
 ## Data Structures and Algorithms
 * [GeeksforGeeks](https://www.geeksforgeeks.org/)
