@@ -30,6 +30,7 @@
 * [Expo](https://expo.io/)
 * [create-react-native-app](https://github.com/react-community/create-react-native-app)
 * [Redux Docs](http://redux.js.org/)
+* [React-Redux](https://github.com/reactjs/react-redux)
 * [redux-thunk](https://github.com/gaearon/redux-thunk)
 * [Redux DevTools](https://github.com/gaearon/redux-devtools)
 * [Immutable.js](https://facebook.github.io/immutable-js/)
