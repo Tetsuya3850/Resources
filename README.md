@@ -49,6 +49,7 @@
 * [body-parser](https://www.npmjs.com/package/body-parser)
 * [Helmet](https://helmetjs.github.io/)
 * [Passport](http://www.passportjs.org/)
+* [socket.io](https://socket.io/)
 
 ## Python
 * [The Python Tutorial](https://docs.python.org/3/tutorial/index.html)
