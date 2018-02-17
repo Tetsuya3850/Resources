@@ -70,6 +70,11 @@
 ## AWS
 * [AWS open-guides](https://github.com/open-guides/og-aws)
 
+## CS Fundamentals
+* [20 Things I Learned About Browsers and the Web](http://www.20thingsilearned.com/en-US/home)
+* [40 Key Computer Science Concepts Explained In Layman’s Terms](http://carlcheo.com/compsci)
+* [Map of Computer Science](https://www.youtube.com/watch?v=SzJ46YA_RaA)
+
 ## Data Structures and Algorithms
 * [GeeksforGeeks](https://www.geeksforgeeks.org/)
 * [HackerRank](https://www.hackerrank.com)
@@ -96,46 +101,26 @@
 * [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc?hl=en)
 * [Can I use...](http://caniuse.com/#home)
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
-* [20 Things I Learned About Browsers and the Web](http://www.20thingsilearned.com/en-US/home)
-* [Map of Computer Science](https://www.youtube.com/watch?v=SzJ46YA_RaA)
 
 
 
 
 
-## React
+
+## R
 * [What’s New With Server-Side Rendering in React 16](https://hackernoon.com/whats-new-with-server-side-rendering-in-react-16-9b0d78585d67)
 * [React Lifecycle Methods- how and when to use them](https://engineering.musefind.com/react-lifecycle-methods-how-and-when-to-use-them-2111a1b692b1)
-
-## Redux
-* [Avoiding Accidental Complexity When Structuring Your App State](https://hackernoon.com/avoiding-accidental-complexity-when-s
 * [Database Normalization Explained in Simple English](https://www.essentialsql.com/get-ready-to-learn-sql-database-normalization-explained-in-simple-english/)
-
-## CSS
 * [GET READY FOR CSS GRID LAYOUT](https://abookapart.com/products/get-ready-for-css-grid-layout)
 * [Grid by Example](https://gridbyexample.com/)
-
-## Node.js/Express
-
-* [art-of-node](https://github.com/maxogden/art-of-node)
 * [Learn and Understand NodeJS](https://www.udemy.com/understand-nodejs/learn/v4/content)
 * [10 Tips to Become a Better Node Developer in 2017](https://www.sitepoint.com/10-tips-to-become-a-better-node-developer/)
 * [10 Node.js Best Practices: Enlightenment from the Node Gurus](https://www.sitepoint.com/node-js-best-practices-from-the-node-gurus/)
 * [Production best practices: performance and reliability](https://expressjs.com/en/advanced/best-practice-performance.html)
-
-
-
-
-
 * [Front-end Job Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
 * [PayScale](https://www.payscale.com/)
 * [10 Interview Questions Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95)
-
-
-
 * [How To Ask Questions The Smart Way](http://www.catb.org/~esr/faqs/smart-questions.html)
 * [2017 is the year that front-end developers should go back and master the basics](https://medium.freecodecamp.com/what-to-learn-in-2017-if-youre-a-frontend-developer-b6cfef46effd)
 * [HOW TO START A BLOG](https://amylynnandrews.com/how-to-start-a-blog/)
-* [40 Key Computer Science Concepts Explained In Layman’s Terms](http://carlcheo.com/compsci)
 * [Ten Things A Serious JavaScript Developer Should Learn](https://benmccormick.org/2017/07/19/ten-things-javascript/)
-* [Why Software Is Eating the World](https://a16z.com/2016/08/20/why-software-is-eating-the-world/)
