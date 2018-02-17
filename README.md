@@ -8,11 +8,11 @@
 ## Development Tools
 * [Google](https://google.com)
 * [Google Chrome](https://www.google.com/intl/en/chrome/browser/canary.html)
+* [git](https://git-scm.com/)
 * [GitHub](https://github.com/)
 * [Stack Overflow](https://stackoverflow.com/)
 * [Medium](https://medium.com/)
 * [Atom](https://atom.io/)
-* [git](https://git-scm.com/)
 * [Slack](https://slack.com/)
 * [Parells Desktop](www.parallels.com/products/desktop/)
 * [Sketch](https://www.sketchapp.com/)
@@ -56,6 +56,8 @@
 
 ## Java
 * [Head First Java](https://www.amazon.com/Head-First-Java-Kathy-Sierra/dp/0596009208)
+* [Head First Design Patterns](https://www.amazon.com/Head-First-Design-Patterns-Brain-Friendly-ebook/dp/B00AA36RZY)
+* [IntelliJ IDEA](https://www.jetbrains.com/idea/)
 
 ## SQL
 * [SQL Tutorial](https://www.w3schools.com/sql/default.asp)
@@ -103,18 +105,3 @@
 * [Can I use...](http://caniuse.com/#home)
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 * [How To Ask Questions The Smart Way](http://www.catb.org/~esr/faqs/smart-questions.html)
-
-
-
-
-
-## R
-* [Learn and Understand NodeJS](https://www.udemy.com/understand-nodejs/learn/v4/content)
-* [10 Tips to Become a Better Node Developer in 2017](https://www.sitepoint.com/10-tips-to-become-a-better-node-developer/)
-* [10 Node.js Best Practices: Enlightenment from the Node Gurus](https://www.sitepoint.com/node-js-best-practices-from-the-node-gurus/)
-* [Production best practices: performance and reliability](https://expressjs.com/en/advanced/best-practice-performance.html)
-* [Front-end Job Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
-* [PayScale](https://www.payscale.com/)
-* [10 Interview Questions Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95)
-* [2017 is the year that front-end developers should go back and master the basics](https://medium.freecodecamp.com/what-to-learn-in-2017-if-youre-a-frontend-developer-b6cfef46effd)
-* [HOW TO START A BLOG](https://amylynnandrews.com/how-to-start-a-blog/)
