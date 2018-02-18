@@ -108,3 +108,4 @@
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 * [How To Ask Questions The Smart Way](http://www.catb.org/~esr/faqs/smart-questions.html)
 * [Prettier](https://github.com/prettier/prettier)
+* [uuid](https://www.npmjs.com/package/uuid)
