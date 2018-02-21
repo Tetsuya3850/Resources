@@ -45,11 +45,12 @@
 ## Node.js
 * [dotenv](https://www.npmjs.com/package/dotenv)
 * [nodemon](https://github.com/remy/nodemon)
-* [MDN's Express Tutorial](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs)
+* [Express](https://expressjs.com/)
 * [body-parser](https://www.npmjs.com/package/body-parser)
 * [Helmet](https://helmetjs.github.io/)
 * [Passport](http://www.passportjs.org/)
 * [socket.io](https://socket.io/)
+* [Node.js Security Checklist](https://blog.risingstack.com/node-js-security-checklist/)
 
 ## Python
 * [The Python Tutorial](https://docs.python.org/3/tutorial/index.html)
