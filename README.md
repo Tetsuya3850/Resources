@@ -45,6 +45,7 @@
 ## Node.js
 * [dotenv](https://www.npmjs.com/package/dotenv)
 * [nodemon](https://github.com/remy/nodemon)
+* [JSON Web Tokens](https://github.com/auth0/node-jsonwebtoken)
 * [Express](https://expressjs.com/)
 * [body-parser](https://www.npmjs.com/package/body-parser)
 * [Helmet](https://helmetjs.github.io/)
@@ -68,7 +69,7 @@
 ## MongoDB
 * [MongoDB Docs](https://docs.mongodb.com/)
 * [MongoDB University](https://university.mongodb.com/)
-* [MongoDB Atlas](https://www.mongodb.com/cloud/atlas)
+* [mLab](https://mlab.com/home)
 * [MongoDB Compass](https://www.mongodb.com/products/compass)
 * [Mongoose](http://mongoosejs.com/)
 
