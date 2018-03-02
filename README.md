@@ -34,6 +34,7 @@
 * [redux-thunk](https://github.com/gaearon/redux-thunk)
 * [Redux DevTools](https://github.com/gaearon/redux-devtools)
 * [Immutable.js](https://facebook.github.io/immutable-js/)
+* [react-google-maps](https://tomchentw.github.io/react-google-maps/)
 * [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
 * [Fullstack React](https://www.fullstackreact.com/)
 * [tylermcginnis.com](https://tylermcginnis.com/)
@@ -45,13 +46,14 @@
 ## Node.js
 * [dotenv](https://www.npmjs.com/package/dotenv)
 * [nodemon](https://github.com/remy/nodemon)
-* [JSON Web Tokens](https://github.com/auth0/node-jsonwebtoken)
 * [Express](https://expressjs.com/)
 * [body-parser](https://www.npmjs.com/package/body-parser)
 * [Helmet](https://helmetjs.github.io/)
 * [Passport](http://www.passportjs.org/)
 * [express-validator](https://www.npmjs.com/package/express-validator)
 * [socket.io](https://socket.io/)
+* [Nodemailer](https://nodemailer.com/about/)
+* [JSON Web Tokens](https://github.com/auth0/node-jsonwebtoken)
 * [Node.js Security Checklist](https://blog.risingstack.com/node-js-security-checklist/)
 
 ## Python
