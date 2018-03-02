@@ -50,6 +50,7 @@
 * [body-parser](https://www.npmjs.com/package/body-parser)
 * [Helmet](https://helmetjs.github.io/)
 * [Passport](http://www.passportjs.org/)
+* [express-validator](https://www.npmjs.com/package/express-validator)
 * [socket.io](https://socket.io/)
 * [Node.js Security Checklist](https://blog.risingstack.com/node-js-security-checklist/)
 
