@@ -26,9 +26,6 @@
 * [create-react-app](https://github.com/facebook/create-react-app)
 * [react-router-dom](https://reacttraining.com/react-router/web)
 * [React Devtools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)
-* [React Native Docs](http://facebook.github.io/react-native/)
-* [Expo](https://expo.io/)
-* [react-native-debugger](https://github.com/jhen0409/react-native-debugger)
 * [Redux Docs](http://redux.js.org/)
 * [React-Redux](https://github.com/reactjs/react-redux)
 * [redux-thunk](https://github.com/gaearon/redux-thunk)
@@ -42,6 +39,11 @@
 * [Building React Applications with Idiomatic Redux](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)
 * [Presentational and Container Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0)
 * [You Might Not Need Redux](https://medium.com/@dan_abramov/you-might-not-need-redux-be46360cf367)
+
+## React Native
+* [React Native Docs](http://facebook.github.io/react-native/)
+* [Expo](https://expo.io/)
+* [react-native-debugger](https://github.com/jhen0409/react-native-debugger)
 
 ## Node.js
 * [dotenv](https://www.npmjs.com/package/dotenv)
