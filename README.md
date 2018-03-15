@@ -44,6 +44,7 @@
 * [React Native Docs](http://facebook.github.io/react-native/)
 * [Expo](https://expo.io/)
 * [react-native-debugger](https://github.com/jhen0409/react-native-debugger)
+* [react-native-maps](https://github.com/react-community/react-native-maps)
 
 ## Node.js
 * [dotenv](https://www.npmjs.com/package/dotenv)
