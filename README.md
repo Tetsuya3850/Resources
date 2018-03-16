@@ -1,5 +1,5 @@
 ## Big Picture
-* [Developer Survey Results 2017](https://insights.stackoverflow.com/survey/2017)
+* [Stack Overflow Developer Survey Results 2018](https://insights.stackoverflow.com/survey/2018/)
 * [Web Development In 2018 - A Practical Guide](https://www.youtube.com/watch?v=Zftx68K-1D4)
 * [Web Developer Roadmap 2018](https://github.com/kamranahmedse/developer-roadmap)
 * [the STATE of JavaScript 2017](http://stateofjs.com/)
