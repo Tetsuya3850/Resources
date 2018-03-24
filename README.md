@@ -102,6 +102,7 @@
 
 ## Tech Career
 * [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-6th-Edition/dp/0984782850)
+* [CtCI with Hacker Rank](https://www.hackerrank.com/domains/tutorials/cracking-the-coding-interview)
 * [Elements of Programming Interview in Python](https://www.amazon.com/Elements-Programming-Interviews-Python-Insiders/dp/1537713949/ref=pd_sim_14_3?_encoding=UTF8&psc=1&refRID=4FWT0BDPHRNGFNH7B928)
 * [kdn251/interviews](https://github.com/kdn251/interviews)
 * [I spent 3 months applying to jobs after a coding bootcamp. Here’s what I learned.](https://medium.freecodecamp.com/5-key-learnings-from-the-post-bootcamp-job-search-9a07468d2331)
