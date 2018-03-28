@@ -45,6 +45,7 @@
 * [Expo](https://expo.io/)
 * [react-native-debugger](https://github.com/jhen0409/react-native-debugger)
 * [react-native-maps](https://github.com/react-community/react-native-maps)
+* [react-native-keyboard-aware-scroll-view](https://github.com/APSL/react-native-keyboard-aware-scroll-view)
 
 ## Node.js
 * [dotenv](https://www.npmjs.com/package/dotenv)
