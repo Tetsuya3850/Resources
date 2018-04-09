@@ -21,6 +21,9 @@
 * [f.lux](https://justgetflux.com/)
 * [Freedom](https://freedom.to/)
 
+## JavaScript
+* [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
+
 ## React.js
 * [React Docs](https://reactjs.org/)
 * [create-react-app](https://github.com/facebook/create-react-app)
