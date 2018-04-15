@@ -77,6 +77,7 @@
 
 ## SQL
 * [SQL Tutorial](https://www.w3schools.com/sql/default.asp)
+* [Sams Teach Yourself SQL in 10 Minutes](https://www.amazon.com/SQL-Minutes-Sams-Teach-Yourself/dp/0672336073)
 
 ## MongoDB
 * [MongoDB Docs](https://docs.mongodb.com/)
