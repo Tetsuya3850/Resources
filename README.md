@@ -27,6 +27,7 @@
 ## HTML/CSS
 * [HTML Reference.io](https://htmlreference.io/)
 * [CSS Reference.io](https://cssreference.io/)
+* [30 Seconds of CSS](https://atomiks.github.io/30-seconds-of-css/)
 
 ## React.js
 * [React Docs](https://reactjs.org/)
