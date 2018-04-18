@@ -24,6 +24,10 @@
 ## JavaScript
 * [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
 
+## HTML/CSS
+* [HTML Reference.io](https://htmlreference.io/)
+* [CSS Reference.io](https://cssreference.io/)
+
 ## React.js
 * [React Docs](https://reactjs.org/)
 * [create-react-app](https://github.com/facebook/create-react-app)
@@ -74,9 +78,6 @@
 * [Head First Java](https://www.amazon.com/Head-First-Java-Kathy-Sierra/dp/0596009208)
 * [Head First Design Patterns](https://www.amazon.com/Head-First-Design-Patterns-Brain-Friendly-ebook/dp/B00AA36RZY)
 * [IntelliJ IDEA](https://www.jetbrains.com/idea/)
-
-## CSS
-* [CSS Reference.io](https://cssreference.io/)
 
 ## SQL
 * [SQL Tutorial](https://www.w3schools.com/sql/default.asp)
