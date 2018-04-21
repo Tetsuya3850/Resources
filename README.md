@@ -102,6 +102,7 @@
 * [GeeksforGeeks](https://www.geeksforgeeks.org/)
 * [Big O Cheat Sheet](http://bigocheatsheet.com/)
 * [Top Coder Data Science Tutorials](https://www.topcoder.com/community/data-science/data-science-tutorials/)
+* [How Computers Work by Code.org](https://www.youtube.com/playlist?list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-)
 * [How the Internet Works by Code.org](https://www.youtube.com/playlist?list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7)
 
 ## UX Design
