@@ -105,6 +105,9 @@
 * [How Computers Work by Code.org](https://www.youtube.com/playlist?list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-)
 * [How the Internet Works by Code.org](https://www.youtube.com/playlist?list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7)
 
+## System Design
+* [system-design-primer](https://github.com/donnemartin/system-design-primer)
+
 ## UX Design
 * [The Elements of User Experience](https://www.amazon.com/Elements-User-Experience-User-Centered-Design/dp/0321683684/ref=sr_1_1?ie=UTF8&qid=1492827574&sr=8-1&keywords=the+elements+of+user+experience)
 * [Don't Make Me Think](https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515/ref=sr_1_1?ie=UTF8&qid=1492827633&sr=8-1&keywords=don%27t+make+me+think)
