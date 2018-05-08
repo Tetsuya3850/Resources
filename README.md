@@ -107,6 +107,7 @@
 
 ## System Design
 * [system-design-primer](https://github.com/donnemartin/system-design-primer)
+* [High Scalability](http://highscalability.com/)
 * [Scalability, Availability & Stability Patterns](https://www.slideshare.net/jboner/scalability-availability-stability-patterns)
 * [Latency numbers every programmer should know](https://gist.github.com/hellerbarde/2843375)
 
