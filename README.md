@@ -111,6 +111,7 @@
 * [Scalability, Availability & Stability Patterns](https://www.slideshare.net/jboner/scalability-availability-stability-patterns)
 * [Scalable Web Architecture and Distributed Systems](http://www.aosabook.org/en/distsys.html)
 * [Latency numbers every programmer should know](https://gist.github.com/hellerbarde/2843375)
+* [Introduction to architecting systems for scale.](https://lethain.com/introduction-to-architecting-systems-for-scale/)
 
 ## UX Design
 * [The Elements of User Experience](https://www.amazon.com/Elements-User-Experience-User-Centered-Design/dp/0321683684/ref=sr_1_1?ie=UTF8&qid=1492827574&sr=8-1&keywords=the+elements+of+user+experience)
