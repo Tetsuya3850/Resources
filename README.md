@@ -94,7 +94,7 @@
 ## AWS
 * [AWS open-guides](https://github.com/open-guides/og-aws)
 
-## CS Fundamentals
+## Computer Science
 * [20 Things I Learned About Browsers and the Web](http://www.20thingsilearned.com/en-US/home)
 * [40 Key Computer Science Concepts Explained In Layman’s Terms](http://carlcheo.com/compsci)
 * [Map of Computer Science](https://www.youtube.com/watch?v=SzJ46YA_RaA)
@@ -102,7 +102,6 @@
 * [GeeksforGeeks](https://www.geeksforgeeks.org/)
 * [Big O Cheat Sheet](http://bigocheatsheet.com/)
 * [Top Coder Data Science Tutorials](https://www.topcoder.com/community/data-science/data-science-tutorials/)
-* [How Computers Work by Code.org](https://www.youtube.com/playlist?list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-)
 * [How the Internet Works by Code.org](https://www.youtube.com/playlist?list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7)
 
 ## System Design
