@@ -108,7 +108,6 @@
 ## System Design
 * [system-design-primer](https://github.com/donnemartin/system-design-primer)
 * [High Scalability](http://highscalability.com/)
-* [Scalability, Availability & Stability Patterns](https://www.slideshare.net/jboner/scalability-availability-stability-patterns)
 * [Scalable Web Architecture and Distributed Systems](http://www.aosabook.org/en/distsys.html)
 * [Latency numbers every programmer should know](https://gist.github.com/hellerbarde/2843375)
 * [Introduction to architecting systems for scale.](https://lethain.com/introduction-to-architecting-systems-for-scale/)
