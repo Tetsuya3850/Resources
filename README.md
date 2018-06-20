@@ -12,7 +12,7 @@
 * [GitHub](https://github.com/)
 * [Stack Overflow](https://stackoverflow.com/)
 * [Medium](https://medium.com/)
-* [Atom](https://atom.io/)
+* [VSCode](https://code.visualstudio.com/)
 * [Slack](https://slack.com/)
 * [Parells Desktop](www.parallels.com/products/desktop/)
 * [Sketch](https://www.sketchapp.com/)
