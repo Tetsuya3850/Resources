@@ -79,6 +79,7 @@
 * [Head First Java](https://www.amazon.com/Head-First-Java-Kathy-Sierra/dp/0596009208)
 * [Head First Design Patterns](https://www.amazon.com/Head-First-Design-Patterns-Brain-Friendly-ebook/dp/B00AA36RZY)
 * [IntelliJ IDEA](https://www.jetbrains.com/idea/)
+* [Spring Initializr](https://start.spring.io/)
 
 ## SQL
 * [SQL Tutorial](https://www.w3schools.com/sql/default.asp)
