@@ -74,6 +74,8 @@
 * [The Python Tutorial](https://docs.python.org/3/tutorial/index.html)
 * [Google's Python Class](https://developers.google.com/edu/python/)
 * [Programming Foundations with Python](https://www.udacity.com/course/programming-foundations-with-python--ud036)
+* [Django](https://www.djangoproject.com/)
+* [django-rest-framework](https://github.com/encode/django-rest-framework)
 
 ## Java
 * [Head First Java](https://www.amazon.com/Head-First-Java-Kathy-Sierra/dp/0596009208)
