@@ -136,6 +136,9 @@
 * ['How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft' by Sean Lee](https://www.youtube.com/watch?v=YJZCUhxNCv8)
 * [The Five Essential Phone-Screen Questions](https://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions)
 
+## Working in the US
+* [Engineer's Guide to US Visas](http://blog.sourcing.io/visa-guide)
+
 ## Others
 * [.gitignore templates](https://github.com/github/gitignore)
 * [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc?hl=en)
