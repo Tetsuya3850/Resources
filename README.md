@@ -48,15 +48,7 @@
 * [Building React Applications with Idiomatic Redux](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)
 * [Presentational and Container Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0)
 * [You Might Not Need Redux](https://medium.com/@dan_abramov/you-might-not-need-redux-be46360cf367)
-
-## React Native
-* [React Native Docs](http://facebook.github.io/react-native/)
-* [Expo](https://expo.io/)
-* [Native Directory](https://native.directory/)
-* [react-native-debugger](https://github.com/jhen0409/react-native-debugger)
-* [react-native-maps](https://github.com/react-community/react-native-maps)
-* [react-native-modal](https://github.com/react-native-community/react-native-modal)
-* [react-native-keyboard-aware-scroll-view](https://github.com/APSL/react-native-keyboard-aware-scroll-view)
+* [Blogged Answers: Redux - Not Dead Yet!](https://blog.isquaredsoftware.com/2018/03/redux-not-dead-yet/)
 
 ## Node.js
 * [dotenv](https://www.npmjs.com/package/dotenv)
