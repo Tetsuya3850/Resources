@@ -55,6 +55,7 @@
 * [dotenv](https://www.npmjs.com/package/dotenv)
 * [nodemon](https://github.com/remy/nodemon)
 * [Helmet](https://helmetjs.github.io/)
+* [cors](https://github.com/expressjs/cors)
 * [Passport](http://www.passportjs.org/)
 * [express-validator](https://www.npmjs.com/package/express-validator)
 * [socket.io](https://socket.io/)
