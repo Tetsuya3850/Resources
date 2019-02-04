@@ -51,10 +51,9 @@
 * [Blogged Answers: Redux - Not Dead Yet!](https://blog.isquaredsoftware.com/2018/03/redux-not-dead-yet/)
 
 ## Node.js
+* [Express](https://expressjs.com/)
 * [dotenv](https://www.npmjs.com/package/dotenv)
 * [nodemon](https://github.com/remy/nodemon)
-* [Express](https://expressjs.com/)
-* [body-parser](https://www.npmjs.com/package/body-parser)
 * [Helmet](https://helmetjs.github.io/)
 * [Passport](http://www.passportjs.org/)
 * [express-validator](https://www.npmjs.com/package/express-validator)
