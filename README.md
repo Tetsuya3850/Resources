@@ -61,6 +61,7 @@
 * [socket.io](https://socket.io/)
 * [Nodemailer](https://nodemailer.com/about/)
 * [JSON Web Tokens](https://github.com/auth0/node-jsonwebtoken)
+* [Secure Authentication for Web Apps & APIs Using JWTs](https://frontendmasters.com/courses/secure-auth-jwt/)
 * [Node.js Security Checklist](https://blog.risingstack.com/node-js-security-checklist/)
 
 ## Python
