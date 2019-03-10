@@ -58,12 +58,12 @@
 * [Helmet](https://helmetjs.github.io/)
 * [cors](https://github.com/expressjs/cors)
 * [Passport](http://www.passportjs.org/)
-* [express-validator](https://www.npmjs.com/package/express-validator)
 * [socket.io](https://socket.io/)
 * [Nodemailer](https://nodemailer.com/about/)
 * [JSON Web Tokens](https://github.com/auth0/node-jsonwebtoken)
 * [Secure Authentication for Web Apps & APIs Using JWTs](https://frontendmasters.com/courses/secure-auth-jwt/)
 * [Node.js Security Checklist](https://blog.risingstack.com/node-js-security-checklist/)
+* [JavaScript Testing Practices and Principles](https://frontendmasters.com/courses/testing-practices-principles/)
 
 ## Python
 * [The Python Tutorial](https://docs.python.org/3/tutorial/index.html)
