@@ -31,6 +31,8 @@
 * [30 Seconds of CSS](https://atomiks.github.io/30-seconds-of-css/)
 
 ## React.js
+* [Complete Intro to React](https://frontendmasters.com/courses/react/)
+- 
 * [React Docs](https://reactjs.org/)
 * [create-react-app](https://github.com/facebook/create-react-app)
 * [react-router-dom](https://reacttraining.com/react-router/web)
@@ -42,7 +44,6 @@
 * [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
 * [Fullstack React](https://www.fullstackreact.com/)
 * [tylermcginnis.com](https://tylermcginnis.com/)
-* [Complete Intro to React](https://frontendmasters.com/courses/react/)
 * [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux)
 * [Building React Applications with Idiomatic Redux](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)
 * [Presentational and Container Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0)
@@ -50,6 +51,9 @@
 * [Blogged Answers: Redux - Not Dead Yet!](https://blog.isquaredsoftware.com/2018/03/redux-not-dead-yet/)
 
 ## Node.js
+* [JavaScript Testing Practices and Principles](https://frontendmasters.com/courses/testing-practices-principles/)
+* [Secure Authentication for Web Apps & APIs Using JWTs](https://frontendmasters.com/courses/secure-auth-jwt/)
+-
 * [Express](https://expressjs.com/)
 * [dotenv](https://www.npmjs.com/package/dotenv)
 * [nodemon](https://github.com/remy/nodemon)
@@ -59,9 +63,7 @@
 * [socket.io](https://socket.io/)
 * [Nodemailer](https://nodemailer.com/about/)
 * [JSON Web Tokens](https://github.com/auth0/node-jsonwebtoken)
-* [Secure Authentication for Web Apps & APIs Using JWTs](https://frontendmasters.com/courses/secure-auth-jwt/)
 * [Node.js Security Checklist](https://blog.risingstack.com/node-js-security-checklist/)
-* [JavaScript Testing Practices and Principles](https://frontendmasters.com/courses/testing-practices-principles/)
 
 ## Python
 * [The Python Tutorial](https://docs.python.org/3/tutorial/index.html)
