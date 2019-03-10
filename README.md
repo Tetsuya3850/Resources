@@ -39,8 +39,6 @@
 * [React-Redux](https://github.com/reactjs/react-redux)
 * [redux-thunk](https://github.com/gaearon/redux-thunk)
 * [Redux DevTools](https://github.com/gaearon/redux-devtools)
-* [Immutable.js](https://facebook.github.io/immutable-js/)
-* [react-google-maps](https://tomchentw.github.io/react-google-maps/)
 * [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
 * [Fullstack React](https://www.fullstackreact.com/)
 * [tylermcginnis.com](https://tylermcginnis.com/)
