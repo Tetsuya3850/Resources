@@ -14,13 +14,11 @@
 * [Stack Overflow](https://stackoverflow.com/)
 * [Medium](https://medium.com/)
 * [VSCode](https://code.visualstudio.com/)
+* [Heroku](https://www.heroku.com/)
+- 
 * [Slack](https://slack.com/)
 * [Parells Desktop](www.parallels.com/products/desktop/)
 * [Sketch](https://www.sketchapp.com/)
-* [Adobe CC](http://www.adobe.com/creativecloud.html)
-* [Heroku](https://www.heroku.com/)
-* [f.lux](https://justgetflux.com/)
-* [Freedom](https://freedom.to/)
 
 ## JavaScript
 * [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
