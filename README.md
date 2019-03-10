@@ -30,6 +30,7 @@
 
 ## React.js
 * [Complete Intro to React](https://frontendmasters.com/courses/react/)
+* [React Podcast](https://reactpodcast.simplecast.fm/)
 - 
 * [React Docs](https://reactjs.org/)
 * [create-react-app](https://github.com/facebook/create-react-app)
@@ -47,6 +48,9 @@
 * [Presentational and Container Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0)
 * [You Might Not Need Redux](https://medium.com/@dan_abramov/you-might-not-need-redux-be46360cf367)
 * [Blogged Answers: Redux - Not Dead Yet!](https://blog.isquaredsoftware.com/2018/03/redux-not-dead-yet/)
+
+## React Native
+* [React Native Radio](https://devchat.tv/react-native-radio/)
 
 ## Node.js
 * [JavaScript Testing Practices and Principles](https://frontendmasters.com/courses/testing-practices-principles/)
