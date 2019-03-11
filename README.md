@@ -30,6 +30,7 @@
 
 ## React.js
 * [React Docs](https://reactjs.org/)
+* [React Blog](https://reactjs.org/blog/)
 * [redux-thunk](https://github.com/gaearon/redux-thunk)
 * [React Devtools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)
 * [Redux DevTools](https://github.com/gaearon/redux-devtools)
