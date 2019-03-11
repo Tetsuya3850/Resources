@@ -55,6 +55,7 @@
 
 ## Node.js
 * [Express](https://expressjs.com/)
+* [API Design in Node.js, v3](https://frontendmasters.com/courses/api-design-nodejs-v3/)
 * [Helmet](https://helmetjs.github.io/)
 * [dotenv](https://www.npmjs.com/package/dotenv)
 * [nodemon](https://github.com/remy/nodemon)
