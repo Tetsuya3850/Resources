@@ -22,6 +22,7 @@
 
 ## JavaScript
 * [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
+* [Axios](https://github.com/axios/axios)
 
 ## HTML/CSS
 * [HTML Reference.io](https://htmlreference.io/)
