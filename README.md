@@ -29,17 +29,17 @@
 * [30 Seconds of CSS](https://atomiks.github.io/30-seconds-of-css/)
 
 ## React.js
+* [redux-thunk](https://github.com/gaearon/redux-thunk)
+* [React Devtools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)
+* [Redux DevTools](https://github.com/gaearon/redux-devtools)
 * [Complete Intro to React](https://frontendmasters.com/courses/react/)
 * [React Podcast](https://reactpodcast.simplecast.fm/)
 - 
 * [React Docs](https://reactjs.org/)
 * [create-react-app](https://github.com/facebook/create-react-app)
 * [react-router-dom](https://reacttraining.com/react-router/web)
-* [React Devtools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)
 * [Redux Docs](http://redux.js.org/)
 * [React-Redux](https://github.com/reactjs/react-redux)
-* [redux-thunk](https://github.com/gaearon/redux-thunk)
-* [Redux DevTools](https://github.com/gaearon/redux-devtools)
 * [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
 * [Fullstack React](https://www.fullstackreact.com/)
 * [tylermcginnis.com](https://tylermcginnis.com/)
@@ -50,27 +50,27 @@
 * [Blogged Answers: Redux - Not Dead Yet!](https://blog.isquaredsoftware.com/2018/03/redux-not-dead-yet/)
 
 ## React Native
+* [Expo](https://expo.io/)
 * [React Native Radio](https://devchat.tv/react-native-radio/)
 
 ## Node.js
-* [JavaScript Testing Practices and Principles](https://frontendmasters.com/courses/testing-practices-principles/)
-* [Secure Authentication for Web Apps & APIs Using JWTs](https://frontendmasters.com/courses/secure-auth-jwt/)
--
 * [Express](https://expressjs.com/)
+* [Helmet](https://helmetjs.github.io/)
 * [dotenv](https://www.npmjs.com/package/dotenv)
 * [nodemon](https://github.com/remy/nodemon)
-* [Helmet](https://helmetjs.github.io/)
 * [cors](https://github.com/expressjs/cors)
+* [JSON Web Tokens](https://github.com/auth0/node-jsonwebtoken)
+* [Secure Authentication for Web Apps & APIs Using JWTs](https://frontendmasters.com/courses/secure-auth-jwt/)
+* [JavaScript Testing Practices and Principles](https://frontendmasters.com/courses/testing-practices-principles/)
+-
 * [Passport](http://www.passportjs.org/)
 * [socket.io](https://socket.io/)
 * [Nodemailer](https://nodemailer.com/about/)
-* [JSON Web Tokens](https://github.com/auth0/node-jsonwebtoken)
 * [Node.js Security Checklist](https://blog.risingstack.com/node-js-security-checklist/)
 
 ## Python
 * [The Python Tutorial](https://docs.python.org/3/tutorial/index.html)
 * [Google's Python Class](https://developers.google.com/edu/python/)
-* [Programming Foundations with Python](https://www.udacity.com/course/programming-foundations-with-python--ud036)
 * [Django](https://www.djangoproject.com/)
 * [django-rest-framework](https://github.com/encode/django-rest-framework)
 * [django-rest-auth](https://github.com/Tivix/django-rest-auth)
@@ -87,11 +87,13 @@
 * [Sams Teach Yourself SQL in 10 Minutes](https://www.amazon.com/SQL-Minutes-Sams-Teach-Yourself/dp/0672336073)
 
 ## MongoDB
-* [MongoDB Docs](https://docs.mongodb.com/)
 * [MongoDB University](https://university.mongodb.com/)
-* [mLab](https://mlab.com/home)
-* [MongoDB Compass](https://www.mongodb.com/products/compass)
 * [Mongoose](http://mongoosejs.com/)
+* [mLab](https://mlab.com/home)
+-
+* [MongoDB Docs](https://docs.mongodb.com/)
+* [MongoDB Compass](https://www.mongodb.com/products/compass)
+
 
 ## Infrastructure
 * [AWS open-guides](https://github.com/open-guides/og-aws)
