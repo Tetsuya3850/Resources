@@ -23,6 +23,7 @@
 ## JavaScript
 * [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
 * [Axios](https://github.com/axios/axios)
+* [Prettier](https://github.com/prettier/prettier)
 
 ## HTML/CSS
 * [HTML Reference.io](https://htmlreference.io/)
@@ -147,6 +148,5 @@
 * [Can I use...](http://caniuse.com/#home)
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 * [How To Ask Questions The Smart Way](http://www.catb.org/~esr/faqs/smart-questions.html)
-* [Prettier](https://github.com/prettier/prettier)
 * [uuid](https://www.npmjs.com/package/uuid)
 * [OneTab](https://www.one-tab.com/)
