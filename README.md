@@ -32,13 +32,13 @@
 ## React.js
 * [React Docs](https://reactjs.org/)
 * [React Blog](https://reactjs.org/blog/)
+* [Create React App](https://github.com/facebook/create-react-app)
 * [redux-thunk](https://github.com/gaearon/redux-thunk)
 * [React Devtools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)
 * [Redux DevTools](https://github.com/gaearon/redux-devtools)
 * [Complete Intro to React](https://frontendmasters.com/courses/react/)
 * [React Podcast](https://reactpodcast.simplecast.fm/)
 - 
-* [create-react-app](https://github.com/facebook/create-react-app)
 * [react-router-dom](https://reacttraining.com/react-router/web)
 * [Redux Docs](http://redux.js.org/)
 * [React-Redux](https://github.com/reactjs/react-redux)
