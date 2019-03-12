@@ -1,6 +1,5 @@
 ## Big Picture
 * [the STATE of JavaScript](https://2018.stateofjs.com/)
-* [JavaScript Rising Stars](https://risingstars.js.org/2018/en/)
 -
 * [Stack Overflow Developer Survey Results 2018](https://insights.stackoverflow.com/survey/2018/)
 * [Web Development In 2018 - A Practical Guide](https://www.youtube.com/watch?v=Zftx68K-1D4)
