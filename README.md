@@ -1,10 +1,11 @@
 ## Big Picture
+* [the STATE of JavaScript](https://2018.stateofjs.com/)
+* [JavaScript Rising Stars](https://risingstars.js.org/2018/en/)
+-
 * [Stack Overflow Developer Survey Results 2018](https://insights.stackoverflow.com/survey/2018/)
 * [Web Development In 2018 - A Practical Guide](https://www.youtube.com/watch?v=Zftx68K-1D4)
 * [Web Developer Roadmap 2018](https://github.com/kamranahmedse/developer-roadmap)
-* [the STATE of JavaScript 2017](http://stateofjs.com/)
 * [Hacker Rank 2018 Developer Skills Report](https://research.hackerrank.com/developer-skills/2018/)
-* [2018 JavaScript Rising Stars](https://risingstars.js.org/2018/en/)
 
 ## Development Tools
 * [Google](https://google.com)
