@@ -32,7 +32,7 @@
 * [Redux Docs](http://redux.js.org/)
 * [React Router Docs](https://reacttraining.com/react-router/web/guides/quick-start)
 * [Create React App](https://github.com/facebook/create-react-app)
-* [redux-thunk](https://github.com/gaearon/redux-thunk)
+* [Redux Thunk](https://github.com/gaearon/redux-thunk)
 * [React Redux](https://github.com/reduxjs/react-redux)
 * [React Devtools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)
 * [Redux Devtools](https://github.com/gaearon/redux-devtools)
