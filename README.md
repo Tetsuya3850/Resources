@@ -27,7 +27,7 @@
 * [Prettier](https://github.com/prettier/prettier)
 * [Jest](https://jestjs.io/)
 
-## React.js
+## React
 * [React Docs](https://reactjs.org/)
 * [Create React App](https://github.com/facebook/create-react-app)
 * [Redux Docs](http://redux.js.org/)
@@ -49,10 +49,11 @@
 * [Blogged Answers: Redux - Not Dead Yet!](https://blog.isquaredsoftware.com/2018/03/redux-not-dead-yet/)
 
 ## React Native
+* [React Native Docs](https://facebook.github.io/react-native/)
 * [Expo](https://expo.io/)
 * [React Native Radio](https://devchat.tv/react-native-radio/)
 
-## Node.js
+## Express
 * [Express](https://expressjs.com/)
 * [API Design in Node.js, v3](https://frontendmasters.com/courses/api-design-nodejs-v3/)
 * [Helmet](https://helmetjs.github.io/)
