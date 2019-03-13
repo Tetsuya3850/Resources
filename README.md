@@ -3,7 +3,6 @@
 * [the STATE of JavaScript](https://2018.stateofjs.com/)
 -
 * [Stack Overflow Developer Survey Results 2018](https://insights.stackoverflow.com/survey/2018/)
-* [Web Development In 2018 - A Practical Guide](https://www.youtube.com/watch?v=Zftx68K-1D4)
 * [Hacker Rank 2018 Developer Skills Report](https://research.hackerrank.com/developer-skills/2018/)
 
 ## Development Tools
@@ -15,20 +14,17 @@
 * [Medium](https://medium.com/)
 * [VSCode](https://code.visualstudio.com/)
 * [Heroku](https://www.heroku.com/)
-- 
-* [Slack](https://slack.com/)
-* [Parells Desktop](www.parallels.com/products/desktop/)
-* [Sketch](https://www.sketchapp.com/)
-
-## JavaScript
-* [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
-* [Axios](https://github.com/axios/axios)
-* [Prettier](https://github.com/prettier/prettier)
 
 ## HTML/CSS
 * [HTML Reference.io](https://htmlreference.io/)
 * [CSS Reference.io](https://cssreference.io/)
 * [30 Seconds of CSS](https://atomiks.github.io/30-seconds-of-css/)
+
+## JavaScript
+* [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
+* [Axios](https://github.com/axios/axios)
+* [Prettier](https://github.com/prettier/prettier)
+* [Jest](https://jestjs.io/)
 
 ## React.js
 * [React Docs](https://reactjs.org/)
@@ -97,7 +93,6 @@
 * [MongoDB Docs](https://docs.mongodb.com/)
 * [MongoDB Compass](https://www.mongodb.com/products/compass)
 
-
 ## Infrastructure
 * [AWS open-guides](https://github.com/open-guides/og-aws)
 * [Docker](https://www.docker.com/)
@@ -122,6 +117,9 @@
 * [The Elements of User Experience](https://www.amazon.com/Elements-User-Experience-User-Centered-Design/dp/0321683684/ref=sr_1_1?ie=UTF8&qid=1492827574&sr=8-1&keywords=the+elements+of+user+experience)
 * [Don't Make Me Think](https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515/ref=sr_1_1?ie=UTF8&qid=1492827633&sr=8-1&keywords=don%27t+make+me+think)
 * [Accessibility according to actual people with disabilities](https://axesslab.com/accessibility-according-to-pwd)
+
+## UI Design
+* [Sketch](https://www.sketchapp.com/)
 
 ## Tech Entreprenuership
 * [The Lean Startup](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898)
