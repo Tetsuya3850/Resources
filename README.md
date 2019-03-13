@@ -76,6 +76,7 @@
 * [Head First Java](https://www.amazon.com/Head-First-Java-Kathy-Sierra/dp/0596009208)
 * [Spring Boot](https://spring.io/projects/spring-boot)
 * [Spring Initializr](https://start.spring.io/)
+* [Spring & Hibernate for Beginners](https://www.udemy.com/spring-hibernate-tutorial/learn/v4/overview)
 
 ## SQL
 * [SQL Tutorial](https://www.w3schools.com/sql/default.asp)
