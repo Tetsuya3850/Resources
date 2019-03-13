@@ -13,6 +13,7 @@
 * [Stack Overflow](https://stackoverflow.com/)
 * [Medium](https://medium.com/)
 * [VSCode](https://code.visualstudio.com/)
+* [IntelliJ IDEA](https://www.jetbrains.com/idea/)
 * [Heroku](https://www.heroku.com/)
 
 ## HTML/CSS
@@ -69,15 +70,10 @@
 
 ## Python
 * [The Python Tutorial](https://docs.python.org/3/tutorial/index.html)
-* [Google's Python Class](https://developers.google.com/edu/python/)
 * [Django](https://www.djangoproject.com/)
-* [django-rest-framework](https://github.com/encode/django-rest-framework)
-* [django-rest-auth](https://github.com/Tivix/django-rest-auth)
 
 ## Java
 * [Head First Java](https://www.amazon.com/Head-First-Java-Kathy-Sierra/dp/0596009208)
-* [Head First Design Patterns](https://www.amazon.com/Head-First-Design-Patterns-Brain-Friendly-ebook/dp/B00AA36RZY)
-* [IntelliJ IDEA](https://www.jetbrains.com/idea/)
 * [Spring Boot](https://spring.io/projects/spring-boot)
 * [Spring Initializr](https://start.spring.io/)
 
@@ -113,6 +109,9 @@
 * [Scalable Web Architecture and Distributed Systems](http://www.aosabook.org/en/distsys.html)
 * [Latency numbers every programmer should know](https://gist.github.com/hellerbarde/2843375)
 
+## Object Oriented Design
+* [Head First Design Patterns](https://www.amazon.com/Head-First-Design-Patterns-Brain-Friendly-ebook/dp/B00AA36RZY)
+
 ## UX Design
 * [The Elements of User Experience](https://www.amazon.com/Elements-User-Experience-User-Centered-Design/dp/0321683684/ref=sr_1_1?ie=UTF8&qid=1492827574&sr=8-1&keywords=the+elements+of+user+experience)
 * [Don't Make Me Think](https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515/ref=sr_1_1?ie=UTF8&qid=1492827633&sr=8-1&keywords=don%27t+make+me+think)
@@ -145,5 +144,4 @@
 * [Can I use...](http://caniuse.com/#home)
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 * [How To Ask Questions The Smart Way](http://www.catb.org/~esr/faqs/smart-questions.html)
-* [uuid](https://www.npmjs.com/package/uuid)
 * [OneTab](https://www.one-tab.com/)
