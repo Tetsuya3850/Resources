@@ -41,6 +41,7 @@
 * [Building React Applications with Idiomatic Redux](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)
 * [React Blog](https://reactjs.org/blog/)
 * [React Podcast](https://reactpodcast.simplecast.fm/)
+* [Dan Abramov](https://twitter.com/dan_abramov)
 - 
 * [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
 * [Fullstack React](https://www.fullstackreact.com/)
