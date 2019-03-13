@@ -29,8 +29,9 @@
 
 ## React
 * [React Docs](https://reactjs.org/)
-* [Create React App](https://github.com/facebook/create-react-app)
 * [Redux Docs](http://redux.js.org/)
+* [React Router Docs](https://reacttraining.com/react-router/web/guides/quick-start)
+* [Create React App](https://github.com/facebook/create-react-app)
 * [redux-thunk](https://github.com/gaearon/redux-thunk)
 * [React Redux](https://github.com/reduxjs/react-redux)
 * [React Devtools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)
@@ -41,12 +42,10 @@
 * [React Blog](https://reactjs.org/blog/)
 * [React Podcast](https://reactpodcast.simplecast.fm/)
 - 
-* [react-router-dom](https://reacttraining.com/react-router/web)
 * [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
 * [Fullstack React](https://www.fullstackreact.com/)
 * [tylermcginnis.com](https://tylermcginnis.com/)
 * [You Might Not Need Redux](https://medium.com/@dan_abramov/you-might-not-need-redux-be46360cf367)
-* [Blogged Answers: Redux - Not Dead Yet!](https://blog.isquaredsoftware.com/2018/03/redux-not-dead-yet/)
 
 ## React Native
 * [React Native Docs](https://facebook.github.io/react-native/)
