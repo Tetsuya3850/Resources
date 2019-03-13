@@ -1,9 +1,9 @@
 ## Big Picture
+* [Hacker Rank Developer Skills Report](https://research.hackerrank.com/developer-skills/2019)
 * [Web Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
 * [the STATE of JavaScript](https://2018.stateofjs.com/)
 -
 * [Stack Overflow Developer Survey Results 2018](https://insights.stackoverflow.com/survey/2018/)
-* [Hacker Rank 2018 Developer Skills Report](https://research.hackerrank.com/developer-skills/2018/)
 
 ## Development Tools
 * [Google](https://google.com)
