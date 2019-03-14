@@ -53,6 +53,7 @@
 * [React Navigation Docs](https://reactnavigation.org/)
 * [Fullstack React Native](https://www.fullstackreact.com/react-native/)
 * [React Native Blog](http://facebook.github.io/react-native/blog/)
+* [Expo Blog](https://blog.expo.io)
 * [React Native Radio](https://devchat.tv/react-native-radio/)
 
 ## Express
