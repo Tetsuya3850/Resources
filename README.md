@@ -88,8 +88,8 @@
 * [Sams Teach Yourself SQL in 10 Minutes](https://www.amazon.com/SQL-Minutes-Sams-Teach-Yourself/dp/0672336073)
 
 ## MongoDB
-* [MongoDB University](https://university.mongodb.com/)
-* [Mongoose](http://mongoosejs.com/)
+* [M220JS: MongoDB for Javascript Developers](https://university.mongodb.com/courses/M220JS/about)
+* [Mongoose Docs](http://mongoosejs.com/)
 * [mLab](https://mlab.com/home)
 
 ## Computer Science
