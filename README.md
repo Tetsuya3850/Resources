@@ -45,7 +45,6 @@
 * [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
 * [Fullstack React](https://www.fullstackreact.com/)
 * [tylermcginnis.com](https://tylermcginnis.com/)
-* [You Might Not Need Redux](https://medium.com/@dan_abramov/you-might-not-need-redux-be46360cf367)
 
 ## React Native
 * [React Native Docs](https://facebook.github.io/react-native/)
