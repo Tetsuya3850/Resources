@@ -37,6 +37,7 @@
 * [normalizr](https://github.com/paularmstrong/normalizr)
 * [React Devtools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)
 * [Redux Devtools](https://github.com/gaearon/redux-devtools)
+* [tylermcginnis.com](https://tylermcginnis.com/)
 * [Complete Intro to React](https://frontendmasters.com/courses/react/)
 * [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux)
 * [Building React Applications with Idiomatic Redux](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)
@@ -45,7 +46,6 @@
 - 
 * [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
 * [Fullstack React](https://www.fullstackreact.com/)
-* [tylermcginnis.com](https://tylermcginnis.com/)
 
 ## React Native
 * [React Native Docs](https://facebook.github.io/react-native/)
