@@ -65,6 +65,7 @@
 * [nodemon](https://github.com/remy/nodemon)
 * [cors](https://github.com/expressjs/cors)
 * [JSON Web Tokens](https://github.com/auth0/node-jsonwebtoken)
+* [Learn Node](https://learnnode.com/)
 * [API Design in Node.js, v3](https://frontendmasters.com/courses/api-design-nodejs-v3/)
 * [Secure Authentication for Web Apps & APIs Using JWTs](https://frontendmasters.com/courses/secure-auth-jwt/)
 * [JavaScript Testing Practices and Principles](https://frontendmasters.com/courses/testing-practices-principles/)
