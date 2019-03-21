@@ -2,24 +2,17 @@
 * [Hacker Rank Developer Skills Report](https://research.hackerrank.com/developer-skills/2019)
 * [Web Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
 * [the STATE of JavaScript](https://2018.stateofjs.com/)
--
-* [Stack Overflow Developer Survey Results 2018](https://insights.stackoverflow.com/survey/2018/)
 
 ## Development Tools
 * [Google](https://google.com)
 * [Google Chrome](https://www.google.com/intl/en/chrome/browser/canary.html)
 * [git](https://git-scm.com/)
 * [GitHub](https://github.com/)
-* [Stack Overflow](https://stackoverflow.com/)
 * [Medium](https://medium.com/)
+* [Stack Overflow](https://stackoverflow.com/)
 * [VSCode](https://code.visualstudio.com/)
 * [IntelliJ IDEA](https://www.jetbrains.com/idea/)
 * [Heroku](https://www.heroku.com/)
-
-## HTML/CSS
-* [HTML Reference.io](https://htmlreference.io/)
-* [CSS Reference.io](https://cssreference.io/)
-* [30 Seconds of CSS](https://atomiks.github.io/30-seconds-of-css/)
 
 ## JavaScript
 * [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
@@ -43,8 +36,6 @@
 * [Building React Applications with Idiomatic Redux](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)
 * [React Blog](https://reactjs.org/blog/)
 * [React Podcast](https://reactpodcast.simplecast.fm/)
-- 
-* [Fullstack React](https://www.fullstackreact.com/)
 
 ## React Native
 * [React Native Docs](https://facebook.github.io/react-native/)
@@ -75,6 +66,13 @@
 * [Nodemailer](https://nodemailer.com/about/)
 * [Node.js Security Checklist](https://blog.risingstack.com/node-js-security-checklist/)
 
+## MongoDB
+* [M220JS: MongoDB for Javascript Developers](https://university.mongodb.com/courses/M220JS/about)
+* [Mongoose Docs](http://mongoosejs.com/)
+* [mLab](https://mlab.com/home)
+
+
+
 ## Python
 * [The Python Tutorial](https://docs.python.org/3/tutorial/index.html)
 * [Django](https://www.djangoproject.com/)
@@ -88,11 +86,6 @@
 ## SQL
 * [SQL Tutorial](https://www.w3schools.com/sql/default.asp)
 * [Sams Teach Yourself SQL in 10 Minutes](https://www.amazon.com/SQL-Minutes-Sams-Teach-Yourself/dp/0672336073)
-
-## MongoDB
-* [M220JS: MongoDB for Javascript Developers](https://university.mongodb.com/courses/M220JS/about)
-* [Mongoose Docs](http://mongoosejs.com/)
-* [mLab](https://mlab.com/home)
 
 ## Computer Science
 * [20 Things I Learned About Browsers and the Web](http://www.20thingsilearned.com/en-US/home)
@@ -136,9 +129,6 @@
 * ['How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft' by Sean Lee](https://www.youtube.com/watch?v=YJZCUhxNCv8)
 * [The Five Essential Phone-Screen Questions](https://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions)
 
-## Working in the US
-* [Engineer's Guide to US Visas](http://blog.sourcing.io/visa-guide)
-
 ## Others
 * [.gitignore templates](https://github.com/github/gitignore)
 * [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc?hl=en)
@@ -146,3 +136,11 @@
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 * [How To Ask Questions The Smart Way](http://www.catb.org/~esr/faqs/smart-questions.html)
 * [OneTab](https://www.one-tab.com/)
+* [Stack Overflow Developer Survey Results 2018](https://insights.stackoverflow.com/survey/2018/)
+
+## HTML/CSS
+* [HTML Reference.io](https://htmlreference.io/)
+* [CSS Reference.io](https://cssreference.io/)
+* [30 Seconds of CSS](https://atomiks.github.io/30-seconds-of-css/)
+
+* [Fullstack React](https://www.fullstackreact.com/)
