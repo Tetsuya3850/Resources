@@ -36,15 +36,12 @@
 * [nodemon](https://github.com/remy/nodemon)
 * [cors](https://github.com/expressjs/cors)
 * [JSON Web Tokens](https://github.com/auth0/node-jsonwebtoken)
+* [socket.io](https://socket.io/)
+* [Nodemailer](https://nodemailer.com/about/)
 * [Learn Node](https://learnnode.com/)
 * [API Design in Node.js, v3](https://frontendmasters.com/courses/api-design-nodejs-v3/)
 * [Secure Authentication for Web Apps & APIs Using JWTs](https://frontendmasters.com/courses/secure-auth-jwt/)
 * [JavaScript Testing Practices and Principles](https://frontendmasters.com/courses/testing-practices-principles/)
--
-* [Passport](http://www.passportjs.org/)
-* [socket.io](https://socket.io/)
-* [Nodemailer](https://nodemailer.com/about/)
-* [Node.js Security Checklist](https://blog.risingstack.com/node-js-security-checklist/)
 
 ### MongoDB
 * [M220JS: MongoDB for Javascript Developers](https://university.mongodb.com/courses/M220JS/about)
@@ -89,15 +86,15 @@
 
 
 
+-
 
 
-
-## Big Picture
+### Big Picture
 * [Hacker Rank Developer Skills Report](https://research.hackerrank.com/developer-skills/2019)
 * [Web Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
 * [the STATE of JavaScript](https://2018.stateofjs.com/)
 
-## Development Tools
+### Development Tools
 * [Google](https://google.com)
 * [Google Chrome](https://www.google.com/intl/en/chrome/browser/canary.html)
 * [git](https://git-scm.com/)
@@ -108,7 +105,7 @@
 * [IntelliJ IDEA](https://www.jetbrains.com/idea/)
 * [Heroku](https://www.heroku.com/)
 
-## Computer Science
+### Computer Science
 * [20 Things I Learned About Browsers and the Web](http://www.20thingsilearned.com/en-US/home)
 * [40 Key Computer Science Concepts Explained In Layman’s Terms](http://carlcheo.com/compsci)
 * [Map of Computer Science](https://www.youtube.com/watch?v=SzJ46YA_RaA)
@@ -119,25 +116,25 @@
 * [Scalable Web Architecture and Distributed Systems](http://www.aosabook.org/en/distsys.html)
 * [Latency numbers every programmer should know](https://gist.github.com/hellerbarde/2843375)
 
-## UX Design
+### UX Design
 * [The Elements of User Experience](https://www.amazon.com/Elements-User-Experience-User-Centered-Design/dp/0321683684/ref=sr_1_1?ie=UTF8&qid=1492827574&sr=8-1&keywords=the+elements+of+user+experience)
 * [Don't Make Me Think](https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515/ref=sr_1_1?ie=UTF8&qid=1492827633&sr=8-1&keywords=don%27t+make+me+think)
 * [Accessibility according to actual people with disabilities](https://axesslab.com/accessibility-according-to-pwd)
 
-## UI Design
+### UI Design
 * [Sketch](https://www.sketchapp.com/)
 
-## Tech Entreprenuership
+### Tech Entreprenuership
 * [The Lean Startup](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898)
 * [Running lean](https://www.amazon.com/Running-Lean-Iterate-Works-OReilly/dp/1449305172)
 
-## Tech Career
+### Tech Career
 * [I spent 3 months applying to jobs after a coding bootcamp. Here’s what I learned.](https://medium.freecodecamp.com/5-key-learnings-from-the-post-bootcamp-job-search-9a07468d2331)
 * [Soft Skills: The software developer's life manual](https://www.amazon.com/Soft-Skills-software-developers-manual/dp/1617292397/ref=sr_1_1?ie=UTF8&qid=1495198784&sr=8-1&keywords=soft+skills)
 * ['How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft' by Sean Lee](https://www.youtube.com/watch?v=YJZCUhxNCv8)
 * [The Five Essential Phone-Screen Questions](https://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions)
 
-## Others
+### Others
 * [.gitignore templates](https://github.com/github/gitignore)
 * [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc?hl=en)
 * [Can I use...](http://caniuse.com/#home)
@@ -146,7 +143,7 @@
 * [OneTab](https://www.one-tab.com/)
 * [Stack Overflow Developer Survey Results 2018](https://insights.stackoverflow.com/survey/2018/)
 
-## HTML/CSS
+### HTML/CSS
 * [HTML Reference.io](https://htmlreference.io/)
 * [CSS Reference.io](https://cssreference.io/)
 * [30 Seconds of CSS](https://atomiks.github.io/30-seconds-of-css/)
