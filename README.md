@@ -1,26 +1,6 @@
-## Big Picture
-* [Hacker Rank Developer Skills Report](https://research.hackerrank.com/developer-skills/2019)
-* [Web Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
-* [the STATE of JavaScript](https://2018.stateofjs.com/)
+## App Development
 
-## Development Tools
-* [Google](https://google.com)
-* [Google Chrome](https://www.google.com/intl/en/chrome/browser/canary.html)
-* [git](https://git-scm.com/)
-* [GitHub](https://github.com/)
-* [Medium](https://medium.com/)
-* [Stack Overflow](https://stackoverflow.com/)
-* [VSCode](https://code.visualstudio.com/)
-* [IntelliJ IDEA](https://www.jetbrains.com/idea/)
-* [Heroku](https://www.heroku.com/)
-
-## JavaScript
-* [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
-* [Axios](https://github.com/axios/axios)
-* [Prettier](https://github.com/prettier/prettier)
-* [Jest](https://jestjs.io/)
-
-## React
+### React
 * [React Docs](https://reactjs.org/)
 * [Redux Docs](http://redux.js.org/)
 * [React Router Docs](https://reacttraining.com/react-router/web/guides/quick-start)
@@ -37,7 +17,7 @@
 * [React Blog](https://reactjs.org/blog/)
 * [React Podcast](https://reactpodcast.simplecast.fm/)
 
-## React Native
+### React Native
 * [React Native Docs](https://facebook.github.io/react-native/)
 * [Expo Docs](https://expo.io/)
 * [React Navigation Docs](https://reactnavigation.org/)
@@ -49,7 +29,7 @@
 * [Expo Blog](https://blog.expo.io)
 * [React Native Radio](https://devchat.tv/react-native-radio/)
 
-## Express
+### Express
 * [Express](https://expressjs.com/)
 * [Helmet](https://helmetjs.github.io/)
 * [dotenv](https://www.npmjs.com/package/dotenv)
@@ -66,45 +46,78 @@
 * [Nodemailer](https://nodemailer.com/about/)
 * [Node.js Security Checklist](https://blog.risingstack.com/node-js-security-checklist/)
 
-## MongoDB
+### MongoDB
 * [M220JS: MongoDB for Javascript Developers](https://university.mongodb.com/courses/M220JS/about)
 * [Mongoose Docs](http://mongoosejs.com/)
 * [mLab](https://mlab.com/home)
 
+### JavaScript
+* [Axios](https://github.com/axios/axios)
+* [Jest](https://jestjs.io/)
+* [Prettier](https://github.com/prettier/prettier)
 
 
-## Python
+## CS Fundamentals
+
+### Data Structures and Algorithms
+* [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-6th-Edition/dp/0984782850)
+* [CtCI with Hacker Rank](https://www.hackerrank.com/domains/tutorials/cracking-the-coding-interview)
+* [Elements of Programming Interview in Python](https://www.amazon.com/Elements-Programming-Interviews-Python-Insiders/dp/1537713949/ref=pd_sim_14_3?_encoding=UTF8&psc=1&refRID=4FWT0BDPHRNGFNH7B928)
+* [GeeksforGeeks](https://www.geeksforgeeks.org/)
+* [Big O Cheat Sheet](http://bigocheatsheet.com/)
+
+### System Design
+* [system-design-primer](https://github.com/donnemartin/system-design-primer)
+* [High Scalability](http://highscalability.com/)
+* [Grokking the System Design Interview](https://www.educative.io/collection/5668639101419520/5649050225344512)
+
+### Object Oriented Design
+* [Head First Design Patterns](https://www.amazon.com/Head-First-Design-Patterns-Brain-Friendly-ebook/dp/B00AA36RZY)
+
+### JavaScript
+* [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
+
+### Python
 * [The Python Tutorial](https://docs.python.org/3/tutorial/index.html)
-* [Django](https://www.djangoproject.com/)
 
-## Java
+### Java
 * [Head First Java](https://www.amazon.com/Head-First-Java-Kathy-Sierra/dp/0596009208)
-* [Spring Boot](https://spring.io/projects/spring-boot)
-* [Spring Initializr](https://start.spring.io/)
-* [Spring & Hibernate for Beginners](https://www.udemy.com/spring-hibernate-tutorial/learn/v4/overview)
 
-## SQL
+### SQL
 * [SQL Tutorial](https://www.w3schools.com/sql/default.asp)
 * [Sams Teach Yourself SQL in 10 Minutes](https://www.amazon.com/SQL-Minutes-Sams-Teach-Yourself/dp/0672336073)
+
+
+
+
+
+
+## Big Picture
+* [Hacker Rank Developer Skills Report](https://research.hackerrank.com/developer-skills/2019)
+* [Web Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+* [the STATE of JavaScript](https://2018.stateofjs.com/)
+
+## Development Tools
+* [Google](https://google.com)
+* [Google Chrome](https://www.google.com/intl/en/chrome/browser/canary.html)
+* [git](https://git-scm.com/)
+* [GitHub](https://github.com/)
+* [Medium](https://medium.com/)
+* [Stack Overflow](https://stackoverflow.com/)
+* [VSCode](https://code.visualstudio.com/)
+* [IntelliJ IDEA](https://www.jetbrains.com/idea/)
+* [Heroku](https://www.heroku.com/)
 
 ## Computer Science
 * [20 Things I Learned About Browsers and the Web](http://www.20thingsilearned.com/en-US/home)
 * [40 Key Computer Science Concepts Explained In Layman’s Terms](http://carlcheo.com/compsci)
 * [Map of Computer Science](https://www.youtube.com/watch?v=SzJ46YA_RaA)
 * [Domino Addition - Numberphile](https://www.youtube.com/watch?v=lNuPy-r1GuQ)
-* [GeeksforGeeks](https://www.geeksforgeeks.org/)
-* [Big O Cheat Sheet](http://bigocheatsheet.com/)
 * [Top Coder Data Science Tutorials](https://www.topcoder.com/community/data-science/data-science-tutorials/)
 * [How the Internet Works by Code.org](https://www.youtube.com/playlist?list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7)
 
-## System Design
-* [system-design-primer](https://github.com/donnemartin/system-design-primer)
-* [High Scalability](http://highscalability.com/)
 * [Scalable Web Architecture and Distributed Systems](http://www.aosabook.org/en/distsys.html)
 * [Latency numbers every programmer should know](https://gist.github.com/hellerbarde/2843375)
-
-## Object Oriented Design
-* [Head First Design Patterns](https://www.amazon.com/Head-First-Design-Patterns-Brain-Friendly-ebook/dp/B00AA36RZY)
 
 ## UX Design
 * [The Elements of User Experience](https://www.amazon.com/Elements-User-Experience-User-Centered-Design/dp/0321683684/ref=sr_1_1?ie=UTF8&qid=1492827574&sr=8-1&keywords=the+elements+of+user+experience)
@@ -117,13 +130,8 @@
 ## Tech Entreprenuership
 * [The Lean Startup](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898)
 * [Running lean](https://www.amazon.com/Running-Lean-Iterate-Works-OReilly/dp/1449305172)
-* [The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers](https://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205)
 
 ## Tech Career
-* [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-6th-Edition/dp/0984782850)
-* [CtCI with Hacker Rank](https://www.hackerrank.com/domains/tutorials/cracking-the-coding-interview)
-* [Elements of Programming Interview in Python](https://www.amazon.com/Elements-Programming-Interviews-Python-Insiders/dp/1537713949/ref=pd_sim_14_3?_encoding=UTF8&psc=1&refRID=4FWT0BDPHRNGFNH7B928)
-* [Grokking the System Design Interview](https://www.educative.io/collection/5668639101419520/5649050225344512)
 * [I spent 3 months applying to jobs after a coding bootcamp. Here’s what I learned.](https://medium.freecodecamp.com/5-key-learnings-from-the-post-bootcamp-job-search-9a07468d2331)
 * [Soft Skills: The software developer's life manual](https://www.amazon.com/Soft-Skills-software-developers-manual/dp/1617292397/ref=sr_1_1?ie=UTF8&qid=1495198784&sr=8-1&keywords=soft+skills)
 * ['How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft' by Sean Lee](https://www.youtube.com/watch?v=YJZCUhxNCv8)
