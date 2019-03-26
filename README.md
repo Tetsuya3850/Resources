@@ -11,9 +11,9 @@
 * [React Devtools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)
 * [Redux Devtools](https://github.com/gaearon/redux-devtools)
 * [tylermcginnis.com](https://tylermcginnis.com/)
-* [Complete Intro to React](https://frontendmasters.com/courses/react/)
-* [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux)
-* [Building React Applications with Idiomatic Redux](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)
+* [Complete Intro to React by Brian Hold](https://frontendmasters.com/courses/react/)
+* [Getting Started with Redux by Dan Abramov](https://egghead.io/courses/getting-started-with-redux)
+* [Building React Applications with Idiomatic Redux by Dan Abramov](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)
 * [React Blog](https://reactjs.org/blog/)
 * [React Podcast](https://reactpodcast.simplecast.fm/)
 
@@ -38,10 +38,10 @@
 * [JSON Web Tokens](https://github.com/auth0/node-jsonwebtoken)
 * [socket.io](https://socket.io/)
 * [Nodemailer](https://nodemailer.com/about/)
-* [Learn Node](https://learnnode.com/)
-* [API Design in Node.js, v3](https://frontendmasters.com/courses/api-design-nodejs-v3/)
-* [Secure Authentication for Web Apps & APIs Using JWTs](https://frontendmasters.com/courses/secure-auth-jwt/)
-* [JavaScript Testing Practices and Principles](https://frontendmasters.com/courses/testing-practices-principles/)
+* [Learn Node by Wes Bos](https://learnnode.com/)
+* [API Design in Node.js, v3 in Frontend Masters](https://frontendmasters.com/courses/api-design-nodejs-v3/)
+* [Secure Authentication for Web Apps & APIs Using JWTs by Auth0](https://frontendmasters.com/courses/secure-auth-jwt/)
+* [JavaScript Testing Practices and Principles by Kent C. Dodds](https://frontendmasters.com/courses/testing-practices-principles/)
 
 ### MongoDB
 * [M220JS: MongoDB for Javascript Developers](https://university.mongodb.com/courses/M220JS/about)
