@@ -53,6 +53,23 @@
 * [Jest](https://jestjs.io/)
 * [Prettier](https://github.com/prettier/prettier)
 
+### Infrastructure
+* [Heroku](https://www.heroku.com/)
+* [Amazon Web Services](https://aws.amazon.com/)
+
+### System Design
+* [system-design-primer](https://github.com/donnemartin/system-design-primer)
+* [Grokking the System Design Interview](https://www.educative.io/collection/5668639101419520/5649050225344512)
+* [High Scalability](http://highscalability.com/)
+
+### Development Tools
+* [Google](https://google.com)
+* [Google Chrome](https://www.google.com/intl/en/chrome/browser/canary.html)
+* [git](https://git-scm.com/)
+* [GitHub](https://github.com/)
+* [Medium](https://medium.com/)
+* [Stack Overflow](https://stackoverflow.com/)
+* [VSCode](https://code.visualstudio.com/)
 
 ## CS Fundamentals
 
@@ -62,11 +79,6 @@
 * [Elements of Programming Interview in Python](https://www.amazon.com/Elements-Programming-Interviews-Python-Insiders/dp/1537713949/ref=pd_sim_14_3?_encoding=UTF8&psc=1&refRID=4FWT0BDPHRNGFNH7B928)
 * [GeeksforGeeks](https://www.geeksforgeeks.org/)
 * [Big O Cheat Sheet](http://bigocheatsheet.com/)
-
-### System Design
-* [system-design-primer](https://github.com/donnemartin/system-design-primer)
-* [High Scalability](http://highscalability.com/)
-* [Grokking the System Design Interview](https://www.educative.io/collection/5668639101419520/5649050225344512)
 
 ### Object Oriented Design
 * [Head First Design Patterns](https://www.amazon.com/Head-First-Design-Patterns-Brain-Friendly-ebook/dp/B00AA36RZY)
@@ -84,26 +96,12 @@
 * [SQL Tutorial](https://www.w3schools.com/sql/default.asp)
 * [Sams Teach Yourself SQL in 10 Minutes](https://www.amazon.com/SQL-Minutes-Sams-Teach-Yourself/dp/0672336073)
 
-
-
 <hr />
-
 
 ### Big Picture
 * [Hacker Rank Developer Skills Report](https://research.hackerrank.com/developer-skills/2019)
 * [Web Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
 * [the STATE of JavaScript](https://2018.stateofjs.com/)
-
-### Development Tools
-* [Google](https://google.com)
-* [Google Chrome](https://www.google.com/intl/en/chrome/browser/canary.html)
-* [git](https://git-scm.com/)
-* [GitHub](https://github.com/)
-* [Medium](https://medium.com/)
-* [Stack Overflow](https://stackoverflow.com/)
-* [VSCode](https://code.visualstudio.com/)
-* [IntelliJ IDEA](https://www.jetbrains.com/idea/)
-* [Heroku](https://www.heroku.com/)
 
 ### Computer Science
 * [20 Things I Learned About Browsers and the Web](http://www.20thingsilearned.com/en-US/home)
