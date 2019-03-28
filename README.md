@@ -11,7 +11,7 @@
 * [React Devtools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)
 * [Redux Devtools](https://github.com/gaearon/redux-devtools)
 * [tylermcginnis.com](https://tylermcginnis.com/)
-* [Complete Intro to React by Brian Hold](https://frontendmasters.com/courses/react/)
+* [Complete Intro to React by Brian Holt](https://frontendmasters.com/courses/react/)
 * [Getting Started with Redux by Dan Abramov](https://egghead.io/courses/getting-started-with-redux)
 * [Building React Applications with Idiomatic Redux by Dan Abramov](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)
 * [React Blog](https://reactjs.org/blog/)
