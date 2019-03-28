@@ -36,6 +36,7 @@
 * [nodemon](https://github.com/remy/nodemon)
 * [cors](https://github.com/expressjs/cors)
 * [JSON Web Tokens](https://github.com/auth0/node-jsonwebtoken)
+* [bcrypt](https://www.npmjs.com/package/bcrypt)
 * [socket.io](https://socket.io/)
 * [Nodemailer](https://nodemailer.com/about/)
 * [The Complete Node.js Course by Mosh](https://codewithmosh.com/p/the-complete-node-js-course)
