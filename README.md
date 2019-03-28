@@ -38,6 +38,7 @@
 * [JSON Web Tokens](https://github.com/auth0/node-jsonwebtoken)
 * [socket.io](https://socket.io/)
 * [Nodemailer](https://nodemailer.com/about/)
+* [The Complete Node.js Course by Mosh](https://codewithmosh.com/p/the-complete-node-js-course)
 * [Learn Node by Wes Bos](https://learnnode.com/)
 * [API Design in Node.js, v3 in Frontend Masters](https://frontendmasters.com/courses/api-design-nodejs-v3/)
 * [Secure Authentication for Web Apps & APIs Using JWTs by Auth0](https://frontendmasters.com/courses/secure-auth-jwt/)
