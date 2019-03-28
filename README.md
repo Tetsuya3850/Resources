@@ -52,6 +52,7 @@
 ### JavaScript
 * [Axios](https://github.com/axios/axios)
 * [Jest](https://jestjs.io/)
+* [Lodash](https://lodash.com/)
 * [Prettier](https://github.com/prettier/prettier)
 
 ### Infrastructure
