@@ -53,7 +53,6 @@
 * [Axios](https://github.com/axios/axios)
 * [Jest](https://jestjs.io/)
 * [Lodash](https://lodash.com/)
-* [Prettier](https://github.com/prettier/prettier)
 
 ### Infrastructure
 * [Heroku](https://www.heroku.com/)
@@ -72,6 +71,7 @@
 * [Medium](https://medium.com/)
 * [Stack Overflow](https://stackoverflow.com/)
 * [VSCode](https://code.visualstudio.com/)
+* [Prettier](https://github.com/prettier/prettier)
 
 ## CS Fundamentals
 
