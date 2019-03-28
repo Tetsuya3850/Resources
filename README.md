@@ -80,6 +80,7 @@
 * [Elements of Programming Interview in Python](https://www.amazon.com/Elements-Programming-Interviews-Python-Insiders/dp/1537713949/ref=pd_sim_14_3?_encoding=UTF8&psc=1&refRID=4FWT0BDPHRNGFNH7B928)
 * [GeeksforGeeks](https://www.geeksforgeeks.org/)
 * [Big O Cheat Sheet](http://bigocheatsheet.com/)
+* [LeetCode](https://leetcode.com/)
 
 ### Object Oriented Design
 * [Head First Design Patterns](https://www.amazon.com/Head-First-Design-Patterns-Brain-Friendly-ebook/dp/B00AA36RZY)
@@ -96,55 +97,3 @@
 ### SQL
 * [SQL Tutorial](https://www.w3schools.com/sql/default.asp)
 * [Sams Teach Yourself SQL in 10 Minutes](https://www.amazon.com/SQL-Minutes-Sams-Teach-Yourself/dp/0672336073)
-
-<hr />
-
-### Big Picture
-* [Hacker Rank Developer Skills Report](https://research.hackerrank.com/developer-skills/2019)
-* [Web Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
-* [the STATE of JavaScript](https://2018.stateofjs.com/)
-
-### Computer Science
-* [20 Things I Learned About Browsers and the Web](http://www.20thingsilearned.com/en-US/home)
-* [40 Key Computer Science Concepts Explained In Layman’s Terms](http://carlcheo.com/compsci)
-* [Map of Computer Science](https://www.youtube.com/watch?v=SzJ46YA_RaA)
-* [Domino Addition - Numberphile](https://www.youtube.com/watch?v=lNuPy-r1GuQ)
-* [Top Coder Data Science Tutorials](https://www.topcoder.com/community/data-science/data-science-tutorials/)
-* [How the Internet Works by Code.org](https://www.youtube.com/playlist?list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7)
-
-* [Scalable Web Architecture and Distributed Systems](http://www.aosabook.org/en/distsys.html)
-* [Latency numbers every programmer should know](https://gist.github.com/hellerbarde/2843375)
-
-### UX Design
-* [The Elements of User Experience](https://www.amazon.com/Elements-User-Experience-User-Centered-Design/dp/0321683684/ref=sr_1_1?ie=UTF8&qid=1492827574&sr=8-1&keywords=the+elements+of+user+experience)
-* [Don't Make Me Think](https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515/ref=sr_1_1?ie=UTF8&qid=1492827633&sr=8-1&keywords=don%27t+make+me+think)
-* [Accessibility according to actual people with disabilities](https://axesslab.com/accessibility-according-to-pwd)
-
-### UI Design
-* [Sketch](https://www.sketchapp.com/)
-
-### Tech Entreprenuership
-* [The Lean Startup](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898)
-* [Running lean](https://www.amazon.com/Running-Lean-Iterate-Works-OReilly/dp/1449305172)
-
-### Tech Career
-* [I spent 3 months applying to jobs after a coding bootcamp. Here’s what I learned.](https://medium.freecodecamp.com/5-key-learnings-from-the-post-bootcamp-job-search-9a07468d2331)
-* [Soft Skills: The software developer's life manual](https://www.amazon.com/Soft-Skills-software-developers-manual/dp/1617292397/ref=sr_1_1?ie=UTF8&qid=1495198784&sr=8-1&keywords=soft+skills)
-* ['How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft' by Sean Lee](https://www.youtube.com/watch?v=YJZCUhxNCv8)
-* [The Five Essential Phone-Screen Questions](https://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions)
-
-### Others
-* [.gitignore templates](https://github.com/github/gitignore)
-* [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc?hl=en)
-* [Can I use...](http://caniuse.com/#home)
-* [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
-* [How To Ask Questions The Smart Way](http://www.catb.org/~esr/faqs/smart-questions.html)
-* [OneTab](https://www.one-tab.com/)
-* [Stack Overflow Developer Survey Results 2018](https://insights.stackoverflow.com/survey/2018/)
-
-### HTML/CSS
-* [HTML Reference.io](https://htmlreference.io/)
-* [CSS Reference.io](https://cssreference.io/)
-* [30 Seconds of CSS](https://atomiks.github.io/30-seconds-of-css/)
-
-* [Fullstack React](https://www.fullstackreact.com/)
