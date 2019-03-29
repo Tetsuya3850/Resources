@@ -49,6 +49,7 @@
 * [M220JS: MongoDB for Javascript Developers](https://university.mongodb.com/courses/M220JS/about)
 * [Mongoose Docs](http://mongoosejs.com/)
 * [mLab](https://mlab.com/home)
+* [6 Rules of Thumb for MongoDB Schema Design](https://www.mongodb.com/blog/post/6-rules-of-thumb-for-mongodb-schema-design-part-1)
 
 ### JavaScript
 * [Axios](https://github.com/axios/axios)
