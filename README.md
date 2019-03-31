@@ -23,7 +23,6 @@
 * [React Navigation Docs](https://reactnavigation.org/)
 * [@expo/vector-icons directory](https://expo.github.io/vector-icons/)
 * [React Native Express](http://www.reactnativeexpress.com/)
-* [ReactEurope 2017 React Native Workshop with Expo](https://www.youtube.com/playlist?list=PLCC436JpVnK2RFms3NG9ubPToWCNbMLbT)
 * [Fullstack React Native](https://www.fullstackreact.com/react-native/)
 * [React Native Blog](http://facebook.github.io/react-native/blog/)
 * [Expo Blog](https://blog.expo.io)
