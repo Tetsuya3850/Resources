@@ -88,7 +88,7 @@
 * [Head First Design Patterns](https://www.amazon.com/Head-First-Design-Patterns-Brain-Friendly-ebook/dp/B00AA36RZY)
 
 ### JavaScript
-* [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
+* [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 
 ### Python
 * [The Python Tutorial](https://docs.python.org/3/tutorial/index.html)
