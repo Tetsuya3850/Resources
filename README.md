@@ -59,11 +59,6 @@
 * [Heroku](https://www.heroku.com/)
 * [Amazon Web Services](https://aws.amazon.com/)
 
-### System Design
-* [system-design-primer](https://github.com/donnemartin/system-design-primer)
-* [Grokking the System Design Interview](https://www.educative.io/collection/5668639101419520/5649050225344512)
-* [High Scalability](http://highscalability.com/)
-
 ### Development Tools
 * [Google](https://google.com)
 * [Google Chrome](https://www.google.com/intl/en/chrome/browser/canary.html)
@@ -83,6 +78,11 @@
 * [GeeksforGeeks](https://www.geeksforgeeks.org/)
 * [Big O Cheat Sheet](http://bigocheatsheet.com/)
 * [LeetCode](https://leetcode.com/)
+
+### System Design
+* [system-design-primer](https://github.com/donnemartin/system-design-primer)
+* [Grokking the System Design Interview](https://www.educative.io/collection/5668639101419520/5649050225344512)
+* [High Scalability](http://highscalability.com/)
 
 ### Object Oriented Design
 * [Head First Design Patterns](https://www.amazon.com/Head-First-Design-Patterns-Brain-Friendly-ebook/dp/B00AA36RZY)
