@@ -83,6 +83,7 @@
 * [system-design-primer](https://github.com/donnemartin/system-design-primer)
 * [Grokking the System Design Interview](https://www.educative.io/collection/5668639101419520/5649050225344512)
 * [High Scalability](http://highscalability.com/)
+* [How We've Scaled Dropbox](https://www.youtube.com/watch?v=PE4gwstWhmc)
 
 ### Object Oriented Design
 * [Head First Design Patterns](https://www.amazon.com/Head-First-Design-Patterns-Brain-Friendly-ebook/dp/B00AA36RZY)
