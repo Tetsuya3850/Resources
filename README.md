@@ -58,6 +58,7 @@
 ### Spring
 * [Spring Guides](https://spring.io/guides)
 * [Spring Boot Reference Guide](https://docs.spring.io/spring-boot/docs/2.1.4.RELEASE/reference/htmlsingle/)
+* [Spring Initializr](https://start.spring.io/)
 * [Implementing JWT Authentication on Spring Boot APIs](https://auth0.com/blog/implementing-jwt-authentication-on-spring-boot/)
 
 ### Infrastructure
