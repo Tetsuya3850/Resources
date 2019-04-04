@@ -44,16 +44,21 @@
 * [Secure Authentication for Web Apps & APIs Using JWTs by Auth0](https://frontendmasters.com/courses/secure-auth-jwt/)
 * [JavaScript Testing Practices and Principles by Kent C. Dodds](https://frontendmasters.com/courses/testing-practices-principles/)
 
+### JavaScript
+* [Axios](https://github.com/axios/axios)
+* [Jest](https://jestjs.io/)
+* [Lodash](https://lodash.com/)
+
 ### MongoDB
 * [M220JS: MongoDB for Javascript Developers](https://university.mongodb.com/courses/M220JS/about)
 * [Mongoose Docs](http://mongoosejs.com/)
 * [mLab](https://mlab.com/home)
 * [6 Rules of Thumb for MongoDB Schema Design](https://www.mongodb.com/blog/post/6-rules-of-thumb-for-mongodb-schema-design-part-1)
 
-### JavaScript
-* [Axios](https://github.com/axios/axios)
-* [Jest](https://jestjs.io/)
-* [Lodash](https://lodash.com/)
+### Spring
+* [Spring Guides](https://spring.io/guides)
+* [Spring Boot Reference Guide](https://docs.spring.io/spring-boot/docs/2.1.4.RELEASE/reference/htmlsingle/)
+* [Implementing JWT Authentication on Spring Boot APIs](https://auth0.com/blog/implementing-jwt-authentication-on-spring-boot/)
 
 ### Infrastructure
 * [Heroku](https://www.heroku.com/)
