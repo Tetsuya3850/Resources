@@ -57,10 +57,11 @@
 
 ### Spring
 * [Spring Guides](https://spring.io/guides)
-* [Spring Boot Reference Guide](https://docs.spring.io/spring-boot/docs/2.1.4.RELEASE/reference/htmlsingle/)
-* [Spring Web MVC Guide](https://docs.spring.io/spring/docs/5.1.6.RELEASE/spring-framework-reference/web.html#mvc)
-* [Spring Data JPA - Reference Documentation](https://docs.spring.io/spring-data/jpa/docs/2.1.6.RELEASE/reference/html/)
+* [Spring Boot Reference](https://docs.spring.io/spring-boot/docs/2.1.4.RELEASE/reference/htmlsingle/)
+* [Spring Web MVC Reference](https://docs.spring.io/spring/docs/5.1.6.RELEASE/spring-framework-reference/web.html#mvc)
+* [Spring Data JPA Reference](https://docs.spring.io/spring-data/jpa/docs/2.1.6.RELEASE/reference/html/)
 * [Spring Security Reference](https://docs.spring.io/spring-security/site/docs/5.2.0.BUILD-SNAPSHOT/reference/htmlsingle/)
+* [Spring Testing Reference](https://docs.spring.io/spring/docs/5.1.6.RELEASE/spring-framework-reference/testing.html)
 * [Spring Initializr](https://start.spring.io/)
 * [Implementing JWT Authentication on Spring Boot APIs](https://auth0.com/blog/implementing-jwt-authentication-on-spring-boot/)
 
