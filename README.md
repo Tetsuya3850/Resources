@@ -1,4 +1,19 @@
-## App Development
+### Development Tools
+* [Google](https://google.com)
+* [Google Chrome](https://www.google.com/chrome/)
+* [git](https://git-scm.com/)
+* [GitHub](https://github.com/)
+* [Medium](https://medium.com/)
+* [Stack Overflow](https://stackoverflow.com/)
+* [VSCode](https://code.visualstudio.com/)
+* [Intellij IDEA](https://www.jetbrains.com/idea/)
+* [Prettier](https://github.com/prettier/prettier)
+
+### Big Picture
+* [Stack Overflow Developer Survey Results 2019](https://insights.stackoverflow.com/survey/2019)
+* [Hacker Rank Developer Skills Report](https://research.hackerrank.com/developer-skills/2019)
+* [Web Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+* [the STATE of JavaScript](https://2018.stateofjs.com/)
 
 ### React
 * [React Docs](https://reactjs.org/)
@@ -38,22 +53,12 @@
 * [bcrypt](https://www.npmjs.com/package/bcrypt)
 * [socket.io](https://socket.io/)
 * [Nodemailer](https://nodemailer.com/about/)
+* [Jest](https://jestjs.io/)
 * [The Complete Node.js Course by Mosh](https://codewithmosh.com/p/the-complete-node-js-course)
 * [Learn Node by Wes Bos](https://learnnode.com/)
 * [API Design in Node.js, v3 in Frontend Masters](https://frontendmasters.com/courses/api-design-nodejs-v3/)
 * [Secure Authentication for Web Apps & APIs Using JWTs by Auth0](https://frontendmasters.com/courses/secure-auth-jwt/)
 * [JavaScript Testing Practices and Principles by Kent C. Dodds](https://frontendmasters.com/courses/testing-practices-principles/)
-
-### JavaScript
-* [Axios](https://github.com/axios/axios)
-* [Jest](https://jestjs.io/)
-* [Lodash](https://lodash.com/)
-
-### MongoDB
-* [M220JS: MongoDB for Javascript Developers](https://university.mongodb.com/courses/M220JS/about)
-* [Mongoose Docs](http://mongoosejs.com/)
-* [mLab](https://mlab.com/home)
-* [6 Rules of Thumb for MongoDB Schema Design](https://www.mongodb.com/blog/post/6-rules-of-thumb-for-mongodb-schema-design-part-1)
 
 ### Spring
 * [Spring Guides](https://spring.io/guides)
@@ -65,21 +70,18 @@
 * [Spring Initializr](https://start.spring.io/)
 * [Implementing JWT Authentication on Spring Boot APIs](https://auth0.com/blog/implementing-jwt-authentication-on-spring-boot/)
 
+### SQL
+* [SQL Tutorial](https://www.w3schools.com/sql/default.asp)
+* [Sams Teach Yourself SQL in 10 Minutes](https://www.amazon.com/SQL-Minutes-Sams-Teach-Yourself/dp/0672336073)
+
+### MongoDB
+* [M220JS: MongoDB for Javascript Developers](https://university.mongodb.com/courses/M220JS/about)
+* [Mongoose Docs](http://mongoosejs.com/)
+* [mLab](https://mlab.com/home)
+* [6 Rules of Thumb for MongoDB Schema Design](https://www.mongodb.com/blog/post/6-rules-of-thumb-for-mongodb-schema-design-part-1)
+
 ### Infrastructure
 * [Heroku](https://www.heroku.com/)
-* [Amazon Web Services](https://aws.amazon.com/)
-
-### Development Tools
-* [Google](https://google.com)
-* [Google Chrome](https://www.google.com/intl/en/chrome/browser/canary.html)
-* [git](https://git-scm.com/)
-* [GitHub](https://github.com/)
-* [Medium](https://medium.com/)
-* [Stack Overflow](https://stackoverflow.com/)
-* [VSCode](https://code.visualstudio.com/)
-* [Prettier](https://github.com/prettier/prettier)
-
-## CS Fundamentals
 
 ### Data Structures and Algorithms
 * [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-6th-Edition/dp/0984782850)
@@ -88,6 +90,7 @@
 * [GeeksforGeeks](https://www.geeksforgeeks.org/)
 * [Big O Cheat Sheet](http://bigocheatsheet.com/)
 * [LeetCode](https://leetcode.com/)
+* [Top Coder Data Science Tutorials](https://www.topcoder.com/community/data-science/data-science-tutorials/)
 
 ### System Design
 * [system-design-primer](https://github.com/donnemartin/system-design-primer)
@@ -98,6 +101,10 @@
 ### Object Oriented Design
 * [Head First Design Patterns](https://www.amazon.com/Head-First-Design-Patterns-Brain-Friendly-ebook/dp/B00AA36RZY)
 
+### Computer Science
+* [How the Internet Works by Code.org](https://www.youtube.com/playlist?list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7)
+* [20 Things I Learned About Browsers and the Web](http://www.20thingsilearned.com/en-US/home)
+
 ### JavaScript
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 
@@ -106,10 +113,3 @@
 
 ### Java
 * [Head First Java](https://www.amazon.com/Head-First-Java-Kathy-Sierra/dp/0596009208)
-
-### SQL
-* [SQL Tutorial](https://www.w3schools.com/sql/default.asp)
-* [Sams Teach Yourself SQL in 10 Minutes](https://www.amazon.com/SQL-Minutes-Sams-Teach-Yourself/dp/0672336073)
-
-### Overall
-* [Stack Overflow Developer Survey Results 2019](https://insights.stackoverflow.com/survey/2019)
