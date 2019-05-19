@@ -62,13 +62,23 @@
 
 ### Spring
 * [Spring Guides](https://spring.io/guides)
+* [Getting Started with Spring Boot](https://www.youtube.com/watch?v=sbPSjI4tt10)
 * [Spring Boot Reference](https://docs.spring.io/spring-boot/docs/2.1.4.RELEASE/reference/htmlsingle/)
+* [The IoC Container Reference](https://docs.spring.io/spring-framework/docs/current/spring-framework-reference/core.html#beans)
 * [Spring Web MVC Reference](https://docs.spring.io/spring/docs/5.1.6.RELEASE/spring-framework-reference/web.html#mvc)
-* [Spring Data JPA Reference](https://docs.spring.io/spring-data/jpa/docs/2.1.6.RELEASE/reference/html/)
 * [Spring Security Reference](https://docs.spring.io/spring-security/site/docs/5.2.0.BUILD-SNAPSHOT/reference/htmlsingle/)
-* [Spring MVC Test Framework Reference](https://docs.spring.io/spring/docs/5.1.6.RELEASE/spring-framework-reference/testing.html#spring-mvc-test-framework)
-* [Spring Initializr](https://start.spring.io/)
 * [Implementing JWT Authentication on Spring Boot APIs](https://auth0.com/blog/implementing-jwt-authentication-on-spring-boot/)
+* [Spring Data JPA Reference](https://docs.spring.io/spring-data/jpa/docs/2.1.6.RELEASE/reference/html/)
+* [Hibernate ORM 5.4.2.Final User Guide](http://docs.jboss.org/hibernate/orm/5.4/userguide/html_single/Hibernate_User_Guide.html)
+* [Hibernate Validator 6.0.16.Final Reference Guide](https://docs.jboss.org/hibernate/stable/validator/reference/en-US/html_single/)
+* [Spring MVC Test Framework Reference](https://docs.spring.io/spring/docs/5.1.6.RELEASE/spring-framework-reference/testing.html#spring-mvc-test-framework)
+* [JUnit 5 User Guide](https://junit.org/junit5/docs/current/user-guide/)
+* [Mockito Javadoc](https://static.javadoc.io/org.mockito/mockito-core/2.27.0/org/mockito/Mockito.html)
+* [JSON Path README](https://github.com/json-path/JsonPath)
+* [Test Driven Development with Spring Boot - Sannidhi Jalukar, Madhura Bhave](https://www.youtube.com/watch?v=s9vt6UJiHg4&t=2711s)
+* [Testing Spring Boot Applications - Phil Webb](https://www.youtube.com/watch?v=QjaoAWLlGGs)
+* [Spring Tips: Bootiful Testing](https://www.youtube.com/watch?v=lTSJCr7xdbM)
+* [Deploying Spring Boot Applications to Heroku](https://devcenter.heroku.com/articles/deploying-spring-boot-apps-to-heroku)
 
 ### SQL
 * [SQL Tutorial](https://www.w3schools.com/sql/default.asp)
@@ -82,10 +92,20 @@
 
 ### Infrastructure
 * [Heroku](https://www.heroku.com/)
+* [The Linux Command Line: A Complete Introduction](https://www.amazon.com/Linux-Command-Line-Complete-Introduction-ebook/dp/B006X2QEQS/)
+
+### JavaScript
+* [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
+
+### Python
+* [The Python Tutorial](https://docs.python.org/3/tutorial/index.html)
+
+### Java
+* [Head First Java](https://www.amazon.com/Head-First-Java-Kathy-Sierra/dp/0596009208)
+* [Java Concurrency in Practice](https://www.amazon.com/Java-Concurrency-Practice-Brian-Goetz/dp/0321349601/)
 
 ### Data Structures and Algorithms
 * [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-6th-Edition/dp/0984782850)
-* [CtCI with Hacker Rank](https://www.hackerrank.com/domains/tutorials/cracking-the-coding-interview)
 * [Elements of Programming Interview in Python](https://www.amazon.com/Elements-Programming-Interviews-Python-Insiders/dp/1537713949/ref=pd_sim_14_3?_encoding=UTF8&psc=1&refRID=4FWT0BDPHRNGFNH7B928)
 * [GeeksforGeeks](https://www.geeksforgeeks.org/)
 * [Big O Cheat Sheet](http://bigocheatsheet.com/)
@@ -103,13 +123,3 @@
 
 ### Computer Science
 * [How the Internet Works by Code.org](https://www.youtube.com/playlist?list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7)
-* [20 Things I Learned About Browsers and the Web](http://www.20thingsilearned.com/en-US/home)
-
-### JavaScript
-* [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
-
-### Python
-* [The Python Tutorial](https://docs.python.org/3/tutorial/index.html)
-
-### Java
-* [Head First Java](https://www.amazon.com/Head-First-Java-Kathy-Sierra/dp/0596009208)
