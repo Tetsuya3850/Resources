@@ -1,20 +1,3 @@
-### Development Tools
-* [Google](https://google.com)
-* [Google Chrome](https://www.google.com/chrome/)
-* [git](https://git-scm.com/)
-* [GitHub](https://github.com/)
-* [Medium](https://medium.com/)
-* [Stack Overflow](https://stackoverflow.com/)
-* [VSCode](https://code.visualstudio.com/)
-* [Intellij IDEA](https://www.jetbrains.com/idea/)
-* [Prettier](https://github.com/prettier/prettier)
-
-### Big Picture
-* [Stack Overflow Developer Survey Results 2019](https://insights.stackoverflow.com/survey/2019)
-* [Hacker Rank Developer Skills Report](https://research.hackerrank.com/developer-skills/2019)
-* [Web Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
-* [the STATE of JavaScript](https://2018.stateofjs.com/)
-
 ### Java
 * [Java Precisely](https://www.amazon.com/Java-Precisely-Press-Peter-Sestoft/dp/0262529076/)
 * [Effective Java](https://www.amazon.com/Effective-Java-Joshua-Bloch/dp/0134685997)
@@ -133,3 +116,20 @@
 
 ### Computer Science
 * [How the Internet Works by Code.org](https://www.youtube.com/playlist?list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7)
+
+### Development Tools
+* [Google](https://google.com)
+* [Google Chrome](https://www.google.com/chrome/)
+* [git](https://git-scm.com/)
+* [GitHub](https://github.com/)
+* [Medium](https://medium.com/)
+* [Stack Overflow](https://stackoverflow.com/)
+* [VSCode](https://code.visualstudio.com/)
+* [Intellij IDEA](https://www.jetbrains.com/idea/)
+* [Prettier](https://github.com/prettier/prettier)
+
+### Big Picture
+* [Stack Overflow Developer Survey Results 2019](https://insights.stackoverflow.com/survey/2019)
+* [Hacker Rank Developer Skills Report](https://research.hackerrank.com/developer-skills/2019)
+* [Web Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+* [the STATE of JavaScript](https://2018.stateofjs.com/)
