@@ -1,7 +1,7 @@
 ### Java
+* [The Java™ Tutorials](https://docs.oracle.com/javase/tutorial/)
 * [Java Precisely](https://www.amazon.com/Java-Precisely-Press-Peter-Sestoft/dp/0262529076/)
 * [Effective Java](https://www.amazon.com/Effective-Java-Joshua-Bloch/dp/0134685997)
-* [Java Concurrency in Practice](https://www.amazon.com/Java-Concurrency-Practice-Brian-Goetz/dp/0321349601/)
 
 ### Spring
 * [spring-boot-starter-web](https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-web)
