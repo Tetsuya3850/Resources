@@ -4,12 +4,6 @@
 * [Effective Java](https://www.amazon.com/Effective-Java-Joshua-Bloch/dp/0134685997)
 
 ### Spring
-* [spring-boot-starter-web](https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-web)
-* [spring-boot-starter-security](https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-security)
-* [java-jwt](https://mvnrepository.com/artifact/com.auth0/java-jwt)
-* [spring-boot-starter-data-jpa](https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-data-jpa)
-* [MySQL](https://www.mysql.com/)
-* [spring-boot-starter-test](https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-test)
 * [Spring Guides](https://spring.io/guides)
 * [Getting Started with Spring Boot](https://www.youtube.com/watch?v=sbPSjI4tt10)
 * [Spring Boot Reference](https://docs.spring.io/spring-boot/docs/2.1.4.RELEASE/reference/htmlsingle/)
