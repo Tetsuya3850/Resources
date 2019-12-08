@@ -35,7 +35,7 @@
 ### Cache
 * [Redis](https://redis.io/documentation)
 * [Spring Data Redis](https://docs.spring.io/spring-data/redis/docs/2.2.3.RELEASE/reference/html/#reference)
-* [Amazon ElastiCache](https://aws.amazon.com/elasticache/)
+* [Amazon ElastiCache](https://docs.aws.amazon.com/AmazonElastiCache/latest/red-ug/WhatIs.html)
 
 ### React
 * [React Docs](https://reactjs.org/)
