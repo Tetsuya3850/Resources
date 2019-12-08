@@ -32,6 +32,10 @@
 * [How We've Scaled Dropbox](https://www.youtube.com/watch?v=PE4gwstWhmc)
 * [Mastering Chaos - A Netflix Guide to Microservices](https://www.youtube.com/watch?v=CZ3wIuvmHeM&t=846s)
 
+### Cache
+* [Redis](https://redis.io/)
+* [Spring Data Redis](https://docs.spring.io/spring-data/redis/docs/2.2.3.RELEASE/reference/html/#reference)
+
 ### React
 * [React Docs](https://reactjs.org/)
 * [Redux Docs](http://redux.js.org/)
