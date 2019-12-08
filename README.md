@@ -33,7 +33,7 @@
 * [Mastering Chaos - A Netflix Guide to Microservices](https://www.youtube.com/watch?v=CZ3wIuvmHeM&t=846s)
 
 ### Cache
-* [Redis](https://redis.io/)
+* [Redis](https://redis.io/documentation)
 * [Spring Data Redis](https://docs.spring.io/spring-data/redis/docs/2.2.3.RELEASE/reference/html/#reference)
 
 ### React
