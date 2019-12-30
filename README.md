@@ -9,7 +9,6 @@
 * [Spring Boot Reference](https://docs.spring.io/spring-boot/docs/2.1.4.RELEASE/reference/htmlsingle/)
 * [JUnit 5 User Guide](https://junit.org/junit5/docs/current/user-guide/)
 * [Mockito Javadoc](https://static.javadoc.io/org.mockito/mockito-core/2.27.0/org/mockito/Mockito.html)
-
 * [The IoC Container Reference](https://docs.spring.io/spring-framework/docs/current/spring-framework-reference/core.html#beans)
 * [Spring Web MVC Reference](https://docs.spring.io/spring/docs/5.1.6.RELEASE/spring-framework-reference/web.html#mvc)
 * [Spring Security Reference](https://docs.spring.io/spring-security/site/docs/5.2.0.BUILD-SNAPSHOT/reference/htmlsingle/)
