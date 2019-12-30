@@ -7,6 +7,9 @@
 * [Spring Guides](https://spring.io/guides)
 * [Getting Started with Spring Boot](https://www.youtube.com/watch?v=sbPSjI4tt10)
 * [Spring Boot Reference](https://docs.spring.io/spring-boot/docs/2.1.4.RELEASE/reference/htmlsingle/)
+* [JUnit 5 User Guide](https://junit.org/junit5/docs/current/user-guide/)
+* [Mockito Javadoc](https://static.javadoc.io/org.mockito/mockito-core/2.27.0/org/mockito/Mockito.html)
+
 * [The IoC Container Reference](https://docs.spring.io/spring-framework/docs/current/spring-framework-reference/core.html#beans)
 * [Spring Web MVC Reference](https://docs.spring.io/spring/docs/5.1.6.RELEASE/spring-framework-reference/web.html#mvc)
 * [Spring Security Reference](https://docs.spring.io/spring-security/site/docs/5.2.0.BUILD-SNAPSHOT/reference/htmlsingle/)
@@ -15,8 +18,6 @@
 * [Hibernate ORM 5.4.2.Final User Guide](http://docs.jboss.org/hibernate/orm/5.4/userguide/html_single/Hibernate_User_Guide.html)
 * [Hibernate Validator 6.0.16.Final Reference Guide](https://docs.jboss.org/hibernate/stable/validator/reference/en-US/html_single/)
 * [Spring MVC Test Framework Reference](https://docs.spring.io/spring/docs/5.1.6.RELEASE/spring-framework-reference/testing.html#spring-mvc-test-framework)
-* [JUnit 5 User Guide](https://junit.org/junit5/docs/current/user-guide/)
-* [Mockito Javadoc](https://static.javadoc.io/org.mockito/mockito-core/2.27.0/org/mockito/Mockito.html)
 * [JSON Path README](https://github.com/json-path/JsonPath)
 * [Test Driven Development with Spring Boot - Sannidhi Jalukar, Madhura Bhave](https://www.youtube.com/watch?v=s9vt6UJiHg4&t=2711s)
 * [Testing Spring Boot Applications - Phil Webb](https://www.youtube.com/watch?v=QjaoAWLlGGs)
