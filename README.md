@@ -2,6 +2,7 @@
 * [The Java™ Tutorials](https://docs.oracle.com/javase/tutorial/)
 * [Java Precisely](https://www.amazon.com/Java-Precisely-Press-Peter-Sestoft/dp/0262529076/)
 * [Effective Java](https://www.amazon.com/Effective-Java-Joshua-Bloch/dp/0134685997)
+* [Dev Ecosystem 2019 Java by JetBrains](https://www.jetbrains.com/lp/devecosystem-2019/java/)
 
 ### Spring
 * [Spring Guides](https://spring.io/guides)
