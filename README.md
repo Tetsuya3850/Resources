@@ -30,6 +30,9 @@
 * [More IntelliJ IDEA Tips and Tricks by Trisha Gee](https://www.youtube.com/watch?v=9AMcN-wkspU)
 * [Debugging](https://www.jetbrains.com/help/idea/debugging-code.html)
 
+### SQL
+* [MySQL Documentation](https://dev.mysql.com/doc/)
+
 ### Development Tools
 * [Google](https://google.com)
 * [Google Chrome](https://www.google.com/chrome/)
