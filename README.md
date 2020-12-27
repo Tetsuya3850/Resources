@@ -3,7 +3,6 @@
 * [Java Precisely](https://www.amazon.com/Java-Precisely-Press-Peter-Sestoft/dp/0262529076/)
 * [Effective Java](https://www.amazon.com/Effective-Java-Joshua-Bloch/dp/0134685997)
 * [Modern Java in Action](https://www.amazon.com/Modern-Java-Action-functional-programming/dp/1617293563)
-* [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
 * [Dev Ecosystem 2019 Java by JetBrains](https://www.jetbrains.com/lp/devecosystem-2019/java/)
 
 ### Java Ecosystem
@@ -17,18 +16,6 @@
 * [Spring Guides](https://spring.io/guides)
 * [Getting Started with Spring Boot](https://www.youtube.com/watch?v=sbPSjI4tt10)
 * [Spring Boot Reference](https://docs.spring.io/spring-boot/docs/2.1.4.RELEASE/reference/htmlsingle/)
-
-### Gradle
-* [Gradle Tutorials and Guides](https://gradle.org/guides/)
-* [Gradle User Manual](https://docs.gradle.org/current/userguide/userguide.pdf)
-* [Improving the Performance of Gradle Builds](https://guides.gradle.org/performance/)
-
-### Intellij IDEA
-* [IntelliJ IDEA Video tutorials](https://www.jetbrains.com/idea/documentation/)
-* [Discover IntelliJ IDEA](https://www.jetbrains.com/help/idea/discover-intellij-idea.html)
-* [42 IntelliJ IDEA Tips and Tricks](https://www.youtube.com/watch?v=eq3KiAH4IBI)
-* [More IntelliJ IDEA Tips and Tricks by Trisha Gee](https://www.youtube.com/watch?v=9AMcN-wkspU)
-* [Debugging](https://www.jetbrains.com/help/idea/debugging-code.html)
 
 ### SQL
 * [MySQL Documentation](https://dev.mysql.com/doc/)
@@ -50,6 +37,21 @@
 * [Top Coder Data Science Tutorials](https://www.topcoder.com/community/data-science/data-science-tutorials/)
 
 -----
+
+
+### Gradle
+* [Gradle Tutorials and Guides](https://gradle.org/guides/)
+* [Gradle User Manual](https://docs.gradle.org/current/userguide/userguide.pdf)
+* [Improving the Performance of Gradle Builds](https://guides.gradle.org/performance/)
+
+### Intellij IDEA
+* [IntelliJ IDEA Video tutorials](https://www.jetbrains.com/idea/documentation/)
+* [Discover IntelliJ IDEA](https://www.jetbrains.com/help/idea/discover-intellij-idea.html)
+* [42 IntelliJ IDEA Tips and Tricks](https://www.youtube.com/watch?v=eq3KiAH4IBI)
+* [More IntelliJ IDEA Tips and Tricks by Trisha Gee](https://www.youtube.com/watch?v=9AMcN-wkspU)
+* [Debugging](https://www.jetbrains.com/help/idea/debugging-code.html)
+
+* [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
 
 ### System Design
 * [system-design-primer](https://github.com/donnemartin/system-design-primer)
