@@ -33,6 +33,9 @@
 ### SQL
 * [MySQL Documentation](https://dev.mysql.com/doc/)
 
+### Redis
+* [Redis Documentation](https://redis.io/)
+
 ### Development Tools
 * [Google](https://google.com)
 * [Google Chrome](https://www.google.com/chrome/)
