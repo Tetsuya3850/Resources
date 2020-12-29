@@ -22,6 +22,7 @@
 
 ### Redis
 * [Redis Documentation](https://redis.io/)
+* [Redis Data Structures for Non-Redis Users](https://www.youtube.com/watch?v=ELk_W9BBTDU)
 
 ### Development Tools
 * [Google](https://google.com)
