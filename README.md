@@ -23,6 +23,7 @@
 ### Redis
 * [Redis Documentation](https://redis.io/)
 * [Redis Data Structures for Non-Redis Users](https://www.youtube.com/watch?v=ELk_W9BBTDU)
+* [Spring Data Redis Documentation](https://spring.io/projects/spring-data-redis)
 
 ### Development Tools
 * [Google](https://google.com)
