@@ -25,6 +25,7 @@
 * [Redis Data Structures for Non-Redis Users](https://www.youtube.com/watch?v=ELk_W9BBTDU)
 * [Spring Data Redis Documentation](https://spring.io/projects/spring-data-redis)
 * [Next Level Redis With Spring Data by Christoph Strobl](https://www.youtube.com/watch?v=ctfDs7M35Ho)
+* [Spring Tips: Redis](https://www.youtube.com/watch?v=_M8xoagybzU)
 
 ### Development Tools
 * [Google](https://google.com)
