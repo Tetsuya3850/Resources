@@ -24,7 +24,8 @@
 * [Redis Documentation](https://redis.io/)
 * [Redis Data Structures for Non-Redis Users](https://www.youtube.com/watch?v=ELk_W9BBTDU)
 * [Spring Data Redis Documentation](https://spring.io/projects/spring-data-redis)
-* [Caching Data with Spring](https://spring.io/guides/gs/caching/)
+* [Spring Guides : Caching Data with Spring](https://spring.io/guides/gs/caching/)
+* [Spring Boot Documentation : Cacheing](https://docs.spring.io/spring-boot/docs/current/reference/html/spring-boot-features.html#boot-features-caching)
 * [Next Level Redis With Spring Data by Christoph Strobl](https://www.youtube.com/watch?v=ctfDs7M35Ho)
 * [Spring Tips: Redis](https://www.youtube.com/watch?v=_M8xoagybzU)
 
@@ -68,9 +69,7 @@
 * [Mastering Chaos - A Netflix Guide to Microservices](https://www.youtube.com/watch?v=CZ3wIuvmHeM&t=846s)
 
 ### Cache
-* [Redis](https://redis.io/documentation)
 * [Amazon ElastiCache](https://docs.aws.amazon.com/AmazonElastiCache/latest/red-ug/WhatIs.html)
-* [Spring Data Redis](https://docs.spring.io/spring-data/redis/docs/2.2.3.RELEASE/reference/html/#reference)
 
 ### AWS
 
@@ -95,4 +94,3 @@
 * [Stack Overflow Developer Survey Results 2019](https://insights.stackoverflow.com/survey/2019)
 * [Hacker Rank Developer Skills Report](https://research.hackerrank.com/developer-skills/2019)
 * [Web Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
-* [the STATE of JavaScript](https://2018.stateofjs.com/)
