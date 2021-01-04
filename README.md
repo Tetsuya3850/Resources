@@ -26,6 +26,7 @@
 * [Spring Data Redis Documentation](https://spring.io/projects/spring-data-redis)
 * [Spring Guides : Caching Data with Spring](https://spring.io/guides/gs/caching/)
 * [Spring Boot Documentation : Cacheing](https://docs.spring.io/spring-boot/docs/current/reference/html/spring-boot-features.html#boot-features-caching)
+* [Spring Framework Documentation : Cache Abstraction](https://docs.spring.io/spring-framework/docs/current/reference/html/integration.html#cache)
 * [Next Level Redis With Spring Data by Christoph Strobl](https://www.youtube.com/watch?v=ctfDs7M35Ho)
 * [Spring Tips: Redis](https://www.youtube.com/watch?v=_M8xoagybzU)
 
