@@ -29,6 +29,7 @@
 * [Spring Framework Documentation : Cache Abstraction](https://docs.spring.io/spring-framework/docs/current/reference/html/integration.html#cache)
 * [Next Level Redis With Spring Data by Christoph Strobl](https://www.youtube.com/watch?v=ctfDs7M35Ho)
 * [Spring Tips: Redis](https://www.youtube.com/watch?v=_M8xoagybzU)
+* [Caching with Spring: Advanced Topics and Best Practices - Michael Plöd](https://www.youtube.com/watch?v=SpQzWtqulhM)
 
 ### Development Tools
 * [Google](https://google.com)
