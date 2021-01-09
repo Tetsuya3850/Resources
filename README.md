@@ -31,13 +31,6 @@
 * [Spring Tips: Redis](https://www.youtube.com/watch?v=_M8xoagybzU)
 * [Caching with Spring: Advanced Topics and Best Practices - Michael Plöd](https://www.youtube.com/watch?v=SpQzWtqulhM)
 
-### Development Tools
-* [Google](https://google.com)
-* [Google Chrome](https://www.google.com/chrome/)
-* [git](https://git-scm.com/)
-* [GitHub](https://github.com/)
-* [Stack Overflow](https://stackoverflow.com/)
-
 ### Data Structures and Algorithms
 * [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-6th-Edition/dp/0984782850)
 * [LeetCode](https://leetcode.com/)
