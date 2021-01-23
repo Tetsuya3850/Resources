@@ -34,6 +34,7 @@
 
 ### Kubernetes
 * [Kubernetes Essentials from Google Cloud](https://www.youtube.com/playlist?list=PLIivdWyY5sqLmnGdKSdQIXq2sd_1bWSnx)
+* [Kubernetes Explained](https://www.youtube.com/watch?v=aSrqRSk43lY)
 
 ### Data Structures and Algorithms
 * [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-6th-Edition/dp/0984782850)
