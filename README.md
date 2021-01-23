@@ -32,6 +32,9 @@
 * [Spring Tips: Redis](https://www.youtube.com/watch?v=_M8xoagybzU)
 * [Caching with Spring: Advanced Topics and Best Practices - Michael Plöd](https://www.youtube.com/watch?v=SpQzWtqulhM)
 
+### Kubernetes
+* [Kubernetes Essentials from Google Cloud](https://www.youtube.com/playlist?list=PLIivdWyY5sqLmnGdKSdQIXq2sd_1bWSnx)
+
 ### Data Structures and Algorithms
 * [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-6th-Edition/dp/0984782850)
 * [LeetCode](https://leetcode.com/)
