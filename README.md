@@ -21,7 +21,7 @@
 * [MySQL Documentation](https://dev.mysql.com/doc/)
 * [Spring Data JPA from 0-100 in 60 minutes](https://www.youtube.com/watch?v=Zyqpo8gxSO0)
 * [Spring Guides : Accessing data with MySQL](https://spring.io/guides/gs/accessing-data-mysql/)
-* [Accessing Data with JPA](https://spring.io/guides/gs/accessing-data-jpa/)
+* [Spring Guides : Accessing Data with JPA](https://spring.io/guides/gs/accessing-data-jpa/)
 
 ### Redis
 * [Redis Documentation](https://redis.io/)
