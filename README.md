@@ -34,6 +34,9 @@
 * [Spring Tips: Redis](https://www.youtube.com/watch?v=_M8xoagybzU)
 * [Caching with Spring: Advanced Topics and Best Practices - Michael Plöd](https://www.youtube.com/watch?v=SpQzWtqulhM)
 
+### Kafka
+
+
 ### Docker
 * [What is a Container?](https://www.youtube.com/watch?v=EnJ7qX9fkcU)
 
