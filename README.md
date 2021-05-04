@@ -1,13 +1,13 @@
 ### Java
-* [The Java™ Tutorials by Oracle](https://docs.oracle.com/javase/tutorial/)
-* [Java Precisely by Peter Sestoft](https://www.amazon.com/Java-Precisely-Press-Peter-Sestoft/dp/0262529076/)
-* [Effective Java by Joshua-Bloch](https://www.amazon.com/Effective-Java-Joshua-Bloch/dp/0134685997)
-* [Modern Java in Action by Raoul-Gabriel Urma](https://www.amazon.com/Modern-Java-Action-functional-programming/dp/1617293563)
-* [Dev Ecosystem 2020 Java by JetBrains](https://www.jetbrains.com/lp/devecosystem-2020/java/)
+* [The Java™ Tutorials](https://docs.oracle.com/javase/tutorial/) by Oracle
+* [Java Precisely](https://www.amazon.com/Java-Precisely-Press-Peter-Sestoft/dp/0262529076/) by Peter Sestoft
+* [Effective Java](https://www.amazon.com/Effective-Java-Joshua-Bloch/dp/0134685997) by Joshua-Bloch
+* [Modern Java in Action](https://www.amazon.com/Modern-Java-Action-functional-programming/dp/1617293563) by Raoul-Gabriel Urma
+* [Dev Ecosystem 2020 Java](https://www.jetbrains.com/lp/devecosystem-2020/java/) by JetBrains
 
 ### Java Ecosystem
 * [Jackson Annotations Wiki](https://github.com/FasterXML/jackson-annotations/wiki/Jackson-Annotations)
-* [Jackson Annotation Examples from Baeldung](https://www.baeldung.com/jackson-annotations)
+* [Jackson Annotation Examples](https://www.baeldung.com/jackson-annotations) from Baeldung
 * [Lombok features](https://projectlombok.org/features/all)
 * [JUnit 5 User Guide](https://junit.org/junit5/docs/current/user-guide/)
 * [Mockito Javadoc](https://javadoc.io/doc/org.mockito/mockito-core/latest/org/mockito/Mockito.html)
@@ -22,7 +22,7 @@
 ### SQL
 * [Hibernate ORM 5.4.30.Final User Guide](https://docs.jboss.org/hibernate/orm/5.4/userguide/html_single/Hibernate_User_Guide.html)
 * [Just Hibernate: A Lightweight Introduction to the Hibernate Framework](https://www.amazon.com/gp/product/1449334377/)
-* [Hibernate Tutorial | Full Course by Telusko](https://www.youtube.com/watch?v=JR7-EdxDSf0)
+* [Hibernate Tutorial | Full Course](https://www.youtube.com/watch?v=JR7-EdxDSf0) by Telusko
 * [Spring Data JPA Reference](https://docs.spring.io/spring-data/jpa/docs/2.5.0/reference/html/#reference)
 * [Spring Data JPA from 0-100 in 60 minutes](https://www.youtube.com/watch?v=Zyqpo8gxSO0)
 * [Spring Guides : Accessing data with MySQL](https://spring.io/guides/gs/accessing-data-mysql/)
