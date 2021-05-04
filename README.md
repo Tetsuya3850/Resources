@@ -41,6 +41,7 @@
 
 ### Kafka
 * [What is Apache Kafka®? (A Confluent Lightboard)](https://www.youtube.com/watch?v=06iRM1Ghr1k) by Tim Berglund
+* [ETL Is Dead, Long Live Streams](https://www.youtube.com/watch?v=I32hmY4diFY) by Neha Narkhede
 
 ### Kubernetes
 * [Kubernetes Essentials](https://www.youtube.com/playlist?list=PLIivdWyY5sqLmnGdKSdQIXq2sd_1bWSnx) from Google Cloud
