@@ -1,10 +1,9 @@
 ### Java
-* [The Java™ Tutorials](https://docs.oracle.com/javase/tutorial/)
-* [Java Precisely](https://www.amazon.com/Java-Precisely-Press-Peter-Sestoft/dp/0262529076/)
-* [Effective Java](https://www.amazon.com/Effective-Java-Joshua-Bloch/dp/0134685997)
-* [Modern Java in Action](https://www.amazon.com/Modern-Java-Action-functional-programming/dp/1617293563)
-* [Dev Ecosystem 2019 Java by JetBrains](https://www.jetbrains.com/lp/devecosystem-2019/java/)
-* [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
+* [The Java™ Tutorials by Oracle](https://docs.oracle.com/javase/tutorial/)
+* [Java Precisely by Peter Sestoft](https://www.amazon.com/Java-Precisely-Press-Peter-Sestoft/dp/0262529076/)
+* [Effective Java by Joshua-Bloch](https://www.amazon.com/Effective-Java-Joshua-Bloch/dp/0134685997)
+* [Modern Java in Action by Raoul-Gabriel Urma](https://www.amazon.com/Modern-Java-Action-functional-programming/dp/1617293563)
+* [Dev Ecosystem 2020 Java by JetBrains](https://www.jetbrains.com/lp/devecosystem-2020/java/)
 
 ### Java Ecosystem
 * [Jackson Annotations Wiki](https://github.com/FasterXML/jackson-annotations/wiki/Jackson-Annotations)
@@ -54,9 +53,8 @@
 * [Top Coder Data Science Tutorials](https://www.topcoder.com/community/data-science/data-science-tutorials/)
 
 ### System Design
-* [system-design-primer](https://github.com/donnemartin/system-design-primer)
 * [Designing Data-Intensive Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
-* [Grokking the System Design Interview](https://www.educative.io/collection/5668639101419520/5649050225344512)
+* [system-design-primer](https://github.com/donnemartin/system-design-primer)
 * [High Scalability](http://highscalability.com/)
 * [CS75 (Summer 2012) Lecture 9 Scalability Harvard Web Development David Malan](https://www.youtube.com/watch?v=-W9F__D3oY4&list=PLmhRNZyYVpDmLpaVQm3mK5PY5KB_4hLjE&index=10)
 * [How We've Scaled Dropbox](https://www.youtube.com/watch?v=PE4gwstWhmc)
