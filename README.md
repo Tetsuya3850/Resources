@@ -40,11 +40,10 @@
 * [Caching with Spring: Advanced Topics and Best Practices - Michael Plöd](https://www.youtube.com/watch?v=SpQzWtqulhM)
 
 ### Kafka
-* [What is Apache Kafka®? (A Confluent Lightboard by Tim Berglund)](https://www.youtube.com/watch?v=06iRM1Ghr1k)
+* [What is Apache Kafka®? (A Confluent Lightboard)](https://www.youtube.com/watch?v=06iRM1Ghr1k) by Tim Berglund
 
 ### Kubernetes
-* [Kubernetes Essentials from Google Cloud](https://www.youtube.com/playlist?list=PLIivdWyY5sqLmnGdKSdQIXq2sd_1bWSnx)
-* [Kubernetes Explained](https://www.youtube.com/watch?v=aSrqRSk43lY)
+* [Kubernetes Essentials](https://www.youtube.com/playlist?list=PLIivdWyY5sqLmnGdKSdQIXq2sd_1bWSnx) from Google Cloud
 
 ### Data Structures and Algorithms
 * [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-6th-Edition/dp/0984782850)
