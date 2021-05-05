@@ -21,7 +21,6 @@
 
 ### SQL
 * [Hibernate ORM 5.4.30.Final User Guide](https://docs.jboss.org/hibernate/orm/5.4/userguide/html_single/Hibernate_User_Guide.html)
-* [Just Hibernate: A Lightweight Introduction to the Hibernate Framework](https://www.amazon.com/gp/product/1449334377/)
 * [Spring Data JPA Reference](https://docs.spring.io/spring-data/jpa/docs/2.5.0/reference/html/#reference)
 * [Spring Data JPA from 0-100 in 60 minutes](https://www.youtube.com/watch?v=Zyqpo8gxSO0)
 * [Spring Guides : Accessing data with MySQL](https://spring.io/guides/gs/accessing-data-mysql/)
