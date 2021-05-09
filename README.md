@@ -38,8 +38,8 @@
 * [Caching with Spring: Advanced Topics and Best Practices - Michael Plöd](https://www.youtube.com/watch?v=SpQzWtqulhM)
 
 ### Kafka
-* [ETL Is Dead, Long Live Streams](https://www.youtube.com/watch?v=I32hmY4diFY) by Neha Narkhede
 * [Kafka: The Definitive Guide: Real-Time Data and Stream Processing at Scale](https://www.amazon.com/Kafka-Definitive-Real-Time-Stream-Processing/dp/1491936169/) by Neha Narkhede 
+* [ETL Is Dead, Long Live Streams](https://www.youtube.com/watch?v=I32hmY4diFY) by Neha Narkhede
 * [Spring Guides : Stream Processing with Apache Kafka](https://dataflow.spring.io/docs/stream-developer-guides/streams/standalone-stream-kafka/)
 
 ### Kubernetes
