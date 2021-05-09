@@ -16,26 +16,26 @@
 
 ### Spring
 * [Spring Guides](https://spring.io/guides)
-* [Getting Started with Spring Boot](https://www.youtube.com/watch?v=sbPSjI4tt10)
+* [Getting Started with Spring Boot](https://www.youtube.com/watch?v=sbPSjI4tt10) by Josh Long
 * [Spring Boot Reference](https://docs.spring.io/spring-boot/docs/2.1.4.RELEASE/reference/htmlsingle/)
 
 ### SQL
 * [Hibernate ORM 5.4.30.Final User Guide](https://docs.jboss.org/hibernate/orm/5.4/userguide/html_single/Hibernate_User_Guide.html)
 * [Spring Data JPA Reference](https://docs.spring.io/spring-data/jpa/docs/2.5.0/reference/html/#reference)
-* [Spring Data JPA from 0-100 in 60 minutes](https://www.youtube.com/watch?v=Zyqpo8gxSO0)
+* [Spring Data JPA from 0-100 in 60 minutes](https://www.youtube.com/watch?v=Zyqpo8gxSO0) by Jens Schauder
 * [Spring Guides : Accessing data with MySQL](https://spring.io/guides/gs/accessing-data-mysql/)
 * [Spring Guides : Accessing Data with JPA](https://spring.io/guides/gs/accessing-data-jpa/)
 
 ### Redis
 * [Redis Documentation](https://redis.io/)
-* [Redis Data Structures for Non-Redis Users](https://www.youtube.com/watch?v=ELk_W9BBTDU)
+* [Redis Data Structures for Non-Redis Users](https://www.youtube.com/watch?v=ELk_W9BBTDU) by Alvin Richards
 * [Spring Data Redis Documentation](https://spring.io/projects/spring-data-redis)
 * [Spring Guides : Caching Data with Spring](https://spring.io/guides/gs/caching/)
 * [Spring Boot Documentation : Cacheing](https://docs.spring.io/spring-boot/docs/current/reference/html/spring-boot-features.html#boot-features-caching)
 * [Spring Framework Documentation : Cache Abstraction](https://docs.spring.io/spring-framework/docs/current/reference/html/integration.html#cache)
-* [Next Level Redis With Spring Data by Christoph Strobl](https://www.youtube.com/watch?v=ctfDs7M35Ho)
-* [Spring Tips: Redis](https://www.youtube.com/watch?v=_M8xoagybzU)
-* [Caching with Spring: Advanced Topics and Best Practices - Michael Plöd](https://www.youtube.com/watch?v=SpQzWtqulhM)
+* [Next Level Redis With Spring Data](https://www.youtube.com/watch?v=ctfDs7M35Ho) by Christoph Strobl
+* [Spring Tips: Redis](https://www.youtube.com/watch?v=_M8xoagybzU) by Josh Long
+* [Caching with Spring: Advanced Topics and Best Practices](https://www.youtube.com/watch?v=SpQzWtqulhM) by Michael Plöd
 
 ### Kafka
 * [Kafka: The Definitive Guide: Real-Time Data and Stream Processing at Scale](https://www.amazon.com/Kafka-Definitive-Real-Time-Stream-Processing/dp/1491936169/) by Neha Narkhede 
