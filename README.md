@@ -41,6 +41,7 @@
 * [Kafka: The Definitive Guide: Real-Time Data and Stream Processing at Scale](https://www.amazon.com/Kafka-Definitive-Real-Time-Stream-Processing/dp/1491936169/) by Neha Narkhede 
 * [ETL Is Dead, Long Live Streams](https://www.youtube.com/watch?v=I32hmY4diFY) by Neha Narkhede
 * [Spring Guides : Stream Processing with Apache Kafka](https://dataflow.spring.io/docs/stream-developer-guides/streams/standalone-stream-kafka/)
+* [Spring Tips: Spring Cloud Stream Kafka Streams](https://www.youtube.com/watch?v=YPDzcmqwCNo) by Josh Long
 
 ### Kubernetes
 * [Kubernetes Essentials](https://www.youtube.com/playlist?list=PLIivdWyY5sqLmnGdKSdQIXq2sd_1bWSnx) from Google Cloud
