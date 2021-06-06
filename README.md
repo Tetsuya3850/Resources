@@ -44,6 +44,8 @@
 * [Spring Tips: Spring Cloud Stream Kafka Streams](https://www.youtube.com/watch?v=YPDzcmqwCNo) by Josh Long
 
 ### Elasticsearch
+* [Amazon Elasticsearch Service Deep Dive - AWS Online Tech Talks](https://www.youtube.com/watch?v=SOTFnRezIH0)
+* [A Best Practices Checklist for Using Amazon Elasticsearch Service - AWS Online Tech Talks](https://www.youtube.com/watch?v=JmDGhqWBy8Q)
 
 ### DynamoDB
 * [AWS re:Invent 2018: Amazon DynamoDB Deep Dive: Advanced Design Patterns for DynamoDB (DAT401)](https://www.youtube.com/watch?v=HaEPXoXVf2k)
