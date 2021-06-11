@@ -44,6 +44,7 @@
 * [Spring Tips: Spring Cloud Stream Kafka Streams](https://www.youtube.com/watch?v=YPDzcmqwCNo) by Josh Long
 
 ### Elasticsearch
+* [Spring Boot Reference Elasticsearch](https://docs.spring.io/spring-boot/docs/current/reference/html/features.html#features.nosql.elasticsearch)
 * [Amazon Elasticsearch Service Deep Dive - AWS Online Tech Talks](https://www.youtube.com/watch?v=SOTFnRezIH0)
 * [A Best Practices Checklist for Using Amazon Elasticsearch Service - AWS Online Tech Talks](https://www.youtube.com/watch?v=JmDGhqWBy8Q)
 
