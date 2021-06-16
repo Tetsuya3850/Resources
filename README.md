@@ -45,6 +45,7 @@
 
 ### Elasticsearch
 * [Spring Boot Reference Elasticsearch](https://docs.spring.io/spring-boot/docs/current/reference/html/features.html#features.nosql.elasticsearch)
+* [Spring Data Elasticsearch Reference](https://docs.spring.io/spring-data/elasticsearch/docs/4.2.1/reference/html/)
 * [Amazon Elasticsearch Service Deep Dive - AWS Online Tech Talks](https://www.youtube.com/watch?v=SOTFnRezIH0)
 * [A Best Practices Checklist for Using Amazon Elasticsearch Service - AWS Online Tech Talks](https://www.youtube.com/watch?v=JmDGhqWBy8Q)
 
