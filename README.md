@@ -20,6 +20,8 @@
 * [Spring Boot Reference](https://docs.spring.io/spring-boot/docs/2.1.4.RELEASE/reference/htmlsingle/)
 
 ### SQL
+* [Java Persistence with Hibernate](https://www.amazon.com/Java-Persistence-Hibernate-Christian-Bauer/dp/1617290459)
+
 * [Hibernate ORM 5.4.30.Final User Guide](https://docs.jboss.org/hibernate/orm/5.4/userguide/html_single/Hibernate_User_Guide.html)
 * [Spring Data JPA Reference](https://docs.spring.io/spring-data/jpa/docs/2.5.0/reference/html/#reference)
 * [Spring Data JPA from 0-100 in 60 minutes](https://www.youtube.com/watch?v=Zyqpo8gxSO0) by Jens Schauder
