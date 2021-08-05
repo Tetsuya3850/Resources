@@ -59,7 +59,6 @@
 ### Cassandra
 
 ### Kubernetes
-* [Kubernetes Essentials](https://www.youtube.com/playlist?list=PLIivdWyY5sqLmnGdKSdQIXq2sd_1bWSnx) from Google Cloud
 
 ### Data Structures and Algorithms
 * [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-6th-Edition/dp/0984782850)
