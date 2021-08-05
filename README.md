@@ -23,6 +23,8 @@
 * [Java Persistence with Hibernate](https://www.amazon.com/Java-Persistence-Hibernate-Christian-Bauer/dp/1617290459)
 * [High-Performance Java Persistence](https://www.amazon.com/High-Performance-Java-Persistence-Vlad-Mihalcea/dp/973022823X)
 * [Spring Data JPA Reference Docs](https://docs.spring.io/spring-data/jpa/docs/2.5.0/reference/html/#reference)
+* [Spring Guides : Accessing Data with JPA](https://spring.io/guides/gs/accessing-data-jpa/)
+* [Spring Guides : Accessing data with MySQL](https://spring.io/guides/gs/accessing-data-mysql/)
 * [JPA beyond copy paste by Jakub Kubrynski](https://www.youtube.com/watch?v=EZwpOLCfuq4)
 
 ### Redis
