@@ -41,6 +41,7 @@
 ### Kafka
 * [Kafka: The Definitive Guide: Real-Time Data and Stream Processing at Scale](https://www.amazon.com/Kafka-Definitive-Real-Time-Stream-Processing/dp/1491936169/) by Neha Narkhede 
 * [Spring Boot Reference Apache Kafka Support](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/#features.messaging.kafka)
+* [Spring for Apache Kafka Reference](https://docs.spring.io/spring-kafka/docs/current/reference/html/#introduction)
 * [ETL Is Dead, Long Live Streams](https://www.youtube.com/watch?v=I32hmY4diFY) by Neha Narkhede
 * [Spring Guides : Stream Processing with Apache Kafka](https://dataflow.spring.io/docs/stream-developer-guides/streams/standalone-stream-kafka/)
 * [Spring Tips: Spring Cloud Stream Kafka Streams](https://www.youtube.com/watch?v=YPDzcmqwCNo) by Josh Long
