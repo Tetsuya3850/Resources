@@ -43,6 +43,7 @@
 * [Spring Boot Reference Apache Kafka Support](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/#features.messaging.kafka)
 * [Spring for Apache Kafka Reference](https://docs.spring.io/spring-kafka/docs/current/reference/html/#introduction)
 * [Spring For Apache Kafka SpringOne Platform 2016 Talk](https://www.youtube.com/watch?v=wo-aZ3ITLYU)
+* [Developing Real-Time Data Pipelines with Apache Kafka](https://www.youtube.com/watch?v=GRPLRONVDWY)
 * [ETL Is Dead, Long Live Streams](https://www.youtube.com/watch?v=I32hmY4diFY) by Neha Narkhede
 * [Spring Tips: Spring Cloud Stream Kafka Streams](https://www.youtube.com/watch?v=YPDzcmqwCNo) by Josh Long
 
