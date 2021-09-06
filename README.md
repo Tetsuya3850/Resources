@@ -40,12 +40,14 @@
 
 ### Kafka
 * [Kafka: The Definitive Guide: Real-Time Data and Stream Processing at Scale](https://www.amazon.com/Kafka-Definitive-Real-Time-Stream-Processing/dp/1491936169/) by Neha Narkhede 
+* [Kafka Streams in Action: Real-time apps and microservices with the Kafka Streams API](https://www.amazon.com/Kafka-Streams-Action-Real-time-microservices/dp/1617294470)
 * [Spring Boot Reference Apache Kafka Support](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/#features.messaging.kafka)
 * [Spring for Apache Kafka Reference](https://docs.spring.io/spring-kafka/docs/current/reference/html/#introduction)
-* [Spring For Apache Kafka SpringOne Platform 2016 Talk](https://www.youtube.com/watch?v=wo-aZ3ITLYU)
-* [Developing Real-Time Data Pipelines with Apache Kafka](https://www.youtube.com/watch?v=GRPLRONVDWY)
 * [ETL Is Dead, Long Live Streams](https://www.youtube.com/watch?v=I32hmY4diFY) by Neha Narkhede
+* [Developing Real-Time Data Pipelines with Apache Kafka](https://www.youtube.com/watch?v=GRPLRONVDWY)
+* [Spring For Apache Kafka SpringOne Platform 2016 Talk](https://www.youtube.com/watch?v=wo-aZ3ITLYU)
 * [Spring Tips: Spring Cloud Stream Kafka Streams](https://www.youtube.com/watch?v=YPDzcmqwCNo) by Josh Long
+* [Streaming with Spring Cloud Stream and Apache Kafka](https://www.youtube.com/watch?v=5Mgni6AYnWg)
 
 ### Elasticsearch
 * [Amazon Elasticsearch Service Deep Dive - AWS Online Tech Talks](https://www.youtube.com/watch?v=SOTFnRezIH0)
