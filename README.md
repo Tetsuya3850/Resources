@@ -43,6 +43,7 @@
 * [Kafka Streams in Action: Real-time apps and microservices with the Kafka Streams API](https://www.amazon.com/Kafka-Streams-Action-Real-time-microservices/dp/1617294470)
 * [Spring Boot Reference Apache Kafka Support](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/#features.messaging.kafka)
 * [Spring for Apache Kafka Reference](https://docs.spring.io/spring-kafka/docs/current/reference/html/#introduction)
+* [Spring Cloud Stream Reference Documentation](https://docs.spring.io/spring-cloud-stream/docs/3.1.3/reference/html/)
 * [ETL Is Dead, Long Live Streams](https://www.youtube.com/watch?v=I32hmY4diFY) by Neha Narkhede
 * [Developing Real-Time Data Pipelines with Apache Kafka](https://www.youtube.com/watch?v=GRPLRONVDWY)
 * [Spring For Apache Kafka SpringOne Platform 2016 Talk](https://www.youtube.com/watch?v=wo-aZ3ITLYU)
