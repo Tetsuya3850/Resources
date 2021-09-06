@@ -51,16 +51,8 @@
 * [Streaming with Spring Cloud Stream and Apache Kafka](https://www.youtube.com/watch?v=5Mgni6AYnWg)
 
 ### Elasticsearch
-* [Amazon Elasticsearch Service Deep Dive - AWS Online Tech Talks](https://www.youtube.com/watch?v=SOTFnRezIH0)
-* [A Best Practices Checklist for Using Amazon Elasticsearch Service - AWS Online Tech Talks](https://www.youtube.com/watch?v=JmDGhqWBy8Q)
-* [Introduction into Elasticsearch & Spring Data Elasticsearch](https://www.youtube.com/watch?v=84t_jC3dr3E)
-* [Spring Boot Reference Elasticsearch](https://docs.spring.io/spring-boot/docs/current/reference/html/features.html#features.nosql.elasticsearch)
-* [Spring Data Elasticsearch Reference](https://docs.spring.io/spring-data/elasticsearch/docs/4.2.1/reference/html/)
 
 ### DynamoDB
-* [AWS re:Invent 2018: Amazon DynamoDB Deep Dive: Advanced Design Patterns for DynamoDB (DAT401)](https://www.youtube.com/watch?v=HaEPXoXVf2k)
-* [AWS re:Invent 2019: Data modeling with Amazon DynamoDB (CMY304)](https://www.youtube.com/watch?v=DIQVJqiSUkE)
-* [AWS re:Invent 2018: Amazon DynamoDB Under the Hood: How We Built a Hyper-Scale Database (DAT321)](https://www.youtube.com/watch?v=yvBR71D0nAQ)
 
 ### Cassandra
 
