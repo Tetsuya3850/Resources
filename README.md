@@ -73,3 +73,7 @@
 * [How We've Scaled Dropbox](https://www.youtube.com/watch?v=PE4gwstWhmc)
 * [Mastering Chaos - A Netflix Guide to Microservices](https://www.youtube.com/watch?v=CZ3wIuvmHeM&t=846s)
 * [What I Wish I Had Known Before Scaling Uber to 1000 Services](https://www.youtube.com/watch?v=kb-m2fasdDY)
+
+### Scala
+* [Tour of Scala](https://docs.scala-lang.org/tour/tour-of-scala.html)
+* [Scala Book](https://docs.scala-lang.org/overviews/scala-book/introduction.html)
