@@ -21,6 +21,7 @@
 ### Kotlin
 * [Kotlin docs](https://kotlinlang.org/docs/home.html)
 * [Spring Guides : Building web applications with Spring Boot and Kotlin](https://spring.io/guides/tutorials/spring-boot-kotlin/)
+* [Spring Framework Reference : Kotlin Language Support](https://docs.spring.io/spring-framework/docs/current/reference/html/languages.html#kotlin)
 
 ### Spring
 * [Spring Guides](https://spring.io/guides)
