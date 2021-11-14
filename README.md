@@ -14,6 +14,13 @@
 * [Gradle Tutorials and Guides](https://gradle.org/guides/)
 * [IntelliJ IDEA Video tutorials](https://www.jetbrains.com/idea/documentation/)
 
+### Scala
+* [Tour of Scala](https://docs.scala-lang.org/tour/tour-of-scala.html)
+* [Scala Book](https://docs.scala-lang.org/overviews/scala-book/introduction.html)
+
+### Kotlin
+• [Kotlin docs](https://kotlinlang.org/docs/home.html)
+
 ### Spring
 * [Spring Guides](https://spring.io/guides)
 * [Getting Started with Spring Boot](https://www.youtube.com/watch?v=sbPSjI4tt10) by Josh Long
@@ -74,6 +81,4 @@
 * [Mastering Chaos - A Netflix Guide to Microservices](https://www.youtube.com/watch?v=CZ3wIuvmHeM&t=846s)
 * [What I Wish I Had Known Before Scaling Uber to 1000 Services](https://www.youtube.com/watch?v=kb-m2fasdDY)
 
-### Scala
-* [Tour of Scala](https://docs.scala-lang.org/tour/tour-of-scala.html)
-* [Scala Book](https://docs.scala-lang.org/overviews/scala-book/introduction.html)
+
