@@ -19,7 +19,8 @@
 * [Scala Book](https://docs.scala-lang.org/overviews/scala-book/introduction.html)
 
 ### Kotlin
-• [Kotlin docs](https://kotlinlang.org/docs/home.html)
+* [Kotlin docs](https://kotlinlang.org/docs/home.html)
+* [Spring Guides : Building web applications with Spring Boot and Kotlin](https://spring.io/guides/tutorials/spring-boot-kotlin/)
 
 ### Spring
 * [Spring Guides](https://spring.io/guides)
