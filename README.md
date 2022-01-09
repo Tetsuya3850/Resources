@@ -17,6 +17,7 @@
 ### Scala
 * [Tour of Scala](https://docs.scala-lang.org/tour/tour-of-scala.html)
 * [Scala Book](https://docs.scala-lang.org/overviews/scala-book/introduction.html)
+* [Akka Streams Reference](https://doc.akka.io/docs/akka/current/stream/index.html)
 
 ### Kotlin
 * [Kotlin docs](https://kotlinlang.org/docs/home.html)
