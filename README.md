@@ -15,6 +15,7 @@
 * [IntelliJ IDEA Video tutorials](https://www.jetbrains.com/idea/documentation/)
 
 ### Scala
+* [Programming in Scala Fifth Edition](https://www.amazon.com/Programming-Scala-Fifth-Odersky/dp/0997148004/)
 * [Tour of Scala](https://docs.scala-lang.org/tour/tour-of-scala.html)
 * [Scala Book](https://docs.scala-lang.org/overviews/scala-book/introduction.html)
 
