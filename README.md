@@ -65,14 +65,13 @@
 * [Spring Tips: Spring Cloud Stream Kafka Streams](https://www.youtube.com/watch?v=YPDzcmqwCNo) by Josh Long
 * [Streaming with Spring Cloud Stream and Apache Kafka](https://www.youtube.com/watch?v=5Mgni6AYnWg)
 
-### Elasticsearch
-
 ### DynamoDB
 * [AWS re:Invent 2018: Amazon DynamoDB Deep Dive: Advanced Design Patterns for DynamoDB (DAT401)](https://www.youtube.com/watch?v=HaEPXoXVf2k)
 * [AWS re:Invent 2019: Data modeling with Amazon DynamoDB (CMY304)](https://www.youtube.com/watch?v=DIQVJqiSUkE)
 * [AWS re:Invent 2018: Amazon DynamoDB Under the Hood: How We Built a Hyper-Scale Database (DAT321)](https://www.youtube.com/watch?v=yvBR71D0nAQ)
 
-### Cassandra
+### BigQuery
+* [BigQuery Guides](https://cloud.google.com/bigquery/docs/introduction)
 
 ### Kubernetes
 
