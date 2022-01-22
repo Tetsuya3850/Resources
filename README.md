@@ -76,6 +76,7 @@
 ### BigQuery
 * [BigQuery Guides](https://cloud.google.com/bigquery/docs/introduction)
 * [BigQuery SQL Reference](https://cloud.google.com/bigquery/docs/reference/standard-sql/lexical)
+* [Control costs in BigQuery](https://cloud.google.com/bigquery/docs/best-practices-costs)
 * [Google BigQuery: The Definitive Guide](https://www.amazon.com/Google-BigQuery-Definitive-Warehousing-Analytics/dp/1492044466/)
 
 ### Kubernetes
