@@ -76,6 +76,7 @@
 ### BigQuery
 * [BigQuery Guides](https://cloud.google.com/bigquery/docs/introduction)
 * [BigQuery SQL Reference](https://cloud.google.com/bigquery/docs/reference/standard-sql/lexical)
+* [Google BigQuery: The Definitive Guide](https://www.amazon.com/Google-BigQuery-Definitive-Warehousing-Analytics/dp/1492044466/)
 
 ### Kubernetes
 
