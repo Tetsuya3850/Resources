@@ -71,17 +71,15 @@
 * [AWS re:Invent 2019: Data modeling with Amazon DynamoDB (CMY304)](https://www.youtube.com/watch?v=DIQVJqiSUkE)
 * [AWS re:Invent 2018: Amazon DynamoDB Under the Hood: How We Built a Hyper-Scale Database (DAT321)](https://www.youtube.com/watch?v=yvBR71D0nAQ)
 
-### AWS Lambda
-
 ### BigQuery
 * [BigQuery Guides](https://cloud.google.com/bigquery/docs/introduction)
 * [BigQuery SQL Reference](https://cloud.google.com/bigquery/docs/reference/standard-sql/lexical)
 * [Control costs in BigQuery](https://cloud.google.com/bigquery/docs/best-practices-costs)
 * [Google BigQuery: The Definitive Guide](https://www.amazon.com/Google-BigQuery-Definitive-Warehousing-Analytics/dp/1492044466/)
 
-### Kubernetes
+### AWS Lambda
 
-### Python
+### Kubernetes
 
 ### Data Structures and Algorithms
 * [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-6th-Edition/dp/0984782850)
