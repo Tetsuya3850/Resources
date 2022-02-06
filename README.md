@@ -79,6 +79,8 @@
 
 ### AWS Lambda
 
+### Amazon S3
+
 ### Kubernetes
 
 ### Data Structures and Algorithms
