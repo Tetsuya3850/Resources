@@ -93,6 +93,7 @@
 
 ### Data Structures and Algorithms
 * [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-6th-Edition/dp/0984782850)
+* [Elements of Programming Interview in Java](https://www.amazon.com/Elements-Programming-Interviews-Java-Insiders/dp/1517671272)
 * [LeetCode](https://leetcode.com/)
 * [GeeksforGeeks](https://www.geeksforgeeks.org/)
 * [Top Coder Data Science Tutorials](https://www.topcoder.com/community/data-science/data-science-tutorials/)
