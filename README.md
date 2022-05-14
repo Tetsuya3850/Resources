@@ -34,6 +34,7 @@
 * [Spring Boot Reference](https://docs.spring.io/spring-boot/docs/2.1.4.RELEASE/reference/htmlsingle/)
 
 ### SQL
+* [MySQL 8.0 Reference Manual](https://dev.mysql.com/doc/refman/8.0/en/)
 * [Java Persistence with Hibernate](https://www.amazon.com/Java-Persistence-Hibernate-Christian-Bauer/dp/1617290459)
 * [High-Performance Java Persistence](https://www.amazon.com/High-Performance-Java-Persistence-Vlad-Mihalcea/dp/973022823X)
 * [Spring Data JPA Reference Docs](https://docs.spring.io/spring-data/jpa/docs/2.5.0/reference/html/#reference)
@@ -88,6 +89,7 @@
 ### Amazon S3
 
 ### Kubernetes
+* [Kubernetes Documentation](https://kubernetes.io/docs/home/)
 
 ### Data Structures and Algorithms
 * [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-6th-Edition/dp/0984782850)
