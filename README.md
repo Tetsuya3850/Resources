@@ -101,6 +101,7 @@
 ### System Design
 * [Designing Data-Intensive Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
 * [system-design-primer](https://github.com/donnemartin/system-design-primer)
+* [Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview)
 * [High Scalability](http://highscalability.com/)
 * [CS75 (Summer 2012) Lecture 9 Scalability Harvard Web Development David Malan](https://www.youtube.com/watch?v=-W9F__D3oY4&list=PLmhRNZyYVpDmLpaVQm3mK5PY5KB_4hLjE&index=10)
 * [How We've Scaled Dropbox](https://www.youtube.com/watch?v=PE4gwstWhmc)
