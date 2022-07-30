@@ -100,6 +100,8 @@
 
 ### System Design
 * [Designing Data-Intensive Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
+* [System Design Interview – An insider's guide](https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF/)
+* [System Design Interview – An Insider's Guide: Volume 2](https://www.amazon.com/System-Design-Interview-Insiders-Guide/dp/1736049119/)
 * [system-design-primer](https://github.com/donnemartin/system-design-primer)
 * [Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview)
 * [High Scalability](http://highscalability.com/)
