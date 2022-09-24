@@ -68,11 +68,10 @@
 
 ### DynamoDB
 * [Amazon DynamoDB Developer Guide](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Introduction.html)
-* [AWS re:Invent 2021 - DynamoDB deep dive: Advanced design patterns](https://m.youtube.com/watch?v=xfxBhvGpoa0)
-* [Building Modern Apps Using Amazon DynamoDB Transactions](https://m.youtube.com/watch?v=IgFvWaSQaeg)
 * [AWS re:Invent 2018: Amazon DynamoDB Deep Dive: Advanced Design Patterns for DynamoDB (DAT401)](https://www.youtube.com/watch?v=HaEPXoXVf2k)
 * [AWS re:Invent 2019: Data modeling with Amazon DynamoDB (CMY304)](https://www.youtube.com/watch?v=DIQVJqiSUkE)
 * [AWS re:Invent 2018: Amazon DynamoDB Under the Hood: How We Built a Hyper-Scale Database (DAT321)](https://www.youtube.com/watch?v=yvBR71D0nAQ)
+* [Building Modern Apps Using Amazon DynamoDB Transactions](https://m.youtube.com/watch?v=IgFvWaSQaeg)
 
 ### ElasticSearch
 
