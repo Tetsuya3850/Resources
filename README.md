@@ -24,14 +24,18 @@
 * [Spring Guides](https://spring.io/guides)
 * [Getting Started with Spring Boot](https://www.youtube.com/watch?v=sbPSjI4tt10) by Josh Long
 * [Spring Boot Reference](https://docs.spring.io/spring-boot/docs/2.1.4.RELEASE/reference/htmlsingle/)
+* [Spring Data JPA Reference Docs](https://docs.spring.io/spring-data/jpa/docs/2.5.0/reference/html/#reference)
+* [Spring Guides : Accessing Data with JPA](https://spring.io/guides/gs/accessing-data-jpa/)
+* [Spring Guides : Accessing data with MySQL](https://spring.io/guides/gs/accessing-data-mysql/)
+* [Spring Boot Reference Apache Kafka Support](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/#features.messaging.kafka)
+* [Spring for Apache Kafka Reference](https://docs.spring.io/spring-kafka/docs/current/reference/html/#introduction)
+* [Spring Cloud Stream Reference Documentation Overview](https://docs.spring.io/spring-cloud-stream/docs/3.1.3/reference/html/spring-cloud-stream.html)
+* [Spring Cloud Stream Kafka Binder Reference Guide](https://docs.spring.io/spring-cloud-stream-binder-kafka/docs/3.1.3/reference/html/spring-cloud-stream-binder-kafka.html)
 
 ### SQL
 * [MySQL 8.0 Reference Manual](https://dev.mysql.com/doc/refman/8.0/en/)
 * [Java Persistence with Hibernate](https://www.amazon.com/Java-Persistence-Hibernate-Christian-Bauer/dp/1617290459)
 * [High-Performance Java Persistence](https://www.amazon.com/High-Performance-Java-Persistence-Vlad-Mihalcea/dp/973022823X)
-* [Spring Data JPA Reference Docs](https://docs.spring.io/spring-data/jpa/docs/2.5.0/reference/html/#reference)
-* [Spring Guides : Accessing Data with JPA](https://spring.io/guides/gs/accessing-data-jpa/)
-* [Spring Guides : Accessing data with MySQL](https://spring.io/guides/gs/accessing-data-mysql/)
 * [JPA beyond copy paste by Jakub Kubrynski](https://www.youtube.com/watch?v=EZwpOLCfuq4)
 * [AWS re:Invent 2018: Deep Dive on Amazon Aurora with MySQL Compatibility (DAT304-R1)](https://m.youtube.com/watch?v=U42mC_iKSBg)
 
@@ -49,10 +53,6 @@
 ### Kafka
 * [Kafka: The Definitive Guide: Real-Time Data and Stream Processing at Scale](https://www.amazon.com/Kafka-Definitive-Real-Time-Stream-Processing/dp/1491936169/) by Neha Narkhede 
 * [Kafka Streams in Action: Real-time apps and microservices with the Kafka Streams API](https://www.amazon.com/Kafka-Streams-Action-Real-time-microservices/dp/1617294470)
-* [Spring Boot Reference Apache Kafka Support](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/#features.messaging.kafka)
-* [Spring for Apache Kafka Reference](https://docs.spring.io/spring-kafka/docs/current/reference/html/#introduction)
-* [Spring Cloud Stream Reference Documentation Overview](https://docs.spring.io/spring-cloud-stream/docs/3.1.3/reference/html/spring-cloud-stream.html)
-* [Spring Cloud Stream Kafka Binder Reference Guide](https://docs.spring.io/spring-cloud-stream-binder-kafka/docs/3.1.3/reference/html/spring-cloud-stream-binder-kafka.html)
 * [ETL Is Dead, Long Live Streams](https://www.youtube.com/watch?v=I32hmY4diFY) by Neha Narkhede
 * [Developing Real-Time Data Pipelines with Apache Kafka](https://www.youtube.com/watch?v=GRPLRONVDWY)
 * [Spring For Apache Kafka SpringOne Platform 2016 Talk](https://www.youtube.com/watch?v=wo-aZ3ITLYU)
