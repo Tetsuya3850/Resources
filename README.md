@@ -41,6 +41,7 @@
 * [Spring Guides : Accessing Data with JPA](https://spring.io/guides/gs/accessing-data-jpa/)
 * [Spring Guides : Accessing data with MySQL](https://spring.io/guides/gs/accessing-data-mysql/)
 * [JPA beyond copy paste by Jakub Kubrynski](https://www.youtube.com/watch?v=EZwpOLCfuq4)
+* [AWS re:Invent 2018: Deep Dive on Amazon Aurora with MySQL Compatibility (DAT304-R1)](https://m.youtube.com/watch?v=U42mC_iKSBg)
 
 ### Redis
 * [Redis Documentation](https://redis.io/)
