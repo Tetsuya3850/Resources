@@ -36,6 +36,7 @@
 * [MySQL 8.0 Reference Manual](https://dev.mysql.com/doc/refman/8.0/en/)
 * [High Performance MySQL: Proven Strategies for Operating at Scale](https://www.amazon.com/High-Performance-MySQL-Strategies-Operating-dp-1492080519/dp/1492080519/)
 * [Aurora User Guide](https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/CHAP_AuroraOverview.html)
+* [TiDB Developer Guide](https://docs.pingcap.com/tidb/stable/dev-guide-overview)
 * [AWS re:Invent 2018: Deep Dive on Amazon Aurora with MySQL Compatibility (DAT304-R1)](https://m.youtube.com/watch?v=U42mC_iKSBg)
 * [Java Persistence with Hibernate](https://www.amazon.com/Java-Persistence-Hibernate-Christian-Bauer/dp/1617290459)
 * [High-Performance Java Persistence](https://www.amazon.com/High-Performance-Java-Persistence-Vlad-Mihalcea/dp/973022823X)
