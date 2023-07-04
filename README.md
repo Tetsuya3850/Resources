@@ -32,12 +32,20 @@
 * [Spring Cloud Stream Reference Documentation Overview](https://docs.spring.io/spring-cloud-stream/docs/3.1.3/reference/html/spring-cloud-stream.html)
 * [Spring Cloud Stream Kafka Binder Reference Guide](https://docs.spring.io/spring-cloud-stream-binder-kafka/docs/3.1.3/reference/html/spring-cloud-stream-binder-kafka.html)
 
-### SQL
+### RDS
 * [MySQL 8.0 Reference Manual](https://dev.mysql.com/doc/refman/8.0/en/)
-* [High Performance MySQL: Proven Strategies for Operating at Scale](https://www.amazon.com/High-Performance-MySQL-Strategies-Operating-dp-1492080519/dp/1492080519/)
+* [High Performance MySQL](https://www.amazon.com/High-Performance-MySQL-Strategies-Operating-dp-1492080519/dp/1492080519/)
+* [Efficient MySQL Performance](https://www.amazon.com/Efficient-MySQL-Performance-Practices-Techniques/dp/1098105095/)
+* [MySQL Documents by Rick James](https://mysql.rjweb.org/)
+* [Jermy Cole on InnoDB](https://blog.jcole.us/innodb/)
 * [Aurora User Guide](https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/CHAP_AuroraOverview.html)
-* [TiDB Developer Guide](https://docs.pingcap.com/tidb/stable/dev-guide-overview)
+* [Planning I/O in Amazon Aurora](https://aws.amazon.com/jp/blogs/database/planning-i-o-in-amazon-aurora/)
+* [Hyperscaling Aurora MySQL-Compatible to handle sudden traffic growth](https://docs.aws.amazon.com/prescriptive-guidance/latest/hyperscale-aurora-mysql/introduction.html)
+* [Amazon Aurora: Design considerations for high throughput cloud-native relational databases](https://www.amazon.science/publications/amazon-aurora-design-considerations-for-high-throughput-cloud-native-relational-databases)
 * [AWS re:Invent 2018: Deep Dive on Amazon Aurora with MySQL Compatibility (DAT304-R1)](https://m.youtube.com/watch?v=U42mC_iKSBg)
+* [AWS re:Invent 2019: [REPEAT 1] Amazon Aurora storage demystified: How it all works (DAT309-R1)](https://www.youtube.com/watch?v=DrtwAOND1Pc)
+* [AWS re:Invent 2022 - Deep dive into Amazon Aurora and its innovations (DAT326)](https://www.youtube.com/watch?v=pzZydB78Eyc)
+* [TiDB Developer Guide](https://docs.pingcap.com/tidb/stable/dev-guide-overview)
 * [Java Persistence with Hibernate](https://www.amazon.com/Java-Persistence-Hibernate-Christian-Bauer/dp/1617290459)
 * [High-Performance Java Persistence](https://www.amazon.com/High-Performance-Java-Persistence-Vlad-Mihalcea/dp/973022823X)
 * [JPA beyond copy paste by Jakub Kubrynski](https://www.youtube.com/watch?v=EZwpOLCfuq4)
