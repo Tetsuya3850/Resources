@@ -51,6 +51,8 @@
 * [JPA beyond copy paste by Jakub Kubrynski](https://www.youtube.com/watch?v=EZwpOLCfuq4)
 
 ### Redis
+* [Top 5 Redis Use Cases](https://www.youtube.com/watch?v=a4yX7RUgTxI)
+
 * [Redis Documentation](https://redis.io/)
 * [Redis Data Structures for Non-Redis Users](https://www.youtube.com/watch?v=ELk_W9BBTDU) by Alvin Richards
 * [Spring Data Redis Documentation](https://spring.io/projects/spring-data-redis)
