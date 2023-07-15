@@ -52,6 +52,7 @@
 
 ### Redis
 * [Top 5 Redis Use Cases](https://www.youtube.com/watch?v=a4yX7RUgTxI)
+* [AWS re:Invent 2020: Beyond caching: Advanced design patterns in Redis](https://m.youtube.com/watch?v=2WkJeofqIJg&pp=ygUFUmVkaXM%3D)
 
 * [Redis Documentation](https://redis.io/)
 * [Redis Data Structures for Non-Redis Users](https://www.youtube.com/watch?v=ELk_W9BBTDU) by Alvin Richards
