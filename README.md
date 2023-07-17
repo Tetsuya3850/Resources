@@ -51,11 +51,11 @@
 * [JPA beyond copy paste by Jakub Kubrynski](https://www.youtube.com/watch?v=EZwpOLCfuq4)
 
 ### Redis
+* [Redis Data Structures for Non-Redis Users](https://www.youtube.com/watch?v=ELk_W9BBTDU) by Alvin Richards
 * [Top 5 Redis Use Cases](https://www.youtube.com/watch?v=a4yX7RUgTxI)
 * [AWS re:Invent 2020: Beyond caching: Advanced design patterns in Redis](https://m.youtube.com/watch?v=2WkJeofqIJg&pp=ygUFUmVkaXM%3D)
 
 * [Redis Documentation](https://redis.io/)
-* [Redis Data Structures for Non-Redis Users](https://www.youtube.com/watch?v=ELk_W9BBTDU) by Alvin Richards
 * [Spring Data Redis Documentation](https://spring.io/projects/spring-data-redis)
 * [Spring Guides : Caching Data with Spring](https://spring.io/guides/gs/caching/)
 * [Spring Boot Documentation : Cacheing](https://docs.spring.io/spring-boot/docs/current/reference/html/spring-boot-features.html#boot-features-caching)
