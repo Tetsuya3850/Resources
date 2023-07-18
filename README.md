@@ -51,18 +51,11 @@
 * [JPA beyond copy paste by Jakub Kubrynski](https://www.youtube.com/watch?v=EZwpOLCfuq4)
 
 ### Redis
-* [Redis Data Structures for Non-Redis Users](https://www.youtube.com/watch?v=ELk_W9BBTDU) by Alvin Richards
+* [Redis Data Types](https://www.youtube.com/watch?v=7CUt4yWeRQE&list=PL83Wfqi-zYZEnzA9nguVbC-USbBIlRG0y&index=3)
+* [Redis Data Structures for Non-Redis Users](https://www.youtube.com/watch?v=ELk_W9BBTDU)
 * [Top 5 Redis Use Cases](https://www.youtube.com/watch?v=a4yX7RUgTxI)
+* [AWS re:Invent 2019: Supercharge your real-time apps with Amazon ElastiCache (DAT208)](https://www.youtube.com/watch?v=v0GfpL5jfns)
 * [AWS re:Invent 2020: Beyond caching: Advanced design patterns in Redis](https://m.youtube.com/watch?v=2WkJeofqIJg&pp=ygUFUmVkaXM%3D)
-
-* [Redis Documentation](https://redis.io/)
-* [Spring Data Redis Documentation](https://spring.io/projects/spring-data-redis)
-* [Spring Guides : Caching Data with Spring](https://spring.io/guides/gs/caching/)
-* [Spring Boot Documentation : Cacheing](https://docs.spring.io/spring-boot/docs/current/reference/html/spring-boot-features.html#boot-features-caching)
-* [Spring Framework Documentation : Cache Abstraction](https://docs.spring.io/spring-framework/docs/current/reference/html/integration.html#cache)
-* [Next Level Redis With Spring Data](https://www.youtube.com/watch?v=ctfDs7M35Ho) by Christoph Strobl
-* [Spring Tips: Redis](https://www.youtube.com/watch?v=_M8xoagybzU) by Josh Long
-* [Caching with Spring: Advanced Topics and Best Practices](https://www.youtube.com/watch?v=SpQzWtqulhM) by Michael Plöd
 
 ### Kafka
 * [Kafka: The Definitive Guide: Real-Time Data and Stream Processing at Scale](https://www.amazon.com/Kafka-Definitive-Real-Time-Stream-Processing/dp/1491936169/) by Neha Narkhede 
