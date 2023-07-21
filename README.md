@@ -42,6 +42,7 @@
 * [Planning I/O in Amazon Aurora](https://aws.amazon.com/jp/blogs/database/planning-i-o-in-amazon-aurora/)
 * [Hyperscaling Aurora MySQL-Compatible to handle sudden traffic growth](https://docs.aws.amazon.com/prescriptive-guidance/latest/hyperscale-aurora-mysql/introduction.html)
 * [Amazon Aurora: Design considerations for high throughput cloud-native relational databases](https://www.amazon.science/publications/amazon-aurora-design-considerations-for-high-throughput-cloud-native-relational-databases)
+* [Amazon Aurora: On avoiding distributed consensus for I/Os, commits, and membership changes](https://www.amazon.science/publications/amazon-aurora-on-avoiding-distributed-consensus-for-i-os-commits-and-membership-changes)
 * [AWS re:Invent 2018: Deep Dive on Amazon Aurora with MySQL Compatibility (DAT304-R1)](https://m.youtube.com/watch?v=U42mC_iKSBg)
 * [AWS re:Invent 2019: [REPEAT 1] Amazon Aurora storage demystified: How it all works (DAT309-R1)](https://www.youtube.com/watch?v=DrtwAOND1Pc)
 * [AWS re:Invent 2022 - Deep dive into Amazon Aurora and its innovations (DAT326)](https://www.youtube.com/watch?v=pzZydB78Eyc)
