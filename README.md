@@ -58,6 +58,7 @@
 * [AWS re:Invent 2019: Supercharge your real-time apps with Amazon ElastiCache (DAT208)](https://www.youtube.com/watch?v=v0GfpL5jfns)
 * [AWS re:Invent 2020: Beyond caching: Advanced design patterns in Redis](https://m.youtube.com/watch?v=2WkJeofqIJg&pp=ygUFUmVkaXM%3D)
 * [RedisConf 2019: Deep Dive into Redis Replication](https://www.youtube.com/watch?v=esbRryo0Ty8)
+* [Memory Management Made Simple](https://www.youtube.com/watch?v=qLTXamN5mL4)
 
 ### Kafka
 * [Kafka: The Definitive Guide: Real-Time Data and Stream Processing at Scale](https://www.amazon.com/Kafka-Definitive-Real-Time-Stream-Processing/dp/1491936169/) by Neha Narkhede 
