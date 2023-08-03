@@ -52,6 +52,7 @@
 * [JPA beyond copy paste by Jakub Kubrynski](https://www.youtube.com/watch?v=EZwpOLCfuq4)
 
 ### Redis
+* [RU301 Running Redis at Scale](https://university.redis.com/courses/ru301/)
 * [RU330 Redis Security](https://university.redis.com/courses/ru330/)
 * [Redis Data Structures for Non-Redis Users](https://www.youtube.com/watch?v=ELk_W9BBTDU)
 * [Top 5 Redis Use Cases](https://www.youtube.com/watch?v=a4yX7RUgTxI)
