@@ -53,7 +53,6 @@
 
 ### Redis
 * [RU330 Redis Security](https://university.redis.com/courses/ru330/)
-* [Redis Data Types](https://www.youtube.com/watch?v=7CUt4yWeRQE&list=PL83Wfqi-zYZEnzA9nguVbC-USbBIlRG0y&index=3)
 * [Redis Data Structures for Non-Redis Users](https://www.youtube.com/watch?v=ELk_W9BBTDU)
 * [Top 5 Redis Use Cases](https://www.youtube.com/watch?v=a4yX7RUgTxI)
 * [RedisConf 2019: Deep Dive into Redis Replication](https://www.youtube.com/watch?v=esbRryo0Ty8)
