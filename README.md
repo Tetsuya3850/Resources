@@ -47,9 +47,6 @@
 * [AWS re:Invent 2019: [REPEAT 1] Amazon Aurora storage demystified: How it all works (DAT309-R1)](https://www.youtube.com/watch?v=DrtwAOND1Pc)
 * [AWS re:Invent 2022 - Deep dive into Amazon Aurora and its innovations (DAT326)](https://www.youtube.com/watch?v=pzZydB78Eyc)
 * [TiDB Developer Guide](https://docs.pingcap.com/tidb/stable/dev-guide-overview)
-* [Java Persistence with Hibernate](https://www.amazon.com/Java-Persistence-Hibernate-Christian-Bauer/dp/1617290459)
-* [High-Performance Java Persistence](https://www.amazon.com/High-Performance-Java-Persistence-Vlad-Mihalcea/dp/973022823X)
-* [JPA beyond copy paste by Jakub Kubrynski](https://www.youtube.com/watch?v=EZwpOLCfuq4)
 
 ### Redis
 * [RU301 Running Redis at Scale](https://university.redis.com/courses/ru301/)
