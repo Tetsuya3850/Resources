@@ -58,6 +58,7 @@
 * [Top 5 Redis Use Cases](https://www.youtube.com/watch?v=a4yX7RUgTxI)
 * [RedisConf 2019: Deep Dive into Redis Replication](https://www.youtube.com/watch?v=esbRryo0Ty8)
 * [Memory Management Made Simple](https://www.youtube.com/watch?v=qLTXamN5mL4)
+* [Amazon ElastiCache for Redis User Guide](https://docs.aws.amazon.com/AmazonElastiCache/latest/red-ug/WhatIs.html)
 * [Amazon ElastiCache: In-memory datastore fundamentals, use cases and examples](https://pages.awscloud.com/GLB-WBNR-AWS-OTT-2021_LP_0003-DAT_AmazonElastiCache.html)
 * [AWS re:Invent 2019: Supercharge your real-time apps with Amazon ElastiCache (DAT208)](https://www.youtube.com/watch?v=v0GfpL5jfns)
 * [AWS re:Invent 2020: Beyond caching: Advanced design patterns in Redis](https://m.youtube.com/watch?v=2WkJeofqIJg&pp=ygUFUmVkaXM%3D)
