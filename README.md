@@ -48,6 +48,18 @@
 * [AWS re:Invent 2022 - Deep dive into Amazon Aurora and its innovations (DAT326)](https://www.youtube.com/watch?v=pzZydB78Eyc)
 * [TiDB Developer Guide](https://docs.pingcap.com/tidb/stable/dev-guide-overview)
 
+### DynamoDB
+* [Amazon DynamoDB Developer Guide](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Introduction.html)
+* [The DynamoDB Book](https://www.dynamodbbook.com/)
+* [Amazon DynamoDB: A scalable, predictably performant, and fully managed NoSQL database service](https://www.amazon.science/publications/amazon-dynamodb-a-scalable-predictably-performant-and-fully-managed-nosql-database-service)
+* [Dynamo: Amazon’s highly available key-value store](https://www.amazon.science/publications/dynamo-amazons-highly-available-key-value-store)
+* [AWS Prescriptive Guidance Using Amazon DynamoDB global tables](https://docs.aws.amazon.com/prescriptive-guidance/latest/dynamodb-global-tables/introduction.html)
+* [Simulating Amazon DynamoDB unique constraints using transactions](https://aws.amazon.com/jp/blogs/database/simulating-amazon-dynamodb-unique-constraints-using-transactions/)
+* [AWS re:Invent 2018: Amazon DynamoDB Deep Dive: Advanced Design Patterns for DynamoDB (DAT401)](https://www.youtube.com/watch?v=HaEPXoXVf2k)
+* [AWS re:Invent 2019: Data modeling with Amazon DynamoDB (CMY304)](https://www.youtube.com/watch?v=DIQVJqiSUkE)
+* [AWS re:Invent 2018: Amazon DynamoDB Under the Hood: How We Built a Hyper-Scale Database (DAT321)](https://www.youtube.com/watch?v=yvBR71D0nAQ)
+* [Building Modern Apps Using Amazon DynamoDB Transactions](https://m.youtube.com/watch?v=IgFvWaSQaeg)
+
 ### Redis
 * [RU301 Running Redis at Scale](https://university.redis.com/courses/ru301/)
 * [RU330 Redis Security](https://university.redis.com/courses/ru330/)
@@ -68,14 +80,6 @@
 * [Spring For Apache Kafka SpringOne Platform 2016 Talk](https://www.youtube.com/watch?v=wo-aZ3ITLYU)
 * [Spring Tips: Spring Cloud Stream Kafka Streams](https://www.youtube.com/watch?v=YPDzcmqwCNo) by Josh Long
 * [Streaming with Spring Cloud Stream and Apache Kafka](https://www.youtube.com/watch?v=5Mgni6AYnWg)
-
-### DynamoDB
-* [Amazon DynamoDB Developer Guide](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Introduction.html)
-* [The DynamoDB Book](https://www.dynamodbbook.com/)
-* [AWS re:Invent 2018: Amazon DynamoDB Deep Dive: Advanced Design Patterns for DynamoDB (DAT401)](https://www.youtube.com/watch?v=HaEPXoXVf2k)
-* [AWS re:Invent 2019: Data modeling with Amazon DynamoDB (CMY304)](https://www.youtube.com/watch?v=DIQVJqiSUkE)
-* [AWS re:Invent 2018: Amazon DynamoDB Under the Hood: How We Built a Hyper-Scale Database (DAT321)](https://www.youtube.com/watch?v=yvBR71D0nAQ)
-* [Building Modern Apps Using Amazon DynamoDB Transactions](https://m.youtube.com/watch?v=IgFvWaSQaeg)
 
 ### ElasticSearch
 
