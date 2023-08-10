@@ -61,6 +61,9 @@
 * [Building Modern Apps Using Amazon DynamoDB Transactions](https://m.youtube.com/watch?v=IgFvWaSQaeg)
 
 ### Redis
+* [Redis Documentation](https://redis.io/docs/)
+* [RU101 Introduction to Redis Data Structures](https://university.redis.com/courses/ru101/)
+* [RU102J Redis for Java Developers](https://university.redis.com/courses/ru102j/)
 * [RU301 Running Redis at Scale](https://university.redis.com/courses/ru301/)
 * [RU330 Redis Security](https://university.redis.com/courses/ru330/)
 * [Redis Data Structures for Non-Redis Users](https://www.youtube.com/watch?v=ELk_W9BBTDU)
