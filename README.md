@@ -14,12 +14,6 @@
 * [Gradle Tutorials and Guides](https://gradle.org/guides/)
 * [IntelliJ IDEA Video tutorials](https://www.jetbrains.com/idea/documentation/)
 
-
-### Kotlin
-* [Kotlin docs](https://kotlinlang.org/docs/home.html)
-* [Spring Guides : Building web applications with Spring Boot and Kotlin](https://spring.io/guides/tutorials/spring-boot-kotlin/)
-* [Spring Framework Reference : Kotlin Language Support](https://docs.spring.io/spring-framework/docs/current/reference/html/languages.html#kotlin)
-
 ### Spring
 * [Spring Guides](https://spring.io/guides)
 * [Getting Started with Spring Boot](https://www.youtube.com/watch?v=sbPSjI4tt10) by Josh Long
@@ -88,15 +82,11 @@
 
 ### Cassandra
 
-### Hadoop/Spark/Airflow
-
 ### BigQuery
 * [BigQuery Guides](https://cloud.google.com/bigquery/docs/introduction)
 * [BigQuery SQL Reference](https://cloud.google.com/bigquery/docs/reference/standard-sql/lexical)
 * [Control costs in BigQuery](https://cloud.google.com/bigquery/docs/best-practices-costs)
 * [Google BigQuery: The Definitive Guide](https://www.amazon.com/Google-BigQuery-Definitive-Warehousing-Analytics/dp/1492044466/)
-
-### AWS Lambda
 
 ### Amazon S3
 
