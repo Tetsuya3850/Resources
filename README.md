@@ -41,6 +41,7 @@
 * [AWS re:Invent 2019: [REPEAT 1] Amazon Aurora storage demystified: How it all works (DAT309-R1)](https://www.youtube.com/watch?v=DrtwAOND1Pc)
 * [AWS re:Invent 2022 - Deep dive into Amazon Aurora and its innovations (DAT326)](https://www.youtube.com/watch?v=pzZydB78Eyc)
 * [TiDB Developer Guide](https://docs.pingcap.com/tidb/stable/dev-guide-overview)
+* [TiDB: A Raft-based HTAP Database](https://www.vldb.org/pvldb/vol13/p3072-huang.pdf)
 
 ### DynamoDB
 * [Amazon DynamoDB Developer Guide](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Introduction.html)
