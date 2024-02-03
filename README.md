@@ -43,6 +43,7 @@
 * [TiDB Docs](https://docs.pingcap.com/tidb/stable/overview)
 * [TiDB Cloud Docs](https://docs.pingcap.com/tidbcloud/tidb-cloud-intro)
 * [TiKV Deep Dive](https://tikv.org/deep-dive/introduction/)
+* TiDB Intro Blog [Part 1](https://www.pingcap.com/blog/tidb-internal-data-storage/), [Part 2](https://www.pingcap.com/blog/tidb-internal-computing/), [Part 3](https://www.pingcap.com/blog/tidb-internal-scheduling/)
 * [TiDB: A Raft-based HTAP Database](https://www.vldb.org/pvldb/vol13/p3072-huang.pdf)
 * [Building a Large-scale Distributed Storage System Based on Raft](https://tikv.org/blog/building-distributed-storage-system-on-raft)
 * [Large-scale Incremental Processing Using Distributed Transactions and Notifications](https://research.google/pubs/large-scale-incremental-processing-using-distributed-transactions-and-notifications/)
