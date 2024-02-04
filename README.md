@@ -49,6 +49,10 @@
 * [Building a Large-scale Distributed Storage System Based on Raft](https://tikv.org/blog/building-distributed-storage-system-on-raft)
 * [Large-scale Incremental Processing Using Distributed Transactions and Notifications](https://research.google/pubs/large-scale-incremental-processing-using-distributed-transactions-and-notifications/)
 * [F1: A Distributed SQL Database That Scales](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/41344.pdf)
+* [Building a Database from Scratch: the Evolution of TiDB](https://www.youtube.com/watch?v=BPnv21E0W1w)
+* [TiDB: On the Long Journey of HTAP](https://www.youtube.com/watch?v=mmzoSkEhYrA)
+* [How TiDB Keeps Performance Predictable under a High Load](https://www.youtube.com/watch?v=tzA4yHeSzZQ)
+* [The Design of TiDB's Columnar Storage Engine, TiFlash](https://www.youtube.com/watch?v=KXN6XsQx2b0)
 * [TiDB Customer Story of Square](https://www.youtube.com/watch?v=TjqL50qzy3A)
 * [Scaling SQL at Flipkart with TiDB](https://www.youtube.com/watch?v=wUrNVYRUCSk)
 
