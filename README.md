@@ -45,6 +45,7 @@
 * [TiKV Deep Dive](https://tikv.org/deep-dive/introduction/)
 * TiDB Introduction Blog [Part 1](https://www.pingcap.com/blog/tidb-internal-data-storage/), [Part 2](https://www.pingcap.com/blog/tidb-internal-computing/), [Part 3](https://www.pingcap.com/blog/tidb-internal-scheduling/)
 * [Introduction to TiDB](https://eng.edu.pingcap.com/learner/courseinfo/id:203)
+* [TiDB Essentials](https://eng.edu.pingcap.com/learner/courseinfo/id:190)
 * [TiDB: A Raft-based HTAP Database](https://www.vldb.org/pvldb/vol13/p3072-huang.pdf)
 * [Building a Large-scale Distributed Storage System Based on Raft](https://tikv.org/blog/building-distributed-storage-system-on-raft)
 * [Large-scale Incremental Processing Using Distributed Transactions and Notifications](https://research.google/pubs/large-scale-incremental-processing-using-distributed-transactions-and-notifications/)
@@ -55,6 +56,7 @@
 * [The Design of TiDB's Columnar Storage Engine, TiFlash](https://www.youtube.com/watch?v=KXN6XsQx2b0)
 * [TiDB Customer Story of Square](https://www.youtube.com/watch?v=TjqL50qzy3A)
 * [Scaling SQL at Flipkart with TiDB](https://www.youtube.com/watch?v=wUrNVYRUCSk)
+* [A Critique of ANSI SQL Isolation Levels](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/tr-95-51.pdf)
 
 ### DynamoDB
 * [Amazon DynamoDB Developer Guide](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Introduction.html)
