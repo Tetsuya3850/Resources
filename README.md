@@ -57,6 +57,7 @@
 * [TiDB Customer Story of Square](https://www.youtube.com/watch?v=TjqL50qzy3A)
 * [Scaling SQL at Flipkart with TiDB](https://www.youtube.com/watch?v=wUrNVYRUCSk)
 * [A Critique of ANSI SQL Isolation Levels](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/tr-95-51.pdf)
+* [Spanner: Google's Globally-Distributed Database](https://research.google/pubs/spanner-googles-globally-distributed-database-2/)
 
 ### DynamoDB
 * [Amazon DynamoDB Developer Guide](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Introduction.html)
