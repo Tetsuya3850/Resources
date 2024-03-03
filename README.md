@@ -54,6 +54,7 @@
 * [TiDB: On the Long Journey of HTAP](https://www.youtube.com/watch?v=mmzoSkEhYrA)
 * [How TiDB Keeps Performance Predictable under a High Load](https://www.youtube.com/watch?v=tzA4yHeSzZQ)
 * [The Design of TiDB's Columnar Storage Engine, TiFlash](https://www.youtube.com/watch?v=KXN6XsQx2b0)
+* [Conquering Challenges in Building TiCDC](https://www.youtube.com/watch?v=DVUEGbJOg_0)
 * [TiDB Customer Story of Square](https://www.youtube.com/watch?v=TjqL50qzy3A)
 * [Scaling SQL at Flipkart with TiDB](https://www.youtube.com/watch?v=wUrNVYRUCSk)
 * [A Critique of ANSI SQL Isolation Levels](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/tr-95-51.pdf)
