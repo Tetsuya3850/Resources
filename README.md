@@ -80,6 +80,7 @@
 * [RU330 Redis Security](https://university.redis.com/courses/ru330/)
 * [Redis Data Structures for Non-Redis Users](https://www.youtube.com/watch?v=ELk_W9BBTDU)
 * [Top 5 Redis Use Cases](https://www.youtube.com/watch?v=a4yX7RUgTxI)
+* [Caching Pitfalls Every Developer Should Know](https://www.youtube.com/watch?v=wh98s0XhMmQ)
 * [RedisConf 2019: Deep Dive into Redis Replication](https://www.youtube.com/watch?v=esbRryo0Ty8)
 * [Memory Management Made Simple](https://www.youtube.com/watch?v=qLTXamN5mL4)
 * [Amazon ElastiCache for Redis User Guide](https://docs.aws.amazon.com/AmazonElastiCache/latest/red-ug/WhatIs.html)
