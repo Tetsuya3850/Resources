@@ -136,3 +136,4 @@
 
 ### Computer Science
 * [Process vs Thread](https://www.youtube.com/watch?v=4rLW7zg21gI)
+* [What happens when you type a URL into your browser?](https://www.youtube.com/watch?v=AlkDbnbv7dk)
