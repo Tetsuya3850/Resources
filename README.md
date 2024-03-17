@@ -133,3 +133,6 @@
 * [High Scalability](http://highscalability.com/)
 * [CS75 (Summer 2012) Lecture 9 Scalability Harvard Web Development David Malan](https://www.youtube.com/watch?v=-W9F__D3oY4&list=PLmhRNZyYVpDmLpaVQm3mK5PY5KB_4hLjE&index=10)
 * [How We've Scaled Dropbox](https://www.youtube.com/watch?v=PE4gwstWhmc)
+
+### Computer Science
+* [Process vs Thread](https://www.youtube.com/watch?v=4rLW7zg21gI)
