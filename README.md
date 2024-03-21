@@ -129,7 +129,7 @@
 * [Saga distributed transactions pattern](https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/saga/saga)
 * [Applying the Saga Pattern](https://www.youtube.com/watch?v=xDuwrtwYHu8)
 * [Using sagas to maintain data consistency in a microservice architecture](https://www.youtube.com/watch?v=YPbGW3Fnmbc)
-* [Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview)
+* [Grokking Modern System Design Interview for Engineers & Managers](https://www.educative.io/courses/grokking-modern-system-design-interview-for-engineers-managers)
 * [High Scalability](http://highscalability.com/)
 * [CS75 (Summer 2012) Lecture 9 Scalability Harvard Web Development David Malan](https://www.youtube.com/watch?v=-W9F__D3oY4&list=PLmhRNZyYVpDmLpaVQm3mK5PY5KB_4hLjE&index=10)
 * [How We've Scaled Dropbox](https://www.youtube.com/watch?v=PE4gwstWhmc)
