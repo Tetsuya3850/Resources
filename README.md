@@ -108,6 +108,7 @@
 * [Google BigQuery: The Definitive Guide](https://www.amazon.com/Google-BigQuery-Definitive-Warehousing-Analytics/dp/1492044466/)
 
 ### Amazon S3
+* [AWS re:Invent 2023 - Dive deep on Amazon S3 (STG314)](https://www.youtube.com/watch?v=sYDJYqvNeXU)
 
 ### Kubernetes
 * [Kubernetes Documentation](https://kubernetes.io/docs/home/)
