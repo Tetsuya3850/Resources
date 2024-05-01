@@ -98,6 +98,7 @@
 * [Streaming with Spring Cloud Stream and Apache Kafka](https://www.youtube.com/watch?v=5Mgni6AYnWg)
 
 ### ElasticSearch
+* [ElasticSearch Guide](https://www.elastic.co/guide/en/elasticsearch/reference/current/index.html)
 * [OpenSearch Docs](https://opensearch.org/docs/latest/about/)
 * [OpenSearch AWS Docs](https://docs.aws.amazon.com/opensearch-service/latest/developerguide/what-is.html)
 
