@@ -126,7 +126,6 @@
 * [LeetCode](https://leetcode.com/)
 * [NeetCode](https://neetcode.io/)
 * [GeeksforGeeks](https://www.geeksforgeeks.org/)
-* [Top Coder Data Science Tutorials](https://www.topcoder.com/community/data-science/data-science-tutorials/)
 
 ### System Design
 * [Designing Data-Intensive Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
@@ -137,15 +136,16 @@
 * [Grokking Modern System Design Interview for Engineers & Managers](https://www.educative.io/courses/grokking-modern-system-design-interview-for-engineers-managers)
 * [High Scalability](http://highscalability.com/)
 * [CS75 (Summer 2012) Lecture 9 Scalability Harvard Web Development David Malan](https://www.youtube.com/watch?v=-W9F__D3oY4&list=PLmhRNZyYVpDmLpaVQm3mK5PY5KB_4hLjE&index=10)
-* [The Seven Most Classic Patterns for Distributed Transactions](https://medium.com/@dongfuye/the-seven-most-classic-solutions-for-distributed-transaction-management-3f915f331e15)
-* [Saga distributed transactions pattern](https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/saga/saga)
-* [Applying the Saga Pattern](https://www.youtube.com/watch?v=xDuwrtwYHu8)
-* [Using sagas to maintain data consistency in a microservice architecture](https://www.youtube.com/watch?v=YPbGW3Fnmbc)
 * [How We've Scaled Dropbox](https://www.youtube.com/watch?v=PE4gwstWhmc)
 
-## OO Design
+### OO Design
 * [Head First Design Patterns](https://www.amazon.com/Head-First-Design-Patterns-Object-Oriented/dp/149207800X)
 
 ### Computer Science
 * [Process vs Thread](https://www.youtube.com/watch?v=4rLW7zg21gI)
 
+### Transaction
+* [The Seven Most Classic Patterns for Distributed Transactions](https://medium.com/@dongfuye/the-seven-most-classic-solutions-for-distributed-transaction-management-3f915f331e15)
+* [Saga distributed transactions pattern](https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/saga/saga)
+* [Applying the Saga Pattern](https://www.youtube.com/watch?v=xDuwrtwYHu8)
+* [Using sagas to maintain data consistency in a microservice architecture](https://www.youtube.com/watch?v=YPbGW3Fnmbc)
