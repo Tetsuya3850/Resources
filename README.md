@@ -114,8 +114,8 @@
 * [S3 AWS Docs](https://docs.aws.amazon.com/AmazonS3/latest/userguide/optimizing-performance-design-patterns.html)
 * [S3 Glacier AWS Docs](https://docs.aws.amazon.com/amazonglacier/latest/dev/introduction.html)
 * [AWS re:Invent 2023 - Dive deep on Amazon S3 (STG314)](https://www.youtube.com/watch?v=sYDJYqvNeXU)
-* [AWS re:Invent 2022 - Better, faster, and lower-cost storage: Optimizing Amazon S3 (STG202)](https://youtu.be/6ZIh5fb5nWw?feature=shared)
 * [AWS re:Invent 2022 - Deep dive on Amazon S3 (STG203)](https://m.youtube.com/watch?feature=shared&v=v3HfUNQ0JOE)
+* [AWS re:Invent 2022 - Better, faster, and lower-cost storage: Optimizing Amazon S3 (STG202)](https://youtu.be/6ZIh5fb5nWw?feature=shared)
 
 ### Kubernetes
 * [Kubernetes Documentation](https://kubernetes.io/docs/home/)
