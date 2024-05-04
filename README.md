@@ -120,11 +120,13 @@
 ### Kubernetes
 * [Kubernetes Documentation](https://kubernetes.io/docs/home/)
 
-### Data Structures and Algorithms
+### Software Engineer Interview
 * [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-6th-Edition/dp/0984782850)
 * [Elements of Programming Interview in Java](https://www.amazon.com/Elements-Programming-Interviews-Java-Insiders/dp/1517671272)
-* [LeetCode](https://leetcode.com/)
 * [NeetCode](https://neetcode.io/)
+
+### Data Structures and Algorithms
+* [LeetCode](https://leetcode.com/)
 * [GeeksforGeeks](https://www.geeksforgeeks.org/)
 
 ### System Design
