@@ -135,7 +135,7 @@
 * [System Design Interview – An Insider's Guide: Volume 2](https://www.amazon.com/System-Design-Interview-Insiders-Guide/dp/1736049119/)
 * [ByteByteGo YouTube](https://www.youtube.com/@ByteByteGo/videos)
 * [system-design-primer](https://github.com/donnemartin/system-design-primer)
-* [Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview)
+* [Grokking the System Design Interview](https://www.designgurus.io/course/grokking-the-system-design-interview)
 * [Grokking Modern System Design Interview for Engineers & Managers](https://www.educative.io/courses/grokking-modern-system-design-interview-for-engineers-managers)
 * [High Scalability](http://highscalability.com/)
 * [CS75 (Summer 2012) Lecture 9 Scalability Harvard Web Development David Malan](https://www.youtube.com/watch?v=-W9F__D3oY4&list=PLmhRNZyYVpDmLpaVQm3mK5PY5KB_4hLjE&index=10)
