@@ -148,6 +148,7 @@
 * [Process vs Thread](https://www.youtube.com/watch?v=4rLW7zg21gI)
 
 ### Transaction
+* [Transactions and Concurrency Control Patterns by Vlad Mihalcea](https://www.youtube.com/watch?v=onYjxRcToto)
 * [The Seven Most Classic Patterns for Distributed Transactions](https://medium.com/@dongfuye/the-seven-most-classic-solutions-for-distributed-transaction-management-3f915f331e15)
 * [Saga distributed transactions pattern](https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/saga/saga)
 * [Applying the Saga Pattern](https://www.youtube.com/watch?v=xDuwrtwYHu8)
