@@ -135,6 +135,7 @@
 * [System Design Interview – An Insider's Guide: Volume 2](https://www.amazon.com/System-Design-Interview-Insiders-Guide/dp/1736049119/)
 * [ByteByteGo YouTube](https://www.youtube.com/@ByteByteGo/videos)
 * [system-design-primer](https://github.com/donnemartin/system-design-primer)
+* [A Senior Engineer's Guide to the System Design Interview](https://interviewing.io/guides/system-design-interview)
 * [Grokking the System Design Interview](https://www.designgurus.io/course/grokking-the-system-design-interview)
 * [Grokking Modern System Design Interview for Engineers & Managers](https://www.educative.io/courses/grokking-modern-system-design-interview-for-engineers-managers)
 * [High Scalability](http://highscalability.com/)
