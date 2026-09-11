@@ -124,6 +124,7 @@
 * [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-6th-Edition/dp/0984782850)
 * [Elements of Programming Interview in Java](https://www.amazon.com/Elements-Programming-Interviews-Java-Insiders/dp/1517671272)
 * [NeetCode](https://neetcode.io/)
+* [InterviewLegend](https://interviewlegend.com) - company-specific coding, system design, and behavioral interview prep
 
 ### Data Structures and Algorithms
 * [LeetCode](https://leetcode.com/)
